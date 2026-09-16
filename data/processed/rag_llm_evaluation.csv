@@ -1,163 +1,167 @@
 id,query,language,domain,llm_only,rag,top_similarity,mean_similarity
 hotel_en,The hotel room was very clean,en,hotel,"{
     ""main_finding"": ""The hotel room was very clean"",
-    ""common_opinion"": ""The cleanliness of the room is satisfactory"",
+    ""common_opinion"": ""Positive assessment of cleanliness"",
     ""negative_signals"": [],
     ""key_aspects"": [""cleanliness of the hotel room""],
     ""conclusion"": ""Customer expressed satisfaction with the room's cleanliness""
 }","{
-    ""main_finding"": ""The hotel rooms were consistently described as clean across multiple reviews."",
-    ""common_opinion"": ""Customers positively noted the cleanliness of the rooms."",
+    ""main_finding"": ""The hotel rooms are consistently described as clean across multiple reviews."",
+    ""common_opinion"": ""Customers positively note the cleanliness of the rooms."",
     ""negative_signals"": [],
     ""key_aspects"": [""Room cleanliness"", ""Staff friendliness""],
     ""evidence"": [
         ""Review 2: 'The rooms were clean hotel staff friendly.'"",
         ""Review 3: 'Die Zimmer waren sauber Hotelpersonal freundlich.'"",
-        ""Review 4: 'Hotel has alot of charater and the rooms were clean.'""
+        ""Review 5: 'das Hotel war sauber und die Betten waren komfortabel.'""
     ],
-    ""conclusion"": ""The hotel rooms are perceived as clean and the staff is considered friendly based on customer feedback.""
+    ""conclusion"": ""The hotel rooms are deemed very clean by customers, with additional praise for staff friendliness and overall cleanliness.""
 }",0.9247042,0.9043115
 hotel_ru,Номер в отеле был очень чистым,ru,hotel,"{
-    ""main_finding"": ""Чистота номера"",
-    ""common_opinion"": ""Позитивная"",
+    ""main_finding"": ""Cleanliness of the room"",
+    ""common_opinion"": ""Positive"",
     ""negative_signals"": [],
-    ""key_aspects"": [""Чистота"", ""Номер""],
-    ""conclusion"": ""Клиент выразил удовлетворенность уровнем чистоты номера""
+    ""key_aspects"": [""cleanliness of the room""],
+    ""conclusion"": ""Customer is satisfied with the room's cleanliness""
 }","{
-    ""main_finding"": ""Комната в отеле была чистой"",
-    ""common_opinion"": ""Комната в отеле соответствовала ожиданиям по чистоте"",
+    ""main_finding"": ""Rooms were clean"",
+    ""common_opinion"": ""Positive"",
     ""negative_signals"": [],
-    ""key_aspects"": [""Чистота номера"", ""Доброжелательный персонал""],
+    ""key_aspects"": [""Room cleanliness"", ""Staff friendliness""],
     ""evidence"": [
-        ""Отель имеет много особенностей, а номера были чистыми"",
-        ""Hotel hat viel Charakter und die Zimmer waren sauber"",
-        ""Die Zimmer waren sauber Hotelpersonal freundlich""
+        ""Отель имеет много особенностей, а номера были чистыми."",
+        ""Hotel hat viel Charakter und die Zimmer waren sauber."",
+        ""The rooms were clean hotel staff friendly .""
     ],
-    ""conclusion"": ""Отзывы подтверждают, что комната в отеле была чистой, что соответствует заявленному в запросе""
+    ""conclusion"": ""The reviews confirm that the hotel rooms were clean, aligning with the query's statement.""
 }",0.93105096,0.91281974
 hotel_de,Das Hotelzimmer war sehr sauber,de,hotel,"{
-    ""main_finding"": ""Positiver Kommentar zur Sauberkeit des Hotelzimmers"",
+    ""main_finding"": ""Das Hotelzimmer war sehr sauber"",
     ""common_opinion"": ""Positiv"",
     ""negative_signals"": [],
-    ""key_aspects"": [""Sauberkeit des Zimmers""],
-    ""conclusion"": ""Der Gast war mit der Reinheit des Hotelzimmers zufrieden.""
+    ""key_aspects"": [""Sauberkeit des Hotelzimmers""],
+    ""conclusion"": ""Der Kunde war mit der Sauberkeit des Zimmers zufrieden""
 }","{
-    ""main_finding"": ""Das Hotelzimmer wurde als sauber beschrieben."",
-    ""common_opinion"": ""Die Zimmer wurden in mehreren Bewertungen als sauber eingestuft."",
+    ""main_finding"": ""Die Hotelzimmer werden von Kunden als sauber beschrieben."",
+    ""common_opinion"": ""Sauberkeit der Zimmer wird als positives Merkmal hervorgehoben."",
     ""negative_signals"": [],
-    ""key_aspects"": [""Zimmerreinlichkeit"", ""Hotelgesamteindruck""],
+    ""key_aspects"": [""Sauberkeit der Zimmer"", ""Hotelpersonal""],
     ""evidence"": [
         ""Review 1: 'die Zimmer waren sauber'"",
         ""Review 2: 'Die Zimmer waren sauber Hotelpersonal freundlich.'"",
-        ""Review 3: 'The rooms were clean'""
+        ""Review 3: 'The rooms were clean hotel staff friendly.'""
     ],
-    ""conclusion"": ""Die Mehrheit der Bewertungen bestätigt die Sauberkeit der Hotelzimmer.""
+    ""conclusion"": ""Die Hotelzimmer werden als sauber bewertet, wobei auch das freundliche Personal positiv erwähnt wird.""
 }",0.95239323,0.9220026
 laptop_en,The laptop battery drains very quickly,en,laptop,"{
-    ""main_finding"": ""The laptop battery life is unsatisfactory."",
-    ""common_opinion"": ""Users find the battery drains faster than expected."",
-    ""negative_signals"": [""drains very quickly""],
+    ""main_finding"": ""The laptop battery drains very quickly"",
+    ""common_opinion"": ""The battery life is below expectations"",
+    ""negative_signals"": [""battery drains quickly"", ""negative sentiment""],
     ""key_aspects"": [""battery life"", ""laptop performance""],
-    ""conclusion"": ""The battery performance is a critical concern affecting user experience.""
+    ""conclusion"": ""The user is dissatisfied with the laptop's battery efficiency""
 }","{
-    ""main_finding"": ""The retrieved reviews do not directly address the issue of rapid battery drainage but mention related aspects like charger safety and battery life duration."",
-    ""common_opinion"": ""Some users report satisfactory battery life (up to 9 hours), while others note charger sparking issues."",
-    ""negative_signals"": [""Charger sparking repeatedly"", ""Potential safety concerns with charging""],
-    ""key_aspects"": [""Battery life duration"", ""Charger safety""],
+    ""main_finding"": ""No direct evidence of laptop battery draining quickly in retrieved reviews."",
+    ""common_opinion"": ""Positive mentions of long battery life (9+ hours) for some models."",
+    ""negative_signals"": [],
+    ""key_aspects"": [""Battery life duration"", ""Charger safety issues""],
     ""evidence"": [
-        ""Review 2: 'the laptop charger has sparked repeatedly.'"",
         ""Review 3: '5 pound laptop with its nine hour battery life.'"",
-        ""Review 5: 'Akkulaufzeit: ... problemlos 8 Stunden oder mehr.'""
+        ""Review 5: 'Akkulaufzeit: ... problemlos 8 Stunden oder mehr.'"",
+        ""Review 1: 'зарядное устройство для ноутбука неоднократно искрило.'""
     ],
-    ""conclusion"": ""The reviews do not provide direct evidence of rapid battery drainage but highlight charger safety and battery life as potential areas of concern.""
+    ""conclusion"": ""Reviews indicate some models have good battery life, but no direct confirmation of rapid battery drainage issues.""
 }",0.77486897,0.7499366
 laptop_ru,Батарея ноутбука быстро разряжается,ru,laptop,"{
-    ""main_finding"": ""Быстрое разряжение батареи ноутбука"",
-    ""common_opinion"": ""Пользователь выражает недовольство ограниченным сроком работы от батареи"",
-    ""negative_signals"": [""быстро разряжается""],
-    ""key_aspects"": [""эффективность батареи"", ""время работы""],
-    ""conclusion"": ""Основная жалоба связана с низкой емкостью или проблемами с зарядкой ноутбука""
+    ""main_finding"": ""Problems with battery life"",
+    ""common_opinion"": ""The battery drains quickly"",
+    ""negative_signals"": [""Battery discharge rate""],
+    ""key_aspects"": [""Battery performance""],
+    ""conclusion"": ""The laptop's battery life is a significant drawback""
 }","{
     ""main_finding"": ""Отсутствие прямых отзывов о быстром разряде батареи"",
-    ""common_opinion"": ""В отзывах упоминается длительная работа аккумулятора (до 9 часов)"",
+    ""common_opinion"": ""Большинство отзывов указывают на длительное время работы аккумулятора"",
     ""negative_signals"": [],
-    ""key_aspects"": [""Работа аккумулятора"", ""Зарядное устройство""],
+    ""key_aspects"": [""Время работы аккумулятора"", ""Зарядное устройство""],
     ""evidence"": [
-        ""5 фунтов ноутбук с девятью часами работы времени работы аккумулятора"",
-        ""Akkulaufzeit: Ich habe den Laptop noch nicht so lange, aber mit einer Ladung läuft er problemlos 8 Stunden oder mehr"",
-        ""5 pound laptop with its nine hour battery life""
+        ""Review 2: 5 фунтов ноутбук с девятью часами работы времени работы аккумулятора"",
+        ""Review 5: Akkulaufzeit: Ich habe den Laptop noch nicht so lange, aber mit einer Ladung läuft er problemlos 8 Stunden oder mehr"",
+        ""Review 1: зарядное устройство для ноутбука неоднократно искрило""
     ],
-    ""conclusion"": ""Нет прямых указаний на быстрый разряд батареи в отзывах. Упоминается длительная работа аккумулятора (до 9 часов), но не указаны проблемы с разрядом.""
+    ""conclusion"": ""Ретrieved отзывы не подтверждают проблему с быстрым разрядом батареи, в то время как некоторые упоминают хорошие показатели времени работы аккумулятора""
 }",0.8185058,0.79135954
 laptop_de,Der Akku des Laptops hält nicht lange,de,laptop,"{
-    ""main_finding"": ""Battery Life"",
-    ""common_opinion"": ""Negative"",
-    ""negative_signals"": [""Battery life is insufficient""],
+    ""main_finding"": ""The laptop's battery doesn't last long"",
+    ""common_opinion"": ""The battery performance is poor"",
+    ""negative_signals"": [""doesn't last long""],
     ""key_aspects"": [""Battery Life""],
-    ""conclusion"": ""The laptop's battery life is a significant drawback.""
+    ""conclusion"": ""The laptop's battery life is a significant drawback""
 }","{
-    ""main_finding"": ""Der Akkubetrieb des Laptops wird als ausreichend lang eingestuft."",
-    ""common_opinion"": ""Die Akkulaufzeit beträgt 8 Stunden oder länger, selbst bei intensiver Nutzung."",
+    ""main_finding"": ""Der Akkubetrag des Laptops wird als ausreichend bewertet."",
+    ""common_opinion"": ""Die Akkulaufzeit wird als gut beurteilt, mit Angaben zu 8-9 Stunden ohne Ladung."",
     ""negative_signals"": [],
-    ""key_aspects"": [""Akkulaufzeit"", ""Ladungshaltbarkeit""],
+    ""key_aspects"": [""Akkulaufzeit"", ""Ladungsdauer""],
     ""evidence"": [
         ""Akkulaufzeit: Ich habe den Laptop noch nicht so lange, aber mit einer Ladung läuft er problemlos 8 Stunden oder mehr."",
-        ""5 pound laptop with its nine hour battery life."",
-        ""time working battery: я пользуюсь ноутбуком не так давно, но без подзарядки он легко работает 8 часов и более.""
+        ""time working battery: я пользуюсь ноутбуком не так давно, но без подзарядки он легко работает 8 часов и более."",
+        ""battery life : i haven ' t had the laptop for too long but easily get 8 hours or more on a charge .""
     ],
-    ""conclusion"": ""Die Kunden berichten eine Akkulaufzeit von 8 Stunden oder länger, was die Angst vor kurzer Akkulebensdauer widerlegt.""
+    ""conclusion"": ""Der Akkubetrag des Laptops wird als ausreichend und langanhaltend bewertet.""
 }",0.87721395,0.8512947
 restaurant_en,The food was delicious but the service was slow,en,restaurant,"{
     ""main_finding"": ""Mixed experience with positive and negative aspects"",
-    ""common_opinion"": ""Balanced feedback on food quality and service speed"",
+    ""common_opinion"": ""The customer enjoyed the food but was dissatisfied with the service speed"",
     ""negative_signals"": [""slow service""],
     ""key_aspects"": [""food"", ""service""],
-    ""conclusion"": ""Review highlights both strengths and areas for improvement""
+    ""conclusion"": ""The customer appreciated the food quality but found the service inadequate""
 }","{
-    ""main_finding"": ""Mixed feedback on food quality and service speed"",
-    ""common_opinion"": ""Service was slow"",
-    ""negative_signals"": [""Slow service""],
+    ""main_finding"": ""Mixed feedback with positive food quality but slow service"",
+    ""common_opinion"": ""Multiple reviews mention slow service despite low customer volume"",
+    ""negative_signals"": [""Slow service"", ""Waiting times""],
     ""key_aspects"": [""Food quality"", ""Service speed""],
     ""evidence"": [
-        ""Review 1: Service was slow, had to wait to order and get food although not crowded"",
-        ""Review 4: Das Essen war gut, aber nicht großartig (food was good but not exceptional)"",
-        ""Review 5: еда была очень вкусной (food was very tasty)""
+        ""Service was slow had to wait to order and get food although not crowded"",
+        ""Der Service war langsam, ich musste warten, bis ich bestellen und Essen bekommen konnte, obwohl es nicht voll war"",
+        ""Обслуживание было медленным, пришлось подождать, чтобы сделать заказ и получить еду, хотя народу было немного""
     ],
-    ""conclusion"": ""While the food received positive mentions, service speed was a consistent negative aspect.""
+    ""conclusion"": ""Customers appreciated the food quality but expressed frustration with inconsistent service speed""
 }",0.8064529,0.7355561
 restaurant_ru,"Еда была вкусной, но обслуживание было медленным",ru,restaurant,"{
-    ""main_finding"": ""Mixed experience with positive and negative aspects"",
-    ""common_opinion"": ""The food was good"",
-    ""negative_signals"": [""slow service""],
-    ""key_aspects"": [""food"", ""service""],
-    ""conclusion"": ""The overall experience was mixed due to good food and slow service.""
-}","{
-    ""main_finding"": ""Service was slow, but food quality varied among reviews."",
-    ""common_opinion"": ""Service was slow."",
+    ""main_finding"": ""Mixed review with both positive and negative feedback"",
+    ""common_opinion"": ""The customer appreciated the food quality but expressed dissatisfaction with service speed"",
     ""negative_signals"": [""slow service""],
     ""key_aspects"": [""food quality"", ""service speed""],
+    ""conclusion"": ""The review highlights a positive experience with food but notes a significant service issue""
+}","{
+    ""main_finding"": ""The user's query highlights both positive and negative aspects of their dining experience."",
+    ""common_opinion"": ""The food was praised as tasty, while service speed was criticized."",
+    ""negative_signals"": [""slow service"", ""had to wait to order and get food""],
+    ""key_aspects"": [""food quality"", ""service speed""],
     ""evidence"": [
-        ""Review 1: Service was slow had to wait to order and get food although not crowded."",
-        ""Review 4: Обслуживание было медленным, пришлось подождать, чтобы сделать заказ и получить еду, хотя народу было немного."",
-        ""Review 2: порции маленькие, но то, что еда была очень вкусной, компенсирует этот недостаток.""
+        ""Review 2 (ru): 'еда была очень вкусной' (food was very tasty)"",
+        ""Review 4 (ru): 'обслуживание было медленным, пришлось подождать...' (service was slow, had to wait...)"",
+        ""Review 1 (en): 'Service was slow had to wait to order and get food...' (service was slow, waiting required)""
     ],
-    ""conclusion"": ""The restaurant received mixed feedback on food quality, with some customers finding it very tasty and others noting mediocre quality, while service was consistently reported as slow.""
+    ""conclusion"": ""The review reflects mixed feedback: positive food quality but negative service speed.""
 }",0.7686141,0.740947
 restaurant_de,"Das Essen war lecker, aber der Service war langsam",de,restaurant,"{
-    ""main_finding"": ""Positive food quality but slow service"",
-    ""common_opinion"": ""Mixed experience"",
+    ""main_finding"": ""Mixed experience with positive and negative aspects"",
+    ""common_opinion"": ""The food was good, but the service was slow"",
     ""negative_signals"": [""slow service""],
     ""key_aspects"": [""food"", ""service""],
-    ""conclusion"": ""The review highlights a mixed experience with positive food quality and negative service speed.""
+    ""conclusion"": ""The customer had a mixed experience with good food but slow service""
 }","{
-    ""main_finding"": ""Der Service war langsam, obwohl der Raum nicht voll war."",
-    ""common_opinion"": ""Der Service wurde als langsam bewertet."",
-    ""negative_signals"": [""Service war langsam"", ""Warten auf Bestellung und Essen""],
-    ""key_aspects"": [""Servicegeschwindigkeit"", ""Kundenerfahrung""],
-    ""evidence"": [
+    ""main_finding"": ""Der Service wurde als langsam bewertet, während das Essen positiv aufgenommen wurde."",
+    ""common_opinion"": ""Der Service war langsam, was die Kundenerfahrung beeinträchtigte."",
+    ""negative_signals"": [
         ""Der Service war langsam, ich musste warten, bis ich bestellen und Essen bekommen konnte, obwohl es nicht voll war."",
-        ""Service war langsam, hatte zu warten, bis man bestellen und Essen bekam, obwohl nicht voll."",
+        ""Service war slow had to wait to order and get food although not crowded."",
         ""aber der Service war etwas langsam.""
     ],
-    ""conclusion"": ""Die Bewertungen zeigen eindeutig, dass der Service als langsamer wahrgenommen wurde, was die Kundenerfahrung negativ beeinflusste.""
+    ""key_aspects"": [""Servicegeschwindigkeit""],
+    ""evidence"": [
+        ""Der Service war langsam, ich musste warten, bis ich bestellen und Essen bekommen konnte, obwohl es nicht voll war."",
+        ""Service was slow had to wait to order and get food although not crowded."",
+        ""aber der Service war etwas langsam.""
+    ],
+    ""conclusion"": ""Die Bewertungen zeigen eindeutig, dass der Service als langsamer wahrgenommen wurde, was die Gesamtbewertung negativ beeinflusste.""
 }",0.8319638,0.78259814
