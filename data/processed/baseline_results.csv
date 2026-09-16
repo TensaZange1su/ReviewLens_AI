@@ -1,0 +1,3 @@
+task,model,validation_macro_f1,test_macro_f1,test_accuracy
+Sentiment,TF-IDF + Logistic Regression,0.5684855989763419,0.5857793320556725,0.7971357246091184
+Aspect Category,TF-IDF + Logistic Regression,0.1578880684805175,0.16937723429454934,0.3756405202995664

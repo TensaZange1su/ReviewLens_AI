@@ -1,0 +1,2 @@
+test_loss,test_sentiment_accuracy,test_sentiment_precision_macro,test_sentiment_recall_macro,test_sentiment_f1_macro,test_category_accuracy,test_category_precision_macro,test_category_recall_macro,test_category_f1_macro
+1.767113447189331,0.9013270266719222,0.6619966649919596,0.6077185704601772,0.6047003208879137,0.62238864800946,0.1798878885528154,0.19622902527351044,0.17366298621249973

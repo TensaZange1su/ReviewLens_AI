@@ -1,0 +1,33 @@
+# Core
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+seaborn>=0.13
+
+# Jupyter
+jupyter>=1.1
+ipykernel>=6.29
+
+# Hugging Face
+transformers==5.17.0
+datasets>=3.0
+huggingface-hub>=0.30
+tokenizers>=0.21
+accelerate>=1.10
+
+# Deep Learning
+torch>=2.5
+
+# Embeddings & Vector Search
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+
+# LLM
+ollama>=0.4
+
+# Configuration / utilities
+python-dotenv>=1.0
+
+# Model serialization
+joblib>=1.4

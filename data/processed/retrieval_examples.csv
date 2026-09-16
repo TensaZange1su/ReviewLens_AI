@@ -1,0 +1,16 @@
+query_language,query,rank,text,language,domain,score
+EN,The hotel room was very clean,1,Hotel hat viel Charakter und die Zimmer waren sauber.,de,hotel,0.9247041940689087
+EN,The hotel room was very clean,2,The rooms were clean  hotel staff friendly .,en,hotel,0.9224725365638733
+EN,The hotel room was very clean,3,Die Zimmer waren sauber Hotelpersonal freundlich.,de,hotel,0.9167258739471436
+EN,The hotel room was very clean,4,Hotel has alot of charater and the rooms were clean .,en,hotel,0.8808085322380066
+EN,The hotel room was very clean,5,"Die Einrichtung war wirklich modern und schön, das Hotel war sauber und die Betten waren komfortabel.",de,hotel,0.8768459558486938
+RU,Номер в отеле был очень чистым,1,"Отель имеет много особенностей, а номера были чистыми.",ru,hotel,0.9310509562492371
+RU,Номер в отеле был очень чистым,2,Hotel hat viel Charakter und die Zimmer waren sauber.,de,hotel,0.928409218788147
+RU,Номер в отеле был очень чистым,3,Die Zimmer waren sauber Hotelpersonal freundlich.,de,hotel,0.9034610986709595
+RU,Номер в отеле был очень чистым,4,The rooms were clean  hotel staff friendly .,en,hotel,0.9029674530029297
+RU,Номер в отеле был очень чистым,5,"отель был чистым, персонал был отзывчивым, он находился в отличном расположении, просто красиво.",ru,hotel,0.8982099294662476
+DE,Das Hotelzimmer war sehr sauber,1,Hotel hat viel Charakter und die Zimmer waren sauber.,de,hotel,0.9523932337760925
+DE,Das Hotelzimmer war sehr sauber,2,Die Zimmer waren sauber Hotelpersonal freundlich.,de,hotel,0.941016674041748
+DE,Das Hotelzimmer war sehr sauber,3,The rooms were clean  hotel staff friendly .,en,hotel,0.928730845451355
+DE,Das Hotelzimmer war sehr sauber,4,"Die Einrichtung war wirklich modern und schön, das Hotel war sauber und die Betten waren komfortabel.",de,hotel,0.8948713541030884
+DE,Das Hotelzimmer war sehr sauber,5,Hotel has alot of charater and the rooms were clean .,en,hotel,0.8930009007453918

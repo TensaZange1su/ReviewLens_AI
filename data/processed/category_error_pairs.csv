@@ -1,0 +1,521 @@
+category,predicted_category,count
+food style_options,food quality,90
+hotel general,restaurant general,73
+rooms cleanliness,rooms design_features,68
+rooms general,rooms design_features,56
+LAPTOP#GENERAL,LAPTOP#OPERATION_PERFORMANCE,54
+food prices,food quality,41
+location general,hotel general,40
+hotel general,location general,38
+rooms comfort,rooms design_features,37
+BATTERY#GENERAL,BATTERY#OPERATION_PERFORMANCE,37
+hotel prices,hotel general,35
+restaurant general,hotel general,29
+food_drinks quality,food quality,27
+DISPLAY#DESIGN_FEATURES,DISPLAY#GENERAL,27
+hotel miscellaneous,hotel general,25
+LAPTOP#GENERAL,LAPTOP#PRICE,24
+LAPTOP#DESIGN_FEATURES,LAPTOP#OPERATION_PERFORMANCE,24
+hotel general,ambience general,24
+food_drinks style_options,food_drinks quality,24
+food quality,food style_options,22
+rooms quality,rooms design_features,22
+DISPLAY#OPERATION_PERFORMANCE,DISPLAY#GENERAL,21
+LAPTOP#OPERATION_PERFORMANCE,LAPTOP#DESIGN_FEATURES,21
+KEYBOARD#DESIGN_FEATURES,KEYBOARD#GENERAL,20
+DISPLAY#GENERAL,DISPLAY#DESIGN_FEATURES,20
+hotel design_features,hotel general,20
+restaurant miscellaneous,restaurant general,20
+food quality,food_drinks quality,19
+hotel quality,hotel general,19
+OS#GENERAL,OS#OPERATION_PERFORMANCE,18
+LAPTOP#QUALITY,LAPTOP#OPERATION_PERFORMANCE,17
+KEYBOARD#OPERATION_PERFORMANCE,KEYBOARD#DESIGN_FEATURES,17
+facilities general,ambience general,17
+hotel general,hotel design_features,17
+restaurant general,ambience general,16
+restaurant general,food quality,16
+hotel general,service general,16
+hotel general,hotel prices,16
+restaurant miscellaneous,ambience general,16
+LAPTOP#OPERATION_PERFORMANCE,LAPTOP#PRICE,16
+KEYBOARD#GENERAL,KEYBOARD#DESIGN_FEATURES,16
+LAPTOP#OPERATION_PERFORMANCE,LAPTOP#GENERAL,16
+LAPTOP#DESIGN_FEATURES,LAPTOP#GENERAL,15
+BATTERY#QUALITY,BATTERY#OPERATION_PERFORMANCE,15
+rooms design_features,rooms general,15
+LAPTOP#PORTABILITY,LAPTOP#DESIGN_FEATURES,15
+food_drinks prices,food_drinks quality,14
+hotel comfort,hotel general,14
+DISPLAY#QUALITY,DISPLAY#GENERAL,13
+LAPTOP#GENERAL,hotel general,13
+hotel general,LAPTOP#GENERAL,13
+DISPLAY#OPERATION_PERFORMANCE,DISPLAY#DESIGN_FEATURES,13
+hotel cleanliness,hotel prices,12
+LAPTOP#GENERAL,LAPTOP#DESIGN_FEATURES,12
+food quality,restaurant general,12
+restaurant general,restaurant miscellaneous,12
+SOFTWARE#GENERAL,SOFTWARE#OPERATION_PERFORMANCE,12
+MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,MULTIMEDIA_DEVICES#GENERAL,12
+SOFTWARE#DESIGN_FEATURES,SOFTWARE#OPERATION_PERFORMANCE,12
+SUPPORT#QUALITY,SUPPORT#GENERAL,12
+KEYBOARD#OPERATION_PERFORMANCE,KEYBOARD#GENERAL,12
+LAPTOP#USABILITY,LAPTOP#OPERATION_PERFORMANCE,12
+service general,hotel general,11
+COMPANY#GENERAL,LAPTOP#GENERAL,11
+LAPTOP#PRICE,LAPTOP#GENERAL,11
+hotel cleanliness,hotel general,11
+LAPTOP#CONNECTIVITY,LAPTOP#OPERATION_PERFORMANCE,11
+facilities general,service general,11
+rooms cleanliness,rooms general,10
+service general,rooms design_features,10
+ambience general,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,10
+hotel comfort,location general,10
+DISPLAY#QUALITY,DISPLAY#OPERATION_PERFORMANCE,10
+restaurant prices,hotel prices,10
+service general,location general,10
+LAPTOP#QUALITY,LAPTOP#GENERAL,9
+DISPLAY#GENERAL,DISPLAY#OPERATION_PERFORMANCE,9
+drinks prices,food prices,9
+food quality,ambience general,9
+rooms prices,rooms design_features,9
+DISPLAY#DESIGN_FEATURES,DISPLAY#OPERATION_PERFORMANCE,9
+CPU#GENERAL,CPU#OPERATION_PERFORMANCE,9
+restaurant general,service general,8
+rooms miscellaneous,rooms design_features,8
+rooms comfort,rooms general,8
+room_amenities design_features,rooms design_features,8
+service general,food quality,8
+OS#OPERATION_PERFORMANCE,LAPTOP#USABILITY,8
+hotel general,rooms general,8
+hotel quality,hotel prices,8
+room_amenities general,rooms general,8
+LAPTOP#DESIGN_FEATURES,KEYBOARD#GENERAL,8
+LAPTOP#GENERAL,LAPTOP#QUALITY,8
+drinks style_options,drinks quality,8
+LAPTOP#DESIGN_FEATURES,LAPTOP#PRICE,8
+hotel cleanliness,hotel design_features,8
+food prices,food style_options,8
+KEYBOARD#USABILITY,KEYBOARD#DESIGN_FEATURES,8
+SOFTWARE#OPERATION_PERFORMANCE,LAPTOP#OPERATION_PERFORMANCE,8
+hotel design_features,ambience general,8
+LAPTOP#GENERAL,LAPTOP#USABILITY,7
+hotel cleanliness,hotel comfort,7
+GRAPHICS#GENERAL,DISPLAY#GENERAL,7
+location general,service general,7
+OS#OPERATION_PERFORMANCE,LAPTOP#OPERATION_PERFORMANCE,7
+service general,restaurant miscellaneous,7
+drinks quality,food quality,7
+MEMORY#GENERAL,CPU#OPERATION_PERFORMANCE,7
+ambience general,restaurant general,7
+location general,ambience general,7
+POWER_SUPPLY#OPERATION_PERFORMANCE,LAPTOP#OPERATION_PERFORMANCE,6
+rooms quality,rooms cleanliness,6
+MULTIMEDIA_DEVICES#GENERAL,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,6
+PORTS#DESIGN_FEATURES,PORTS#OPERATION_PERFORMANCE,6
+PORTS#QUALITY,PORTS#OPERATION_PERFORMANCE,6
+SUPPORT#GENERAL,service general,6
+SOFTWARE#USABILITY,SOFTWARE#OPERATION_PERFORMANCE,6
+MULTIMEDIA_DEVICES#QUALITY,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,6
+ambience general,food quality,6
+facilities prices,restaurant prices,6
+food_drinks prices,food quality,6
+HARD_DISC#OPERATION_PERFORMANCE,LAPTOP#OPERATION_PERFORMANCE,6
+hotel comfort,ambience general,6
+LAPTOP#OPERATION_PERFORMANCE,CPU#OPERATION_PERFORMANCE,6
+LAPTOP#GENERAL,restaurant general,6
+room_amenities general,rooms cleanliness,6
+room_amenities design_features,rooms general,6
+room_amenities comfort,rooms design_features,6
+hotel prices,restaurant general,6
+HARDWARE#OPERATION_PERFORMANCE,LAPTOP#OPERATION_PERFORMANCE,6
+room_amenities quality,rooms design_features,6
+room_amenities general,rooms design_features,6
+room_amenities general,PORTS#OPERATION_PERFORMANCE,6
+SOFTWARE#QUALITY,SOFTWARE#OPERATION_PERFORMANCE,6
+facilities design_features,location general,6
+service general,SUPPORT#GENERAL,5
+COMPANY#GENERAL,SOFTWARE#OPERATION_PERFORMANCE,5
+OS#OPERATION_PERFORMANCE,SOFTWARE#OPERATION_PERFORMANCE,5
+MEMORY#OPERATION_PERFORMANCE,CPU#OPERATION_PERFORMANCE,5
+PORTS#OPERATION_PERFORMANCE,CPU#OPERATION_PERFORMANCE,5
+SUPPORT#GENERAL,LAPTOP#GENERAL,5
+SOFTWARE#DESIGN_FEATURES,KEYBOARD#DESIGN_FEATURES,5
+hotel design_features,hotel comfort,5
+WARRANTY#GENERAL,SUPPORT#GENERAL,5
+restaurant miscellaneous,location general,5
+HARDWARE#OPERATION_PERFORMANCE,DISPLAY#OPERATION_PERFORMANCE,5
+hotel prices,location general,5
+HARDWARE#OPERATION_PERFORMANCE,KEYBOARD#GENERAL,5
+hotel miscellaneous,restaurant general,5
+hotel general,hotel comfort,5
+FANS&COOLING#OPERATION_PERFORMANCE,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,5
+room_amenities design_features,ambience general,5
+rooms design_features,ambience general,5
+DISPLAY#QUALITY,DISPLAY#DESIGN_FEATURES,5
+restaurant miscellaneous,service general,5
+HARDWARE#QUALITY,HARDWARE#OPERATION_PERFORMANCE,5
+service general,restaurant prices,5
+hotel cleanliness,location general,5
+KEYBOARD#QUALITY,HARDWARE#OPERATION_PERFORMANCE,5
+facilities prices,facilities general,5
+LAPTOP#PRICE,LAPTOP#DESIGN_FEATURES,5
+LAPTOP#OPERATION_PERFORMANCE,LAPTOP#USABILITY,5
+hotel design_features,location general,5
+service general,rooms general,4
+rooms comfort,hotel comfort,4
+restaurant prices,food quality,4
+hotel general,food quality,4
+location general,facilities general,4
+restaurant miscellaneous,rooms design_features,4
+room_amenities general,food_drinks quality,4
+GRAPHICS#GENERAL,DISPLAY#DESIGN_FEATURES,4
+room_amenities comfort,rooms general,4
+restaurant prices,restaurant general,4
+facilities quality,PORTS#OPERATION_PERFORMANCE,4
+food_drinks prices,restaurant prices,4
+HARD_DISC#OPERATION_PERFORMANCE,CPU#OPERATION_PERFORMANCE,4
+HARD_DISC#GENERAL,CPU#OPERATION_PERFORMANCE,4
+hotel design_features,restaurant general,4
+LAPTOP#DESIGN_FEATURES,LAPTOP#QUALITY,4
+KEYBOARD#OPERATION_PERFORMANCE,DISPLAY#GENERAL,4
+food style_options,food prices,4
+food style_options,LAPTOP#DESIGN_FEATURES,4
+facilities general,restaurant general,4
+facilities prices,location general,4
+food quality,service general,4
+LAPTOP#QUALITY,LAPTOP#PRICE,4
+drinks style_options,food style_options,4
+ambience general,service general,4
+ambience general,restaurant miscellaneous,4
+WARRANTY#GENERAL,BATTERY#OPERATION_PERFORMANCE,4
+SHIPPING#OPERATION_PERFORMANCE,service general,4
+PORTS#GENERAL,SOFTWARE#OPERATION_PERFORMANCE,4
+OS#OPERATION_PERFORMANCE,DISPLAY#DESIGN_FEATURES,4
+OS#OPERATION_PERFORMANCE,LAPTOP#DESIGN_FEATURES,4
+service general,restaurant general,4
+DISPLAY#DESIGN_FEATURES,LAPTOP#DESIGN_FEATURES,4
+CPU#OPERATION_PERFORMANCE,LAPTOP#OPERATION_PERFORMANCE,4
+COMPANY#GENERAL,SUPPORT#GENERAL,4
+BATTERY#DESIGN_FEATURES,BATTERY#OPERATION_PERFORMANCE,3
+rooms design_features,rooms comfort,3
+PORTS#GENERAL,PORTS#OPERATION_PERFORMANCE,3
+PORTS#GENERAL,CPU#OPERATION_PERFORMANCE,3
+PORTS#CONNECTIVITY,PORTS#OPERATION_PERFORMANCE,3
+BATTERY#GENERAL,restaurant general,3
+rooms miscellaneous,rooms general,3
+SOFTWARE#GENERAL,OS#OPERATION_PERFORMANCE,3
+OS#DESIGN_FEATURES,LAPTOP#OPERATION_PERFORMANCE,3
+POWER_SUPPLY#GENERAL,LAPTOP#OPERATION_PERFORMANCE,3
+POWER_SUPPLY#QUALITY,POWER_SUPPLY#OPERATION_PERFORMANCE,3
+room_amenities quality,rooms general,3
+POWER_SUPPLY#OPERATION_PERFORMANCE,BATTERY#OPERATION_PERFORMANCE,3
+PORTS#OPERATION_PERFORMANCE,POWER_SUPPLY#OPERATION_PERFORMANCE,3
+LAPTOP#GENERAL,SOFTWARE#OPERATION_PERFORMANCE,3
+restaurant prices,food prices,3
+room_amenities comfort,hotel general,3
+room_amenities cleanliness,service general,3
+restaurant prices,service general,3
+LAPTOP#OPERATION_PERFORMANCE,restaurant prices,3
+LAPTOP#PRICE,LAPTOP#QUALITY,3
+LAPTOP#PRICE,LAPTOP#OPERATION_PERFORMANCE,3
+LAPTOP#OPERATION_PERFORMANCE,service general,3
+restaurant general,restaurant prices,3
+restaurant general,hotel prices,3
+facilities design_features,rooms general,3
+HARDWARE#GENERAL,LAPTOP#QUALITY,3
+HARDWARE#GENERAL,KEYBOARD#DESIGN_FEATURES,3
+HARDWARE#GENERAL,KEYBOARD#GENERAL,3
+HARDWARE#GENERAL,LAPTOP#DESIGN_FEATURES,3
+HARDWARE#GENERAL,CPU#OPERATION_PERFORMANCE,3
+HARD_DISC#DESIGN_FEATURES,HARD_DISC#OPERATION_PERFORMANCE,3
+MOUSE#USABILITY,KEYBOARD#GENERAL,3
+MULTIMEDIA_DEVICES#DESIGN_FEATURES,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,3
+MULTIMEDIA_DEVICES#DESIGN_FEATURES,MULTIMEDIA_DEVICES#GENERAL,3
+facilities design_features,ambience general,3
+HARDWARE#GENERAL,OS#OPERATION_PERFORMANCE,3
+restaurant miscellaneous,food style_options,3
+facilities comfort,service general,3
+GRAPHICS#GENERAL,PORTS#OPERATION_PERFORMANCE,3
+SUPPORT#OPERATION_PERFORMANCE,SUPPORT#GENERAL,3
+SUPPORT#QUALITY,service general,3
+LAPTOP#USABILITY,LAPTOP#DESIGN_FEATURES,3
+MEMORY#DESIGN_FEATURES,MEMORY#OPERATION_PERFORMANCE,3
+GRAPHICS#DESIGN_FEATURES,LAPTOP#GENERAL,3
+room_amenities design_features,facilities general,3
+room_amenities design_features,DISPLAY#DESIGN_FEATURES,3
+rooms comfort,hotel general,3
+DISPLAY#USABILITY,DISPLAY#GENERAL,3
+OS#USABILITY,SOFTWARE#OPERATION_PERFORMANCE,3
+OS#USABILITY,OS#OPERATION_PERFORMANCE,3
+hotel comfort,hotel design_features,3
+HARD_DISC#GENERAL,PORTS#OPERATION_PERFORMANCE,3
+KEYBOARD#MISCELLANEOUS,KEYBOARD#DESIGN_FEATURES,3
+KEYBOARD#GENERAL,LAPTOP#OPERATION_PERFORMANCE,3
+hotel design_features,hotel prices,3
+food_drinks quality,service general,3
+rooms cleanliness,service general,3
+rooms comfort,ambience general,3
+rooms quality,rooms general,3
+service general,hotel prices,3
+OS#QUALITY,OS#OPERATION_PERFORMANCE,3
+KEYBOARD#DESIGN_FEATURES,LAPTOP#OPERATION_PERFORMANCE,3
+KEYBOARD#DESIGN_FEATURES,HARDWARE#OPERATION_PERFORMANCE,3
+hotel general,restaurant miscellaneous,3
+hotel miscellaneous,ambience general,3
+hotel miscellaneous,hotel comfort,3
+HARDWARE#QUALITY,LAPTOP#QUALITY,3
+HARDWARE#QUALITY,OS#OPERATION_PERFORMANCE,3
+KEYBOARD#USABILITY,KEYBOARD#GENERAL,3
+LAPTOP#DESIGN_FEATURES,DISPLAY#DESIGN_FEATURES,3
+facilities prices,ambience general,3
+food quality,SOFTWARE#OPERATION_PERFORMANCE,3
+KEYBOARD#QUALITY,KEYBOARD#DESIGN_FEATURES,3
+restaurant general,food_drinks quality,3
+location general,hotel prices,3
+polarity positive,service general,3
+restaurant general,LAPTOP#GENERAL,3
+hotel miscellaneous,location general,3
+hotel cleanliness,ambience general,3
+facilities miscellaneous,service general,3
+facilities general,restaurant prices,3
+facilities general,location general,3
+KEYBOARD#DESIGN_FEATURES,DISPLAY#DESIGN_FEATURES,3
+food_drinks style_options,restaurant prices,3
+food_drinks quality,restaurant prices,3
+food_drinks quality,drinks quality,3
+rooms miscellaneous,rooms cleanliness,2
+OPTICAL_DRIVES#GENERAL,MEMORY#OPERATION_PERFORMANCE,2
+PORTS#USABILITY,CPU#OPERATION_PERFORMANCE,2
+room_amenities quality,rooms cleanliness,2
+rooms cleanliness,facilities general,2
+rooms cleanliness,hotel design_features,2
+PORTS#QUALITY,CPU#OPERATION_PERFORMANCE,2
+PORTS#QUALITY,PORTS#DESIGN_FEATURES,2
+GRAPHICS#OPERATION_PERFORMANCE,DISPLAY#GENERAL,2
+room_amenities general,service general,2
+room_amenities general,facilities general,2
+HARDWARE#DESIGN_FEATURES,DISPLAY#GENERAL,2
+PORTS#OPERATION_PERFORMANCE,LAPTOP#OPERATION_PERFORMANCE,2
+room_amenities quality,PORTS#OPERATION_PERFORMANCE,2
+room_amenities quality,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,2
+room_amenities quality,DISPLAY#OPERATION_PERFORMANCE,2
+PORTS#OPERATION_PERFORMANCE,OS#OPERATION_PERFORMANCE,2
+rooms miscellaneous,facilities general,2
+rooms general,hotel design_features,2
+rooms design_features,hotel design_features,2
+COMPANY#GENERAL,service general,2
+PORTS#DESIGN_FEATURES,CPU#OPERATION_PERFORMANCE,2
+PORTS#DESIGN_FEATURES,KEYBOARD#GENERAL,2
+PORTS#GENERAL,HARDWARE#OPERATION_PERFORMANCE,2
+SOFTWARE#DESIGN_FEATURES,KEYBOARD#GENERAL,2
+SHIPPING#QUALITY,service general,2
+SHIPPING#OPERATION_PERFORMANCE,SUPPORT#GENERAL,2
+SHIPPING#GENERAL,LAPTOP#OPERATION_PERFORMANCE,2
+POWER_SUPPLY#OPERATION_PERFORMANCE,PORTS#OPERATION_PERFORMANCE,2
+POWER_SUPPLY#QUALITY,PORTS#OPERATION_PERFORMANCE,2
+OS#OPERATION_PERFORMANCE,DISPLAY#OPERATION_PERFORMANCE,2
+OS#GENERAL,LAPTOP#PRICE,2
+PORTS#QUALITY,facilities general,2
+restaurant miscellaneous,hotel general,2
+restaurant prices,ambience general,2
+ambience general,LAPTOP#GENERAL,2
+restaurant miscellaneous,rooms cleanliness,2
+HARDWARE#DESIGN_FEATURES,KEYBOARD#GENERAL,2
+LAPTOP#PORTABILITY,LAPTOP#OPERATION_PERFORMANCE,2
+LAPTOP#QUALITY,LAPTOP#DESIGN_FEATURES,2
+MEMORY#GENERAL,MEMORY#OPERATION_PERFORMANCE,2
+LAPTOP#USABILITY,OS#OPERATION_PERFORMANCE,2
+SUPPORT#GENERAL,LAPTOP#QUALITY,2
+room_amenities comfort,rooms cleanliness,2
+FANS&COOLING#QUALITY,KEYBOARD#GENERAL,2
+FANS&COOLING#QUALITY,LAPTOP#DESIGN_FEATURES,2
+FANS&COOLING#QUALITY,LAPTOP#OPERATION_PERFORMANCE,2
+MEMORY#USABILITY,CPU#OPERATION_PERFORMANCE,2
+drinks prices,food quality,2
+ambience general,restaurant prices,2
+ambience general,location general,2
+restaurant miscellaneous,facilities general,2
+facilities comfort,ambience general,2
+drinks style_options,service general,2
+drinks style_options,food quality,2
+GRAPHICS#GENERAL,LAPTOP#GENERAL,2
+HARD_DISC#DESIGN_FEATURES,CPU#OPERATION_PERFORMANCE,2
+facilities miscellaneous,facilities general,2
+facilities general,food_drinks quality,2
+HARDWARE#DESIGN_FEATURES,DISPLAY#OPERATION_PERFORMANCE,2
+restaurant miscellaneous,LAPTOP#OPERATION_PERFORMANCE,2
+HARDWARE#QUALITY,SOFTWARE#OPERATION_PERFORMANCE,2
+HARDWARE#OPERATION_PERFORMANCE,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,2
+food style_options,restaurant prices,2
+hotel general,rooms design_features,2
+facilities quality,facilities general,2
+location general,hotel design_features,2
+HARD_DISC#DESIGN_FEATURES,MEMORY#OPERATION_PERFORMANCE,2
+HARD_DISC#DESIGN_FEATURES,SOFTWARE#GENERAL,2
+LAPTOP#DESIGN_FEATURES,KEYBOARD#DESIGN_FEATURES,2
+LAPTOP#CONNECTIVITY,SOFTWARE#OPERATION_PERFORMANCE,2
+HARDWARE#QUALITY,KEYBOARD#DESIGN_FEATURES,2
+KEYBOARD#DESIGN_FEATURES,SOFTWARE#OPERATION_PERFORMANCE,2
+KEYBOARD#DESIGN_FEATURES,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,2
+food_drinks prices,hotel prices,2
+food_drinks prices,drinks quality,2
+hotel design_features,food quality,2
+KEYBOARD#GENERAL,MULTIMEDIA_DEVICES#GENERAL,2
+food_drinks prices,service general,2
+hotel design_features,food style_options,2
+hotel cleanliness,rooms comfort,2
+food_drinks quality,restaurant general,2
+DISPLAY#DESIGN_FEATURES,LAPTOP#GENERAL,2
+DISPLAY#GENERAL,LAPTOP#DESIGN_FEATURES,2
+service general,ambience general,2
+hotel comfort,rooms comfort,2
+rooms comfort,rooms cleanliness,2
+FANS&COOLING#GENERAL,KEYBOARD#DESIGN_FEATURES,2
+FANS&COOLING#GENERAL,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,1
+FANS&COOLING#GENERAL,LAPTOP#DESIGN_FEATURES,1
+DISPLAY#USABILITY,restaurant miscellaneous,1
+DISPLAY#USABILITY,restaurant general,1
+DISPLAY#USABILITY,hotel prices,1
+DISPLAY#QUALITY,KEYBOARD#DESIGN_FEATURES,1
+DISPLAY#QUALITY,HARDWARE#OPERATION_PERFORMANCE,1
+rooms comfort,service general,1
+rooms comfort,food_drinks quality,1
+rooms cleanliness,rooms comfort,1
+Out_Of_Scope#DESIGN_FEATURES,DISPLAY#DESIGN_FEATURES,1
+service general,food style_options,1
+service general,facilities general,1
+service general,LAPTOP#DESIGN_FEATURES,1
+rooms quality,food_drinks quality,1
+DISPLAY#GENERAL,LAPTOP#OPERATION_PERFORMANCE,1
+CPU#OPERATION_PERFORMANCE,POWER_SUPPLY#OPERATION_PERFORMANCE,1
+COMPANY#GENERAL,LAPTOP#OPERATION_PERFORMANCE,1
+hotel comfort,hotel prices,1
+food_drinks quality,drinks style_options,1
+food_drinks prices,rooms design_features,1
+KEYBOARD#QUALITY,DISPLAY#OPERATION_PERFORMANCE,1
+KEYBOARD#OPERATION_PERFORMANCE,OS#OPERATION_PERFORMANCE,1
+KEYBOARD#OPERATION_PERFORMANCE,LAPTOP#OPERATION_PERFORMANCE,1
+HARD_DISC#QUALITY,SOFTWARE#OPERATION_PERFORMANCE,1
+HARD_DISC#QUALITY,OS#OPERATION_PERFORMANCE,1
+HARD_DISC#QUALITY,HARD_DISC#OPERATION_PERFORMANCE,1
+HARD_DISC#OPERATION_PERFORMANCE,OS#OPERATION_PERFORMANCE,1
+HARD_DISC#OPERATION_PERFORMANCE,MEMORY#OPERATION_PERFORMANCE,1
+HARD_DISC#OPERATION_PERFORMANCE,MEMORY#GENERAL,1
+HARD_DISC#GENERAL,OS#OPERATION_PERFORMANCE,1
+HARD_DISC#GENERAL,MEMORY#GENERAL,1
+hotel design_features,LAPTOP#QUALITY,1
+hotel design_features,LAPTOP#DESIGN_FEATURES,1
+hotel comfort,rooms general,1
+KEYBOARD#DESIGN_FEATURES,ambience general,1
+KEYBOARD#DESIGN_FEATURES,LAPTOP#USABILITY,1
+food_drinks prices,location general,1
+food_drinks prices,food style_options,1
+food style_options,drinks style_options,1
+food quality,hotel general,1
+LAPTOP#DESIGN_FEATURES,ambience general,1
+HARDWARE#QUALITY,SOFTWARE#GENERAL,1
+HARDWARE#QUALITY,LAPTOP#OPERATION_PERFORMANCE,1
+HARDWARE#QUALITY,KEYBOARD#OPERATION_PERFORMANCE,1
+HARDWARE#OPERATION_PERFORMANCE,SOFTWARE#OPERATION_PERFORMANCE,1
+HARDWARE#OPERATION_PERFORMANCE,KEYBOARD#OPERATION_PERFORMANCE,1
+KEYBOARD#DESIGN_FEATURES,HARDWARE#GENERAL,1
+LAPTOP#CONNECTIVITY,POWER_SUPPLY#OPERATION_PERFORMANCE,1
+LAPTOP#CONNECTIVITY,LAPTOP#DESIGN_FEATURES,1
+KEYBOARD#USABILITY,DISPLAY#OPERATION_PERFORMANCE,1
+food quality,food prices,1
+food quality,drinks quality,1
+food quality,LAPTOP#DESIGN_FEATURES,1
+food prices,restaurant prices,1
+facilities prices,hotel prices,1
+restaurant general,food style_options,1
+restaurant general,LAPTOP#DESIGN_FEATURES,1
+location general,restaurant prices,1
+location general,restaurant miscellaneous,1
+location general,food style_options,1
+location general,food quality,1
+LAPTOP#OPERATION_PERFORMANCE,KEYBOARD#DESIGN_FEATURES,1
+LAPTOP#OPERATION_PERFORMANCE,HARDWARE#GENERAL,1
+LAPTOP#GENERAL,food quality,1
+LAPTOP#GENERAL,OS#OPERATION_PERFORMANCE,1
+LAPTOP#DESIGN_FEATURES,restaurant prices,1
+facilities prices,SUPPORT#GENERAL,1
+facilities miscellaneous,ambience general,1
+facilities general,restaurant miscellaneous,1
+facilities general,hotel comfort,1
+facilities general,facilities prices,1
+HARDWARE#GENERAL,MEMORY#OPERATION_PERFORMANCE,1
+HARDWARE#GENERAL,MEMORY#GENERAL,1
+HARDWARE#GENERAL,LAPTOP#GENERAL,1
+HARDWARE#DESIGN_FEATURES,LAPTOP#DESIGN_FEATURES,1
+HARDWARE#DESIGN_FEATURES,DISPLAY#QUALITY,1
+restaurant general,location general,1
+facilities general,SOFTWARE#GENERAL,1
+LAPTOP#PORTABILITY,OS#OPERATION_PERFORMANCE,1
+LAPTOP#PORTABILITY,LAPTOP#USABILITY,1
+LAPTOP#PORTABILITY,LAPTOP#GENERAL,1
+LAPTOP#PORTABILITY,CPU#OPERATION_PERFORMANCE,1
+LAPTOP#OPERATION_PERFORMANCE,LAPTOP#QUALITY,1
+facilities design_features,hotel design_features,1
+facilities design_features,hotel comfort,1
+facilities design_features,facilities general,1
+room_amenities comfort,location general,1
+room_amenities comfort,hotel comfort,1
+restaurant prices,drinks quality,1
+restaurant miscellaneous,hotel comfort,1
+restaurant miscellaneous,SUPPORT#GENERAL,1
+HARDWARE#OPERATION_PERFORMANCE,DISPLAY#GENERAL,1
+facilities comfort,hotel design_features,1
+facilities comfort,hotel comfort,1
+facilities comfort,food_drinks quality,1
+facilities comfort,facilities general,1
+drinks style_options,food prices,1
+drinks quality,ambience general,1
+drinks prices,food style_options,1
+ambience general,facilities general,1
+ambience general,drinks quality,1
+MEMORY#USABILITY,MEMORY#OPERATION_PERFORMANCE,1
+LAPTOP#QUALITY,food quality,1
+SUPPORT#GENERAL,SOFTWARE#OPERATION_PERFORMANCE,1
+GRAPHICS#OPERATION_PERFORMANCE,CPU#OPERATION_PERFORMANCE,1
+GRAPHICS#GENERAL,SOFTWARE#OPERATION_PERFORMANCE,1
+GRAPHICS#GENERAL,HARD_DISC#OPERATION_PERFORMANCE,1
+FANS&COOLING#OPERATION_PERFORMANCE,LAPTOP#OPERATION_PERFORMANCE,1
+room_amenities design_features,restaurant general,1
+room_amenities design_features,DISPLAY#OPERATION_PERFORMANCE,1
+room_amenities comfort,rooms comfort,1
+SUPPORT#GENERAL,LAPTOP#PRICE,1
+SOFTWARE#DESIGN_FEATURES,SOFTWARE#GENERAL,1
+SOFTWARE#DESIGN_FEATURES,PORTS#OPERATION_PERFORMANCE,1
+SHIPPING#QUALITY,LAPTOP#PRICE,1
+SHIPPING#GENERAL,service general,1
+POWER_SUPPLY#QUALITY,BATTERY#OPERATION_PERFORMANCE,1
+PORTS#USABILITY,KEYBOARD#GENERAL,1
+OS#OPERATION_PERFORMANCE,LAPTOP#GENERAL,1
+OS#GENERAL,SOFTWARE#OPERATION_PERFORMANCE,1
+OPTICAL_DRIVES#GENERAL,LAPTOP#GENERAL,1
+MULTIMEDIA_DEVICES#GENERAL,food quality,1
+MULTIMEDIA_DEVICES#GENERAL,LAPTOP#GENERAL,1
+MULTIMEDIA_DEVICES#GENERAL,KEYBOARD#GENERAL,1
+PORTS#OPERATION_PERFORMANCE,SOFTWARE#OPERATION_PERFORMANCE,1
+rooms cleanliness,ambience general,1
+room_amenities quality,LAPTOP#DESIGN_FEATURES,1
+room_amenities general,restaurant prices,1
+room_amenities general,location general,1
+HARDWARE#DESIGN_FEATURES,DISPLAY#DESIGN_FEATURES,1
+PORTS#GENERAL,food quality,1
+PORTS#GENERAL,ambience general,1
+PORTS#GENERAL,KEYBOARD#GENERAL,1
+PORTS#DESIGN_FEATURES,KEYBOARD#USABILITY,1
+PORTS#DESIGN_FEATURES,KEYBOARD#DESIGN_FEATURES,1
+Out_Of_Scope#DESIGN_FEATURES,LAPTOP#OPERATION_PERFORMANCE,1
+Out_Of_Scope#DESIGN_FEATURES,KEYBOARD#USABILITY,1
+COMPANY#GENERAL,food quality,1
+service general,rooms cleanliness,1
+rooms quality,facilities general,1
+rooms general,rooms cleanliness,1
+rooms general,hotel general,1
+rooms general,facilities general,1
+rooms general,ambience general,1
+FANS&COOLING#GENERAL,ambience general,1
+FANS&COOLING#GENERAL,PORTS#OPERATION_PERFORMANCE,1

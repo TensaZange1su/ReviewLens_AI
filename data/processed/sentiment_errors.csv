@@ -1,0 +1,753 @@
+text,aspect,category,sentiment,domain,language,split,text_length,word_count,sentiment_label,category_label,predicted_sentiment,predicted_category
+hidden little jem,,restaurant general,positive,restaurant,en,test,17,3,2,136,negative,ambience general
+not too fine thought that you feel uncomfortable and have to dress up .,,ambience general,positive,restaurant,en,test,71,14,2,108,negative,ambience general
+The food is sinful .,food,food quality,positive,restaurant,en,test,20,5,2,121,negative,food quality
+It is n't the cheapest sushi but has been worth it every time .,sushi,food prices,neutral,restaurant,en,test,63,14,1,120,positive,food quality
+I hope one day Scooner or Later returns to what it once was .,Scooner or Later,restaurant general,negative,restaurant,en,test,61,14,0,136,positive,restaurant general
+"At best , the food was good and definately overpriced .",food,food prices,negative,restaurant,en,test,55,11,0,120,positive,food quality
+The outside patio area has an abbreviated menu .,menu,food style_options,neutral,restaurant,en,test,48,9,1,122,negative,food style_options
+Fancy pieces of exotic fish on a $ 100 dollar plate and NOT ONE was eatable .,exotic fish,food quality,negative,restaurant,en,test,77,17,0,121,positive,food quality
+Fancy pieces of exotic fish on a $ 100 dollar plate and NOT ONE was eatable .,exotic fish,food style_options,negative,restaurant,en,test,77,17,0,122,positive,food quality
+"As usual the omikase did n't disappoint in freshness , although it scored low on creativity and selection .",omikase,food style_options,negative,restaurant,en,test,107,19,0,122,positive,food quality
+The food was all good but it was way too mild .,food,food quality,negative,restaurant,en,test,47,12,0,121,positive,food quality
+– I decided to eat at Stack because of their price fixed pre-show dinner .,price fixed pre-show dinner,food prices,neutral,restaurant,en,test,74,15,1,120,positive,food prices
+Fair menu selection .,menu selection,food style_options,neutral,restaurant,en,test,21,4,1,122,positive,food quality
+It was decent but nothing exceptional .,,food quality,neutral,restaurant,en,test,39,7,1,121,positive,food quality
+– tucked away over by the Beverly Center .,,location general,neutral,restaurant,en,test,42,9,1,134,positive,location general
+– Not bad .,,restaurant general,neutral,restaurant,en,test,11,4,1,136,positive,restaurant general
+Waited 35 minutes for a table for 8 which was ok for such a big crowd .,,service general,neutral,restaurant,en,test,71,17,1,152,positive,restaurant miscellaneous
+"food was fine , with a some little-tastier-than-normal salsa .",salsa,food quality,positive,restaurant,en,test,62,10,2,121,negative,food quality
+"Food wise , its ok but a bit pricey for what you get considering the restaurant is n't a fancy place .",Food,food quality,neutral,restaurant,en,test,102,22,1,121,negative,food quality
+"Food wise , its ok but a bit pricey for what you get considering the restaurant is n't a fancy place .",restaurant,ambience general,neutral,restaurant,en,test,102,22,1,108,negative,restaurant prices
+"It was n't the freshest seafood ever , but the taste and presentation was OK .",seafood,food style_options,neutral,restaurant,en,test,78,16,1,122,negative,food quality
+"It was n't the freshest seafood ever , but the taste and presentation was OK .",seafood,food quality,neutral,restaurant,en,test,78,16,1,121,negative,food quality
+"It was n't the freshest seafood ever , but the taste and presentation was OK .",seafood,food quality,neutral,restaurant,en,test,78,16,1,121,negative,food quality
+The food is great and they make a mean bloody mary .,bloody mary,drinks quality,positive,restaurant,en,test,52,12,2,110,negative,food quality
+Nice food but no spice !,food,food quality,negative,restaurant,en,test,24,6,0,121,positive,food quality
+Management should really take notice and train their waitstaff and teach them some proper manners .,waitstaff,service general,negative,restaurant,en,test,99,16,0,152,positive,service general
+"Portions was just enough for me , but may not be for a big eater .",Portions,food style_options,neutral,restaurant,en,test,66,16,1,122,negative,food style_options
+"– The sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for NYC ) .",sushi,food style_options,negative,restaurant,en,test,197,43,0,122,positive,food quality
+"– The sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for NYC ) .",sushi,food prices,negative,restaurant,en,test,197,43,0,120,positive,food quality
+Snotty Attitude,,service general,negative,restaurant,en,test,15,2,0,152,positive,hotel general
+Not the biggest portions but adequate .,portions,food style_options,neutral,restaurant,en,test,39,7,1,122,negative,food style_options
+"It was so much though that I could barely finish but I did , since it was delicious .",,food style_options,neutral,restaurant,en,test,85,19,1,122,positive,food quality
+"Our server continued to be attentive throughout the night , but I did remain puzzled by one issue : Who thinks that Ray 's is an appropriate place to take young children for dinner ?",Ray 's,restaurant miscellaneous,neutral,restaurant,en,test,182,35,1,137,positive,restaurant general
+"Good Food , Great Service , Average Prices ( For the Strip )",,restaurant prices,neutral,restaurant,en,test,60,13,1,138,positive,hotel prices
+$ 6 with tip .,,restaurant prices,positive,restaurant,en,test,14,5,2,138,negative,service general
+"The music playing was very hip , 20-30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .",music,ambience general,positive,restaurant,en,test,172,32,2,108,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"The decor is rustic , traditional Japanese .",decor,ambience general,neutral,restaurant,en,test,44,8,1,108,positive,ambience general
+"the fish was fresh , though it was cut very thin .",fish,food style_options,negative,restaurant,en,test,50,12,0,122,positive,food quality
+Worst Service I Ever Had,Service,service general,positive,restaurant,en,test,24,5,2,152,negative,service general
+COMPLETELY OVER RATED !,,restaurant general,negative,restaurant,en,test,23,4,0,136,positive,restaurant general
+It 's a tiny place so if you get there before 8pm on a weekend ( Thurs ? Sun ) you will find it easier to get a table or a seat at the sushi bar .,place,restaurant miscellaneous,neutral,restaurant,en,test,146,37,1,137,negative,restaurant miscellaneous
+It 's unpretentious and underground .,,ambience general,positive,restaurant,en,test,37,6,2,108,negative,ambience general
+It 's unpretentious and underground .,,ambience general,positive,restaurant,en,test,37,6,2,108,negative,ambience general
+I swore never to return for a warm beer and mediocre meal .,beer,drinks quality,negative,restaurant,en,test,59,13,0,110,positive,drinks quality
+I got the shellfish and shrimp appetizer and it was alright .,shellfish and shrimp appetizer,food quality,neutral,restaurant,en,test,61,12,1,121,positive,food quality
+I would go back for the wine experience alone .,wine,drinks quality,positive,restaurant,en,test,47,10,2,110,negative,drinks quality
+The presentation of Snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced IHOP with a high brow menu .,Snooze,restaurant prices,negative,restaurant,en,test,206,40,0,138,positive,drinks quality
+The atmosphere was just okay .,atmosphere,ambience general,neutral,restaurant,en,test,30,6,1,108,positive,ambience general
+"It 's located in a strip mall near the Beverly Center , not the greatest location , but the food keeps me coming back for more .",location,location general,neutral,restaurant,en,test,128,27,1,134,positive,location general
+"– Schooner or Later 's charming location along the marina in Long Beach and average food does not , unfortunately , compensate for its very poor customer service .",food,food quality,neutral,restaurant,en,test,163,29,1,121,negative,food quality
+"In the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( I had water ) .",pancakes,food style_options,negative,restaurant,en,test,128,31,0,122,positive,food style_options
+"In the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( I had water ) .",pancakes,food prices,negative,restaurant,en,test,128,31,0,120,positive,food style_options
+"In the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( I had water ) .",breakfast burrito,food prices,negative,restaurant,en,test,128,31,0,120,positive,food style_options
+"In the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( I had water ) .",orange juice,drinks prices,negative,restaurant,en,test,128,31,0,109,positive,food prices
+"In the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( I had water ) .",iced tea,drinks prices,negative,restaurant,en,test,128,31,0,109,positive,food prices
+The pizza ’ s are not huge and the crust is thin ... keep that in mind when you ’ re ordering .,pizza ’ s,food style_options,neutral,restaurant,en,test,95,23,1,122,negative,food style_options
+The pizza ’ s are not huge and the crust is thin ... keep that in mind when you ’ re ordering .,crust,food style_options,neutral,restaurant,en,test,95,23,1,122,negative,food quality
+"The portions are big though , so do not order too much .",portions,food style_options,neutral,restaurant,en,test,56,13,1,122,negative,food style_options
+Service was decent .,Service,service general,neutral,restaurant,en,test,20,4,1,152,positive,service general
+I may not be a sushi guru but I can tell you that the food here is just okay and that there is not much else to it .,food,food quality,negative,restaurant,en,test,116,29,0,121,positive,food quality
+I recommend it for a night when you want to splurge ! ( it was a bit expensive ),,restaurant general,positive,restaurant,en,test,80,19,2,136,negative,hotel prices
+No Comparison,,restaurant general,positive,restaurant,en,test,13,2,2,136,negative,restaurant general
+We waited for an hour to be seated .,,service general,negative,restaurant,en,test,36,9,0,152,positive,service general
+not chewy at all .,,food quality,positive,restaurant,en,test,18,5,2,121,negative,food quality
+"On weekends , you might have to wait for couple hours .",,service general,neutral,restaurant,en,test,55,12,1,152,negative,service general
+When I got there I sat up stairs where the atmosphere was cozy & the service was horrible !,atmosphere,ambience general,positive,restaurant,en,test,91,19,2,108,negative,ambience general
+"I know many people have their favorite types of pizza and pizza places , but Mioposto 's pizza lacks quality and good taste .",pizza,food quality,negative,restaurant,en,test,125,24,0,121,positive,food quality
+The prior reviews said Kid friendly ... give me a break with two young children that is light years .,,restaurant miscellaneous,negative,restaurant,en,test,101,20,0,137,positive,hotel comfort
+Mediocre food,food,food quality,neutral,restaurant,en,test,13,2,1,121,negative,food quality
+"It ? s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .",peppercorn sauce,food quality,neutral,restaurant,en,test,114,21,1,121,negative,food quality
+"It ? s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .",red wine reduction,food quality,neutral,restaurant,en,test,114,21,1,121,positive,food quality
+"Good Sushi , High Price",Sushi,food prices,negative,restaurant,en,test,23,5,0,120,positive,food quality
+It was like dining at a completely different restaurant .,,restaurant general,positive,restaurant,en,test,57,10,2,136,negative,ambience general
+Maybe it is good for that one night once in a blue moon when the chefs decide to use fish that 's half-way decent .,fish,food quality,negative,restaurant,en,test,115,25,0,121,positive,food quality
+The pancakes were certainly inventive but $ 8.50 for 3 - 6 `` pancakes ( one of them was more like 5 `` ) in the pancake flight ( sample of 3 different pancakes ) is well over-priced .,pancakes,food style_options,positive,restaurant,en,test,184,39,2,122,negative,food quality
+The pancakes should be larger ( at least 8 `` ) to justify the expense even with the unique offerings .,pancakes,food style_options,negative,restaurant,en,test,103,21,0,122,positive,food style_options
+- Mediocre Service / Quality,Service,service general,neutral,restaurant,en,test,28,5,1,152,negative,service general
+Chintzy portions,portions,food style_options,negative,restaurant,en,test,16,2,0,122,positive,food style_options
+The regular menu here is slightly above average that is not worth the snotty attitude that you receive .,regular menu,food quality,neutral,restaurant,en,test,104,19,1,121,negative,food quality
+The regular menu here is slightly above average that is not worth the snotty attitude that you receive .,regular menu,food quality,neutral,restaurant,en,test,104,19,1,121,negative,food quality
+"it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel ... but they are definitely one you dont want to miss , esp if your in downtown san jose .",,restaurant general,positive,restaurant,en,test,213,44,2,136,negative,restaurant prices
+"They serve it in a tall , skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket .",juice,drinks style_options,negative,restaurant,en,test,159,33,0,111,positive,food prices
+"They serve it in a tall , skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket .",juice,drinks prices,negative,restaurant,en,test,159,33,0,109,positive,food prices
+"The food was ok , but the service was so poor that the food was cold buy the time everyone in my party was served .",food,food quality,neutral,restaurant,en,test,115,26,1,121,negative,food quality
+"Drinks are suberb , and I feel like I am in a Third World country when I walk in the door .",Drinks,drinks quality,positive,restaurant,en,test,91,22,2,110,negative,drinks quality
+"Drinks are suberb , and I feel like I am in a Third World country when I walk in the door .",,ambience general,positive,restaurant,en,test,91,22,2,108,negative,ambience general
+I found a new home and just moved with a long lease .,,restaurant general,positive,restaurant,en,test,53,13,2,136,negative,hotel general
+"They aren 't the most talkative , but everytime I 've been there they have been very busy , which probably accounts for the lack of conversation .",,service general,neutral,restaurant,en,test,146,28,1,152,negative,service general
+"We did have the same waiter the second time , so maybe the service is spotty and our luck is good .",waiter,service general,positive,restaurant,en,test,99,22,2,152,negative,service general
+"The dinner only took us about an hour and the prices were alright for the strip , almost $ 50 /pp after tax and tip ( about average ) .",,restaurant prices,neutral,restaurant,en,test,135,30,1,138,positive,restaurant prices
+"Terrible service , food ok , pricey",food,food quality,neutral,restaurant,en,test,35,7,1,121,negative,food quality
+"If I want to stand in line on Sunday for an hour to get average brunch food , then I would put Murphy 's at the top of the list .",brunch food,food quality,neutral,restaurant,en,test,129,31,1,121,positive,food quality
+"If I want to stand in line on Sunday for an hour to get average brunch food , then I would put Murphy 's at the top of the list .",,service general,negative,restaurant,en,test,129,31,0,152,positive,restaurant miscellaneous
+"– Had to wait thirty minutes to get in the door on a tuesday morning , but it was so worth it .",,restaurant miscellaneous,negative,restaurant,en,test,95,23,0,137,positive,restaurant general
+скрытый маленький джем,,restaurant general,positive,restaurant,ru,test,22,3,2,136,negative,ambience general
+– пепперони нарезаны очень толсто – Ммм.,пепперони,food style_options,positive,restaurant,ru,test,40,7,2,122,negative,food quality
+"не слишком хорошо думать, что вы чувствуете себя некомфортно и вынуждены одеваться.",,ambience general,positive,restaurant,ru,test,83,12,2,108,negative,ambience general
+"Честно говоря, я ела замороженную пиццу и получше.",пиццу,food quality,negative,restaurant,ru,test,50,8,0,121,positive,food quality
+еда греховна.,еда,food quality,positive,restaurant,ru,test,13,2,2,121,negative,food quality
+"Для начала, примерно 8-10 унций апельсинового сока обойдутся вам в 3 доллара.",апельсинового сока,drinks prices,negative,restaurant,ru,test,77,12,0,109,positive,food quality
+"Это не самое дешевое блюдо суши, но оно того стоило каждый раз.",суши,food prices,neutral,restaurant,ru,test,63,12,1,120,positive,food quality
+"Надеюсь, однажды Scooner или Later всё вернётся к тому, что было когда-то.",Scooner или Later,restaurant general,negative,restaurant,ru,test,74,12,0,136,positive,restaurant general
+"Самым приятным сюрпризом стал чек, который не превзошел моих ожиданий, как это всегда бывает в большинстве мест.",,restaurant prices,positive,restaurant,ru,test,112,17,2,138,negative,service general
+В лучшем случае еда была хорошей и определенно завышенной по цене.,еда,food quality,positive,restaurant,ru,test,66,11,2,121,negative,food quality
+На открытой террасе имеется сокращенное меню.,меню,food style_options,neutral,restaurant,ru,test,45,6,1,122,negative,food style_options
+"Как обычно, омикасе не разочаровал своей свежестью, хотя и получил низкие оценки за креативность и выбор.",омикасе,food style_options,negative,restaurant,ru,test,105,16,0,122,positive,food quality
+"еда была хорошей, но слишком безвкусной.",еда,food quality,positive,restaurant,ru,test,40,6,2,121,negative,food quality
+– Я решил поесть в Stack из-за их фиксированной цены на ужин перед выступлением.,фиксированной цены на ужин перед выступлением,food prices,neutral,restaurant,ru,test,80,14,1,120,negative,restaurant prices
+Непревзойденно суши!,суши,food quality,positive,restaurant,ru,test,20,2,2,121,negative,food quality
+Справедливо выбор меню.,выбор меню,food style_options,neutral,restaurant,ru,test,23,3,1,122,positive,food style_options
+"Я удивлен, что этот ресторан отнесен к категории $ $ $, а не $ $ $ $ .",ресторан,restaurant prices,negative,restaurant,ru,test,70,18,0,138,positive,restaurant general
+"Это было прилично, но ничего выдающегося.",,food quality,neutral,restaurant,ru,test,41,6,1,121,negative,food quality
+– спрятанный возле Беверли-центра.,,location general,neutral,restaurant,ru,test,34,4,1,134,positive,location general
+- Неплохо .,,restaurant general,neutral,restaurant,ru,test,11,3,1,136,positive,restaurant general
+"Ждали 35 минут столик на 8 человек, что было нормально для такой большой компании.",,service general,neutral,restaurant,ru,test,82,14,1,152,positive,restaurant miscellaneous
+"еда была хорошей, с некоторыми немного более вкусными, чем обычно сальса.",сальса,food quality,positive,restaurant,ru,test,73,11,2,121,negative,food quality
+"Еда в целом нормально, но немного дороговато, учитывая, что ресторан — не шикарное место.",Еда,food quality,neutral,restaurant,ru,test,89,14,1,121,negative,food quality
+"Еда в целом нормально, но немного дороговато, учитывая, что ресторан — не шикарное место.",ресторан,ambience general,neutral,restaurant,ru,test,89,14,1,108,negative,restaurant general
+"Это было не самое свежее блюдо морепродукты из всех, что я когда-либо видел, но вкус и подача были нормальными.",морепродукты,food style_options,neutral,restaurant,ru,test,111,19,1,122,negative,food quality
+"Это было не самое свежее блюдо морепродукты из всех, что я когда-либо видел, но вкус и подача были нормальными.",морепродукты,food quality,neutral,restaurant,ru,test,111,19,1,121,negative,food quality
+"Это было не самое свежее блюдо морепродукты из всех, что я когда-либо видел, но вкус и подача были нормальными.",морепродукты,food quality,neutral,restaurant,ru,test,111,19,1,121,negative,food quality
+УДИВИТЕЛЬНЫЙ .,,restaurant general,positive,restaurant,ru,test,14,2,2,136,negative,restaurant general
+"Вкусно еда, но без специй!",еда,food quality,negative,restaurant,ru,test,26,5,0,121,positive,food quality
+Руководству действительно следует обратить на это внимание и обучить официантов и научить их хорошим манерам.,официантов,service general,negative,restaurant,ru,test,109,15,0,152,positive,service general
+"Порции Мне было достаточно, но для любителей поесть может оказаться недостаточно.",Порции,food style_options,neutral,restaurant,ru,test,81,11,1,122,positive,food style_options
+"– суши здесь вполне хороши, но за 5 долларов за штуку либо кусочки рыбы должны быть больше, либо не должно быть никаких претензий на то, что это ресторан с умеренными ценами (даже по меркам Нью-Йорка).",ресторан,restaurant prices,negative,restaurant,ru,test,201,35,0,138,positive,restaurant prices
+"– суши здесь вполне хороши, но за 5 долларов за штуку либо кусочки рыбы должны быть больше, либо не должно быть никаких претензий на то, что это ресторан с умеренными ценами (даже по меркам Нью-Йорка).",суши,food style_options,negative,restaurant,ru,test,201,35,0,122,positive,food quality
+"– суши здесь вполне хороши, но за 5 долларов за штуку либо кусочки рыбы должны быть больше, либо не должно быть никаких претензий на то, что это ресторан с умеренными ценами (даже по меркам Нью-Йорка).",суши,food prices,negative,restaurant,ru,test,201,35,0,120,positive,food quality
+СИЛЬНО ПЕРЕОЦЕНЕН !!!,,restaurant general,negative,restaurant,ru,test,21,3,0,136,positive,hotel general
+"Не самые большие порции, но достаточные.",порции,food style_options,neutral,restaurant,ru,test,40,6,1,122,negative,food style_options
+"Хотя еды было так много, что я едва смогла доесть, но я это сделала, потому что она была очень вкусной.",,food style_options,neutral,restaurant,ru,test,103,20,1,122,positive,food quality
+"Хорошо Еда, Отлично Обслуживание, Средние цены (для Стрипа)",,restaurant prices,neutral,restaurant,ru,test,59,8,1,138,positive,restaurant prices
+6 долларов с чаевыми.,,restaurant prices,positive,restaurant,ru,test,21,4,2,138,negative,restaurant prices
+"декор выполнен в деревенском, традиционном японском стиле.",декор,ambience general,neutral,restaurant,ru,test,58,7,1,108,positive,ambience general
+"рыба была свежей, хотя и очень тонко нарезанной.",рыба,food style_options,negative,restaurant,ru,test,48,8,0,122,positive,food quality
+Худшее Обслуживание что я когда-либо имел,Обслуживание,service general,positive,restaurant,ru,test,41,6,2,152,negative,service general
+ПОЛНОСТЬЮ ПЕРЕОЦЕНЕН!,,restaurant general,negative,restaurant,ru,test,21,2,0,136,positive,restaurant general
+"Это крошечное место, поэтому, если вы придете туда до 20:00 в выходной день (с четверга по воскресенье), вам будет проще получить столик или место в суши-баре.",место,restaurant miscellaneous,neutral,restaurant,ru,test,159,26,1,137,positive,restaurant miscellaneous
+Он неприхотлив и андеграунден.,,ambience general,positive,restaurant,ru,test,30,4,2,108,negative,service general
+Он неприхотлив и андеграунден.,,ambience general,positive,restaurant,ru,test,30,4,2,108,negative,service general
+Я поклялся никогда не возвращаться за теплым пивом и посредственной едой.,пивом,drinks quality,negative,restaurant,ru,test,73,11,0,110,positive,drinks quality
+"Я заказал закуску из моллюсков и креветок, и она была в порядке.",закуску из моллюсков и креветок,food quality,neutral,restaurant,ru,test,64,12,1,121,positive,food quality
+"Представление Snooze превосходное, и это одно из тех мест, где чувствуешь себя более изысканным, просто находясь там; но если снять слои, то перед тобой окажется дорогой IHOP с высокопарным меню.",Snooze,restaurant prices,negative,restaurant,ru,test,195,30,0,138,positive,ambience general
+атмосфера была просто нормальной.,атмосфера,ambience general,neutral,restaurant,ru,test,33,4,1,108,positive,ambience general
+"Он расположен в торговом центре недалеко от Беверли-центра. Это не самое лучшее место расположение, но еда заставляет меня возвращаться сюда снова и снова.",расположение,location general,neutral,restaurant,ru,test,155,23,1,134,positive,location general
+"– Очаровательность расположение вдоль пристани для яхт в Лонг-Бич и средний уровень еда Schooner or Later, к сожалению, не компенсируют его очень плохое обслуживание клиентов.",еда,food quality,neutral,restaurant,ru,test,175,25,1,121,negative,food_drinks quality
+"В итоге наш чек составил 27 долларов за 4 маленьких блины, 1 буррито на завтрак, 1 апельсиновый сок и 1 холодный чай (у меня была вода).",холодный чай,drinks prices,negative,restaurant,ru,test,136,26,0,109,positive,food prices
+"Пиццы небольшие, а корочка тонкая... имейте это в виду, когда будете заказывать.",Пиццы,food style_options,neutral,restaurant,ru,test,80,12,1,122,negative,food style_options
+"Пиццы небольшие, а корочка тонкая... имейте это в виду, когда будете заказывать.",корочка,food style_options,neutral,restaurant,ru,test,80,12,1,122,negative,food style_options
+"Однако порции большие, поэтому не заказывайте слишком много.",порции,food style_options,neutral,restaurant,ru,test,60,8,1,122,negative,food style_options
+Обслуживание было приличным.,Обслуживание,service general,neutral,restaurant,ru,test,28,3,1,152,positive,service general
+"Я, может, и не гуру суши, но могу сказать, что еда здесь просто нормальная и ничего особенного в ней нет.",еда,food quality,negative,restaurant,ru,test,105,20,0,121,positive,food quality
+"Рекомендую на ночь, если вы хотите раскошелиться! (немного дороговато)",,restaurant general,positive,restaurant,ru,test,70,9,2,136,negative,hotel prices
+Нет сравнения,,restaurant general,positive,restaurant,ru,test,13,2,2,136,negative,restaurant general
+совсем не жевательный.,,food quality,positive,restaurant,ru,test,22,3,2,121,negative,food quality
+"В выходные дни вам, возможно, придется подождать пару часов.",,service general,neutral,restaurant,ru,test,60,9,1,152,negative,service general
+"Когда я туда приехал, я сел наверху, где атмосфера была уютной, а обслуживание ужасным!",атмосфера,ambience general,positive,restaurant,ru,test,87,14,2,108,negative,ambience general
+– ЛУЧШЕ НЕ МОЖЕТ БЫТЬ ! ! ! ! !,,restaurant general,positive,restaurant,ru,test,31,10,2,136,negative,hotel general
+"Я знаю, что у многих людей есть любимые виды пиццы и пиццерии, но пицца Mioposto pizza не отличается качеством и хорошим вкусом.",пиццы,food quality,negative,restaurant,ru,test,128,22,0,121,positive,food quality
+"В предыдущих отзывах говорилось, что подходит для детей... дайте мне отдохнуть с двумя маленькими детьми, это световые годы.",,restaurant miscellaneous,negative,restaurant,ru,test,124,18,0,137,positive,ambience general
+Посредственно еда,еда,food quality,neutral,restaurant,ru,test,17,2,1,121,positive,food quality
+"Его подают либо с перечным соусом, либо с уваренным красным вином, хотя оба варианта неотличимы по вкусу.",перечным соусом,food quality,neutral,restaurant,ru,test,105,17,1,121,negative,food quality
+"Его подают либо с перечным соусом, либо с уваренным красным вином, хотя оба варианта неотличимы по вкусу.",уваренным красным вином,food quality,neutral,restaurant,ru,test,105,17,1,121,positive,food quality
+"Хорошо Суши, Высокая цена",Суши,food prices,negative,restaurant,ru,test,25,4,0,120,positive,food quality
+Это было похоже на ужин в совершенно другом ресторане.,,restaurant general,positive,restaurant,ru,test,54,9,2,136,negative,ambience general
+"Представьте себе мое радостное удивление, когда я обнаружил, что просмотры — это всего лишь третья по значимости вещь в Рэе!",просмотры,location general,positive,restaurant,ru,test,124,20,2,134,negative,food style_options
+"Может быть, это хорошо для того единственного вечера, когда повара решают использовать рыбу, которая более-менее прилична.",рыбу,food quality,negative,restaurant,ru,test,122,16,0,121,positive,food quality
+"блина были, безусловно, изобретательны, но 8,50 долларов за 3 - 6 `` блинов (один из них был больше похож на 5 ``) в блинной порции (образец из 3 разных блинов) - это сильно завышенная цена.",блина,food style_options,positive,restaurant,ru,test,190,35,2,122,negative,food quality
+- Посредственно Обслуживание / Качество,Обслуживание,service general,neutral,restaurant,ru,test,39,5,1,152,positive,service general
+Чинтзи порции,порции,food style_options,negative,restaurant,ru,test,13,2,0,122,positive,food style_options
+"обычное меню здесь немного выше среднего, и оно не стоит того наглого отношения, которое вы получите.",обычное меню,food quality,neutral,restaurant,ru,test,101,16,1,121,negative,food style_options
+"обычное меню здесь немного выше среднего, и оно не стоит того наглого отношения, которое вы получите.",обычное меню,food quality,neutral,restaurant,ru,test,101,16,1,121,negative,food style_options
+"Печально, что не так много людей посещают такие заведения, которые кажутся дорогими, потому что находятся в отеле... но это определенно то место, которое вы не захотите пропустить, особенно если вы находитесь в центре Сан-Хосе.",,restaurant general,positive,restaurant,ru,test,227,34,2,136,negative,hotel general
+"еда была в порядке, но обслуживание было настолько плохим, что еда была холодной к тому времени, как ее подали всем членам моей группы.",еда,food quality,neutral,restaurant,ru,test,135,23,1,121,negative,food quality
+"Они не самые разговорчивые, но каждый раз, когда я там был, они были очень заняты, что, вероятно, и объясняет отсутствие разговоров.",,service general,neutral,restaurant,ru,test,132,21,1,152,negative,service general
+"пицца сама по себе не самая лучшая, что я КОГДА-ЛИБО пробовал, но все равно довольно хороша.",пицца,food quality,positive,restaurant,ru,test,92,16,2,121,negative,food quality
+"Во второй раз у нас был тот же самый официант, так что, возможно, обслуживание было нестабильным, а нам просто повезло.",официант,service general,positive,restaurant,ru,test,119,20,2,152,negative,service general
+"Ужин занял у нас около часа, а цены были приемлемыми для стриптиза, почти 50 долларов на человека после уплаты налогов и чаевых (средний показатель).",,restaurant prices,neutral,restaurant,ru,test,149,24,1,138,positive,restaurant prices
+"Ужасно обслуживание, еда нормально, дорого",еда,food quality,neutral,restaurant,ru,test,42,5,1,121,positive,food quality
+"Если я хочу отстоять очередь в воскресенье в течение часа, чтобы получить среднестатистическую еду для позднего завтрака еду, то я бы поставил Murphy's на первое место в списке.",еду для позднего завтрака,food quality,neutral,restaurant,ru,test,177,28,1,121,positive,food quality
+"Если я хочу отстоять очередь в воскресенье в течение часа, чтобы получить среднестатистическую еду для позднего завтрака еду, то я бы поставил Murphy's на первое место в списке.",,service general,negative,restaurant,ru,test,177,28,0,152,positive,restaurant miscellaneous
+"– Пришлось подождать тридцать минут, чтобы попасть внутрь во вторник утром, но это того стоило.",,restaurant miscellaneous,negative,restaurant,ru,test,95,15,0,137,positive,restaurant general
+"nicht so schön gedacht, dass man sich unwohl fühlt und sich schick machen muss.",,ambience general,positive,restaurant,de,test,79,14,2,108,negative,ambience general
+VERMEIDEN SIE DEN ORT,ORT,restaurant general,negative,restaurant,de,test,21,4,0,136,positive,restaurant general
+Ehrlich gesagt habe ich schon bessere Tiefkühlpizza gegessen Pizza.,Pizza,food quality,negative,restaurant,de,test,67,9,0,121,positive,food quality
+Das Essen ist sündig.,Essen,food quality,positive,restaurant,de,test,21,4,2,121,negative,food quality
+"Auf einer kürzlichen Reise war unser Kellner äußerst abweisend, während nicht weniger als drei Mitarbeiter zwei in der Nähe sitzende japanische Mädchen rundum bedienten.",Kellner,service general,negative,restaurant,de,test,169,24,0,152,positive,service general
+"Es ist nicht das Billigste Sushi, aber hat sich jedes Mal gelohnt.",Sushi,food prices,neutral,restaurant,de,test,66,12,1,120,positive,food quality
+"Da wir Teil einer kleinen Gruppe von vier Personen waren, wurde uns das Essen kommentarlos gebracht.",,service general,negative,restaurant,de,test,100,16,0,152,positive,service general
+"Ich hoffe, dass es eines Tages Scooner oder später wieder das wird, was es einmal war.",Scooner oder später,restaurant general,negative,restaurant,de,test,86,16,0,136,positive,restaurant general
+Das Essen war bestenfalls gut und definitiv überteuert.,Essen,food prices,negative,restaurant,de,test,55,8,0,120,positive,food quality
+Der Außenbereich verfügt über eine Kurzkarte Speisekarte.,Speisekarte,food style_options,neutral,restaurant,de,test,57,7,1,122,positive,food style_options
+Ausgefallene Stücke exotischer Fisch auf einem 100-Dollar-Teller  und NICHT EINS war essbar.,,food prices,negative,restaurant,de,test,92,12,0,120,positive,food prices
+Ausgefallene Stücke exotischer Fisch auf einem 100-Dollar-Teller  und NICHT EINS war essbar.,exotischer Fisch,food quality,negative,restaurant,de,test,92,12,0,121,positive,food quality
+Ausgefallene Stücke exotischer Fisch auf einem 100-Dollar-Teller  und NICHT EINS war essbar.,exotischer Fisch,food style_options,negative,restaurant,de,test,92,12,0,122,positive,food quality
+"Wie üblich enttäuschte das Omikase nicht in puncto Frische, schnitt jedoch in puncto Kreativität und Auswahl schlecht ab.",Omikase,food quality,positive,restaurant,de,test,121,18,2,121,negative,food quality
+Ihr Krabben-Eier Benedict macht süchtig.,Krabben-Eier Benedict,food quality,positive,restaurant,de,test,40,5,2,121,negative,food quality
+Das Essen war durchweg gut aber viel zu mild.,Essen,food quality,negative,restaurant,de,test,45,9,0,121,positive,food quality
+Beleidigend überteuert,,restaurant prices,negative,restaurant,de,test,22,2,0,138,positive,food quality
+"– Ich habe mich entschieden, bei Stack zu essen, weil es dort Abendessen vor der Show zum Festpreis gibt.",Abendessen vor der Show zum Festpreis,food prices,neutral,restaurant,de,test,105,19,1,120,positive,food prices
+Messe Menüauswahl .,Menüauswahl,food style_options,neutral,restaurant,de,test,19,3,1,122,positive,food style_options
+Macht süchtig!,,restaurant general,positive,restaurant,de,test,14,2,2,136,negative,restaurant general
+"Das ist ein großes Kompliment, besonders im unbeständigen Gastronomiegewerbe, aber jetzt reicht es!",,restaurant general,positive,restaurant,de,test,99,13,2,136,negative,restaurant general
+"Nachdem ich über 20 Minuten mit meinem leeren Glas dort gesessen hatte, bin ich gegangen.",,service general,negative,restaurant,de,test,89,15,0,152,positive,restaurant general
+"Es war okay, aber nichts Außergewöhnliches.",,food quality,neutral,restaurant,de,test,43,6,1,121,negative,food quality
+– versteckt beim Beverly Center.,,location general,neutral,restaurant,de,test,32,5,1,134,negative,location general
+– Nicht schlecht.,,restaurant general,neutral,restaurant,de,test,17,3,1,136,positive,restaurant general
+"Wir haben 35 Minuten auf einen Tisch für 8 gewartet, was für so eine große Menge ok war.",,service general,neutral,restaurant,de,test,88,18,1,152,positive,service general
+"Das Essen war in Ordnung, mit einer etwas-leckerer-als-normalen Salsa.",Das Essen,food quality,positive,restaurant,de,test,70,9,2,121,negative,food quality
+"Das Essen war in Ordnung, mit einer etwas-leckerer-als-normalen Salsa.",Salsa,food quality,positive,restaurant,de,test,70,9,2,121,negative,food quality
+"Das Essen ist ok, aber für das, was man bekommt, etwas teuer, wenn man bedenkt, dass das Restaurant kein schickes Lokal ist.",Das Essen,food quality,neutral,restaurant,de,test,124,22,1,121,negative,food prices
+"Das Essen ist ok, aber für das, was man bekommt, etwas teuer, wenn man bedenkt, dass das Restaurant kein schickes Lokal ist.",Restaurant,ambience general,neutral,restaurant,de,test,124,22,1,108,negative,restaurant prices
+"Es waren zwar nicht die frischesten Meeresfrüchte aller Zeiten, aber Geschmack und Präsentation waren ok.",Meeresfrüchte,food style_options,neutral,restaurant,de,test,105,15,1,122,positive,food quality
+"Es waren zwar nicht die frischesten Meeresfrüchte aller Zeiten, aber Geschmack und Präsentation waren ok.",Meeresfrüchte,food quality,neutral,restaurant,de,test,105,15,1,121,positive,food quality
+"Es waren zwar nicht die frischesten Meeresfrüchte aller Zeiten, aber Geschmack und Präsentation waren ok.",Meeresfrüchte,food quality,neutral,restaurant,de,test,105,15,1,121,positive,food quality
+"Nett Essen, aber keine Würze!",Essen,food quality,negative,restaurant,de,test,29,5,0,121,positive,food quality
+"Das Management sollte das wirklich zur Kenntnis nehmen, seine Kellner schulen und ihnen gute Manieren beibringen.",Kellner,service general,negative,restaurant,de,test,113,16,0,152,positive,service general
+"Portionen war für mich gerade genug, ist aber vielleicht nichts für einen großen Esser.",Portionen,food style_options,neutral,restaurant,de,test,87,14,1,122,negative,food style_options
+"– Das Sushi hier ist vollkommen gut, aber für 5 $ das Stück sollten entweder die Fischstücke größer sein, oder man sollte nicht den Eindruck erwecken, dass es sich hier um ein Restaurant mit mittleren Preisen handelt (selbst für NYC).",Sushi,food style_options,negative,restaurant,de,test,234,40,0,122,positive,food quality
+"– Das Sushi hier ist vollkommen gut, aber für 5 $ das Stück sollten entweder die Fischstücke größer sein, oder man sollte nicht den Eindruck erwecken, dass es sich hier um ein Restaurant mit mittleren Preisen handelt (selbst für NYC).",Sushi,food prices,negative,restaurant,de,test,234,40,0,120,positive,food quality
+Rotzige Haltung,,service general,negative,restaurant,de,test,15,2,0,152,positive,food quality
+Nicht die größten Portionen aber ausreichend.,Portionen,food style_options,neutral,restaurant,de,test,45,6,1,122,positive,food style_options
+"Allerdings war es so viel, dass ich es kaum aufessen konnte, aber ich habe es geschafft, weil es so köstlich war.",,food style_options,neutral,restaurant,de,test,113,21,1,122,positive,food quality
+"Gut Essen, Großartig Service, Durchschnittliche Preise (für den Strip)",,restaurant prices,neutral,restaurant,de,test,70,9,1,138,negative,restaurant prices
+6 $ mit Trinkgeld.,,restaurant prices,positive,restaurant,de,test,18,4,2,138,negative,restaurant prices
+"Die Einrichtung ist rustikal, traditionell japanisch.",Einrichtung,ambience general,neutral,restaurant,de,test,53,6,1,108,positive,ambience general
+"der Fisch war frisch, obwohl er sehr dünn geschnitten war.",Fisch,food style_options,negative,restaurant,de,test,58,10,0,122,positive,food quality
+"Der schlechteste Service, den ich je hatte",Service,service general,positive,restaurant,de,test,42,7,2,152,negative,service general
+"Ich hätte daran denken sollen, es anzusprechen, aber ich hätte nie erwartet, dass das Essen so mild ist.",Essen,food quality,negative,restaurant,de,test,104,18,0,121,positive,food quality
+"Es ist ein winziges Lokal, wenn Sie also am Wochenende (Donnerstag? Sonntag) vor 20.00 Uhr dort ankommen, ist es einfacher, einen Tisch oder einen Platz an der Sushi-Bar zu bekommen.",Lokal,restaurant miscellaneous,neutral,restaurant,de,test,182,30,1,137,positive,ambience general
+Es ist unprätentiös und underground.,,ambience general,positive,restaurant,de,test,36,5,2,108,negative,ambience general
+Es ist unprätentiös und underground.,,ambience general,positive,restaurant,de,test,36,5,2,108,negative,ambience general
+Ich hatte Vorspeise mit Schalentieren und Garnelen und es war in Ordnung.,Vorspeise mit Schalentieren und Garnelen,food quality,neutral,restaurant,de,test,73,12,1,121,positive,food quality
+"Die Präsentation von Snooze ist hervorragend und es ist einer jener Orte, an denen man sich allein durch den Aufenthalt dort kultivierter fühlt; zieht man jedoch die Schichten ab, hat man ein überteuertes IHOP mit einem hochtrabenden Menü.",Menü,food style_options,negative,restaurant,de,test,239,38,0,122,positive,food style_options
+"Die Präsentation von Snooze ist hervorragend und es ist einer jener Orte, an denen man sich allein durch den Aufenthalt dort kultivierter fühlt; zieht man jedoch die Schichten ab, hat man ein überteuertes IHOP mit einem hochtrabenden Menü.",Snooze,restaurant prices,negative,restaurant,de,test,239,38,0,138,positive,ambience general
+Die Atmosphäre war nur ok.,Atmosphäre,ambience general,neutral,restaurant,de,test,26,5,1,108,positive,ambience general
+"Es liegt in einem Einkaufszentrum in der Nähe des Beverly Centers und ist nicht die beste Lage, aber das Essen sorgt dafür, dass ich immer wieder zurückkomme.",Lage,location general,neutral,restaurant,de,test,158,27,1,134,positive,location general
+– Der charmante Lage entlang der Marina in Long Beach und durchschnittliche Essen Service von Schooner or Later kann leider nicht für den sehr schlechten Kundenservice entschädigen.,Essen,food quality,neutral,restaurant,de,test,181,27,1,121,positive,food_drinks quality
+"Am Ende belief sich unsere Rechnung auf 27 $ für 4 kleine Pfannkuchen, einen Frühstücks-Burrito, einen Orangensaft und einen Eistee (ich hatte Wasser).",Frühstücks-Burrito,food prices,negative,restaurant,de,test,151,23,0,120,positive,food style_options
+"Die Pizzen sind nicht riesig und der Rand ist dünn ... denken Sie daran, wenn Sie bestellen.",Pizzen,food style_options,neutral,restaurant,de,test,92,17,1,122,negative,food style_options
+"Die Pizzen sind nicht riesig und der Rand ist dünn ... denken Sie daran, wenn Sie bestellen.",Rand,food style_options,neutral,restaurant,de,test,92,17,1,122,negative,food style_options
+"Die Portionen sind allerdings groß, bestellen Sie also nicht zu viel.",Portionen,food style_options,neutral,restaurant,de,test,69,11,1,122,negative,food style_options
+Der Service war in Ordnung.,Der Service,service general,neutral,restaurant,de,test,27,5,1,152,positive,service general
+"Ausgezeichnet Essen, nett Ambiente, ziemlich teuer",Ambiente,ambience general,positive,restaurant,de,test,50,6,2,108,negative,ambience general
+"Ich empfehle es für eine Nacht, wenn Sie sich etwas gönnen möchten! (es war etwas teuer)",,restaurant general,positive,restaurant,de,test,88,16,2,136,negative,hotel prices
+"Obwohl das Essen in diesem Lokal einigermaßen gut war , schien das Restaurantpersonal unserer Anwesenheit gegenüber völlig gleichgültig zu sein, was sich auch im mangelhaften Service widerspiegelte.",,food quality,positive,restaurant,de,test,198,27,2,121,negative,service general
+überhaupt nicht zäh.,,food quality,positive,restaurant,de,test,20,3,2,121,negative,LAPTOP#DESIGN_FEATURES
+An Wochenenden müssen Sie möglicherweise einige Stunden warten.,,service general,neutral,restaurant,de,test,63,8,1,152,negative,service general
+"Als ich dort ankam, saß ich oben, wo die Atmosphäre gemütlich und der Service schrecklich war!",Atmosphäre,ambience general,positive,restaurant,de,test,94,16,2,108,negative,ambience general
+– BESSER GEHT ES NICHT ! ! ! ! !,,restaurant general,positive,restaurant,de,test,32,10,2,136,negative,restaurant general
+"Ich weiß, dass viele Leute ihre Lieblingsarten Pizza und Pizza-Läden haben, aber bei Mioposto Pizza mangelt es an Qualität und gutem Geschmack.",Pizza,food quality,negative,restaurant,de,test,143,22,0,121,positive,food quality
+"In den vorherigen Bewertungen hieß es „Kinderfreundlich“ … geben Sie mir mit zwei kleinen Kindern eine Pause, das ist Lichtjahre entfernt.",,restaurant miscellaneous,negative,restaurant,de,test,138,21,0,137,positive,restaurant miscellaneous
+Mittelmäßig Essen,Essen,food quality,neutral,restaurant,de,test,17,2,1,121,negative,food quality
+"Dazu gab es entweder eine Pfeffersauce oder eine Rotweinreduktion, beides war geschmacklich jedoch nicht zu unterscheiden.",Pfeffersauce,food quality,neutral,restaurant,de,test,122,16,1,121,negative,food quality
+"Dazu gab es entweder eine Pfeffersauce oder eine Rotweinreduktion, beides war geschmacklich jedoch nicht zu unterscheiden.",Rotweinreduktion,food quality,neutral,restaurant,de,test,122,16,1,121,positive,drinks quality
+"Gut Sushi, Hoher Preis",Sushi,food prices,negative,restaurant,de,test,22,4,0,120,positive,food quality
+"Es war, als ob man in einem völlig anderen Restaurant speisen würde.",,restaurant general,positive,restaurant,de,test,68,12,2,136,negative,food quality
+"Vielleicht ist es gut für den einen Abend, alle Jubeljahre, an dem die Köche sich entscheiden, Fisch zu verwenden, der halbwegs anständig ist.",Fisch,food quality,negative,restaurant,de,test,142,23,0,121,positive,food quality
+"Die Pfannkuchen waren sicherlich einfallsreich, aber 8,50 $ für 3 - 6 "" Pfannkuchen (einer davon war eher 5 "") im Pfannkuchen-Flight (Probe von 3 verschiedenen Pfannkuchen) ist deutlich überteuert.",Pfannkuchen,food style_options,positive,restaurant,de,test,197,30,2,122,negative,food style_options
+"Die Pfannkuchen sollten größer sein (mindestens 8'NULL'), um den Aufwand auch bei dem einzigartigen Angebot zu rechtfertigen.",Pfannkuchen,food style_options,negative,restaurant,de,test,125,17,0,122,positive,food style_options
+- Mittelmäßig Service / Qualität,Service,service general,neutral,restaurant,de,test,32,5,1,152,negative,service general
+Chintzy Portionen,Portionen,food style_options,negative,restaurant,de,test,17,2,0,122,positive,food style_options
+"Das reguläre Menü hier liegt leicht über dem Durchschnitt, das ist die patzige Haltung, die man hier bekommt, nicht wert.",reguläre Menü,food quality,neutral,restaurant,de,test,121,20,1,121,negative,food style_options
+"Das reguläre Menü hier liegt leicht über dem Durchschnitt, das ist die patzige Haltung, die man hier bekommt, nicht wert.",reguläre Menü,food quality,neutral,restaurant,de,test,121,20,1,121,negative,food style_options
+"es ist schade, dass nicht viele Leute häufig in solchen Lokalen essen, die teuer aussehen, weil sie sich im Hotel befinden … aber man sollte sie sich auf keinen Fall entgehen lassen, vor allem wenn man in der Innenstadt von San Jose ist.",,restaurant general,positive,restaurant,de,test,237,43,2,136,negative,restaurant prices
+"Das Essen war ok, aber der Service war so schlecht, dass das Essen kalt war, während alle aus meiner Gruppe bedient wurden.",Essen,food quality,neutral,restaurant,de,test,123,22,1,121,negative,food quality
+"Sie sind nicht die Gesprächigsten, aber jedes Mal, wenn ich dort war, waren sie sehr beschäftigt, was wahrscheinlich der Grund für die mangelnde Konversation ist.",,service general,neutral,restaurant,de,test,162,25,1,152,negative,service general
+"Das Abendessen dauerte nur etwa eine Stunde und die Preise waren für den Strip in Ordnung, fast 50 $ pro Person nach Steuern und Trinkgeld (ungefähr durchschnittlich).",,restaurant prices,neutral,restaurant,de,test,167,27,1,138,positive,restaurant prices
+"Schrecklich Service , Essen ok , teuer",Essen,food quality,neutral,restaurant,de,test,38,7,1,121,negative,food quality
+"Wenn ich am Sonntag eine Stunde in der Schlange stehen möchte, um durchschnittliches Essen Brunch-Essen zu bekommen, dann würde ich Murphy's ganz oben auf die Liste setzen.",Brunch-Essen,food quality,neutral,restaurant,de,test,172,27,1,121,positive,food quality
+"Wenn ich am Sonntag eine Stunde in der Schlange stehen möchte, um durchschnittliches Essen Brunch-Essen zu bekommen, dann würde ich Murphy's ganz oben auf die Liste setzen.",,service general,negative,restaurant,de,test,172,27,0,152,positive,service general
+"Wir sind Einheimische und haben das Gefühl, dass dieser Ort mit solch durchschnittlichem Essen nur überleben kann, weil die meisten Kunden wahrscheinlich einmalige Touristen sind.",Essen,food quality,negative,restaurant,de,test,179,25,0,121,positive,food quality
+ICH HABE AUF DER SECOND AVENUE EIN NEUES ZUHAUSE GEFUNDEN ! ! ! ! ! ! ! ! ! ! ! !,,restaurant general,positive,restaurant,de,test,81,22,2,136,negative,restaurant general
+"– Musste an einem Dienstagmorgen dreißig Minuten warten, bis ich reinkam, aber es hat sich wirklich gelohnt.",,restaurant miscellaneous,negative,restaurant,de,test,108,17,0,137,positive,restaurant general
+"The room is well decorated , though noisy and on a small side .",room,rooms comfort,negative,hotel,en,test,63,14,0,146,positive,rooms design_features
+"The room is well decorated , though noisy and on a small side .",room,rooms design_features,negative,hotel,en,test,63,14,0,147,positive,rooms design_features
+"The only downside was , that some of the staff could have been more attentive and friendly .",staff,service general,neutral,hotel,en,test,92,18,1,152,negative,service general
+"The only downside was , that some of the staff could have been more attentive and friendly .",staff,service general,neutral,hotel,en,test,92,18,1,152,negative,service general
+"While it has a 2 star rating , its because it doesn ' t have things like elevators , a big fancy lobby or iron for guests , but everything else about it was 4 star !",,facilities design_features,negative,hotel,en,test,165,37,0,114,positive,hotel comfort
+"The hotel is starting to show its age though , and the standard prices are several times what they should be .",hotel,hotel design_features,positive,hotel,en,test,110,22,2,129,negative,hotel prices
+They moved us to 2 one bedr suites across the hall from each other - beds,,service general,neutral,hotel,en,test,73,16,1,152,positive,service general
+"The rooms are very comfortable and we had great nights sleep , didn ' t eat in hotel as was abit pricey for our liking , they did recommend very good eating places nearby that suited our requirements perfectly .",,food_drinks prices,negative,hotel,en,test,211,40,0,124,positive,hotel prices
+"Good location , passive - agressive service",service,service general,neutral,hotel,en,test,43,7,1,152,negative,service general
+"I could never afford to stay here on my own , but it was fun for just this one time .",,hotel prices,negative,hotel,en,test,85,21,0,132,positive,restaurant general
+"Did not love the Chealsea Lodge First of all , I rely on Trip Advisor for my traveling .",Chealsea Lodge,hotel general,positive,hotel,en,test,88,19,2,130,negative,hotel general
+The room was small but didn ' t spend much time in it - and it was quiet .,room,rooms design_features,negative,hotel,en,test,74,19,0,147,positive,rooms design_features
+"This is a really nice hotel , but it ' s pretty expensive .",hotel,hotel prices,negative,hotel,en,test,59,14,0,132,positive,hotel general
+clean and tidy maid was a bit hit and miss with towels but not a problem beach was very nice and clean plenty of entertainment regardless of what you liked,maid,service general,neutral,hotel,en,test,155,30,1,152,negative,service general
+Nice little hotel in the middle of the big apple,hotel,hotel design_features,negative,hotel,en,test,48,10,0,129,positive,hotel general
+"Rooms are on the basic side , but they have everything that you ' d need .",Rooms,rooms quality,neutral,hotel,en,test,74,17,1,151,positive,rooms design_features
+"The hotel room was fine , rather small but ok .",room,rooms design_features,negative,hotel,en,test,47,11,0,147,positive,rooms design_features
+fine - kids loved the weekend though which is the whole point - still considering the cost could make a better effort to feed the grown ups,,service general,positive,hotel,en,test,139,27,2,152,negative,restaurant prices
+"It is clean , well kept with minimalist modern decor and the staff are extremely friendly and helpful .",staff,service general,negative,hotel,en,test,103,19,0,152,positive,service general
+Not that bad,,hotel general,neutral,hotel,en,test,12,3,1,130,positive,restaurant general
+The only thing that the hotel could improve on was seating in the main lobby -  - there is a couple of chairs and a couch and alot of empty space .,hotel,facilities comfort,neutral,hotel,en,test,147,32,1,113,positive,facilities general
+The only drawbacks - which are no secret - are that the rooms are small ( although very well arranged ) and the bathrooms are shared ( or at least mine was )  .,rooms,rooms general,positive,hotel,en,test,160,34,2,148,negative,rooms design_features
+"The food at the revolving restaurant was excellent as was the service , although it was a little on the expensive side .",service,service general,positive,hotel,en,test,120,23,2,152,negative,service general
+"The food at the revolving restaurant was excellent as was the service , although it was a little on the expensive side .",food,food_drinks prices,negative,hotel,en,test,120,23,0,124,positive,food quality
+>Caveat on ' Ocean View ' Room,'Ocean View' Room,rooms general,negative,hotel,en,test,30,7,0,148,positive,rooms general
+"The rooms and hallways are a bit dated , but they are spotless and have many amenities .",rooms,rooms cleanliness,positive,hotel,en,test,88,18,2,145,negative,rooms design_features
+"The rooms and hallways are a bit dated , but they are spotless and have many amenities .",hallways,rooms cleanliness,positive,hotel,en,test,88,18,2,145,negative,rooms design_features
+This hotel was 1 block from restaurant row  2 blocks from the theater district plus it averaged $ 159 per night .,hotel,hotel prices,neutral,hotel,en,test,113,22,1,132,positive,location general
+I paid $ 535 . 00 for 4 nights .,,hotel prices,positive,hotel,en,test,32,10,2,132,negative,hotel prices
+A clean and nice place to stay with an average price .,,hotel prices,neutral,hotel,en,test,54,12,1,132,positive,hotel prices
+The surrounding neighbourhood seems a little run - down but perhaps this is just the old feel of the place .,,hotel general,neutral,hotel,en,test,108,21,1,130,negative,location general
+It was just a little outside New Orleans,,location general,negative,hotel,en,test,40,8,0,134,positive,location general
+"The standard room is not so big , but if you store your clothes in the closet and put your suitcases under the bed , you really feel like home !  !",room,rooms design_features,negative,hotel,en,test,147,32,0,147,positive,rooms design_features
+"The standard room is not so big , but if you store your clothes in the closet and put your suitcases under the bed , you really feel like home !  !",room,rooms comfort,neutral,hotel,en,test,147,32,1,146,positive,rooms design_features
+"There ' s nothing extraordinary about this hotel , the gym is quaint , the rooms are small , the bathroom is actually really big , it was about 1 / 2 the size of the bedroom .  .  .",gym,facilities general,negative,hotel,en,test,181,40,0,115,positive,facilities general
+"There ' s nothing extraordinary about this hotel , the gym is quaint , the rooms are small , the bathroom is actually really big , it was about 1 / 2 the size of the bedroom .  .  .",rooms,rooms design_features,negative,hotel,en,test,181,40,0,147,positive,rooms design_features
+"Hotel room as expected for Embassy Suites , Noise level on bedroom side from road very loud and disturbing .",room,rooms design_features,neutral,hotel,en,test,108,20,1,147,negative,rooms design_features
+I believe the hotel is only suitable for surfers and young people .,hotel,hotel general,neutral,hotel,en,test,67,13,1,130,negative,hotel comfort
+Trying to get a drink from the hotel bar was a challenge but if you are not in a hurry you will get one .,,facilities comfort,neutral,hotel,en,test,105,25,1,113,positive,service general
+"Good value for money , very clean and OK breakfast .",breakfast,food_drinks quality,neutral,hotel,en,test,52,11,1,125,positive,food_drinks quality
+Polyester Sheets,,hotel design_features,negative,hotel,en,test,16,2,0,129,positive,LAPTOP#DESIGN_FEATURES
+"There are a ton of hotels and I say , look elsewher",,hotel miscellaneous,negative,hotel,en,test,51,12,0,131,positive,hotel general
+The rooms were good but a on the small side .,rooms,rooms general,positive,hotel,en,test,45,11,2,148,negative,rooms design_features
+"In all fairness , beds did provide lovely ocean view and staff were sincere and very helpful .",beds,room_amenities general,negative,hotel,en,test,94,18,0,142,positive,rooms general
+"I would definitely stay here again , but word to the wise : make sure you get your car out of the garage within a 24 hour time period or they will charge you for an extra day , even if you ' re only a minute or two late !",,hotel general,positive,hotel,en,test,221,51,2,130,negative,service general
+We seem to have lucked out though and got a far superior room to the one we had before ( or they ' ve just decorated !  ) and the staff couldn ' t have been more friendly and helpful .,,service general,negative,hotel,en,test,184,41,0,152,positive,service general
+average at best,,hotel general,neutral,hotel,en,test,15,3,1,130,negative,restaurant general
+New ammenities like bigger closet and sofa to watch TV where totally unexpected for me .,ammenities,room_amenities design_features,positive,hotel,en,test,88,16,2,141,negative,ambience general
+New ammenities like bigger closet and sofa to watch TV where totally unexpected for me .,closet,room_amenities design_features,positive,hotel,en,test,88,16,2,141,negative,ambience general
+"Once the airconditioning is running you dont hear the noise , and when you only need five minutes to get to any place , you forget the rudness of the front desk staff .",,service general,negative,hotel,en,test,168,34,0,152,positive,service general
+Be prepared to part with $ 25 a day for parking as well .,,facilities prices,negative,hotel,en,test,57,14,0,117,positive,hotel prices
+but nothing special .,,hotel general,neutral,hotel,en,test,21,4,1,130,negative,food quality
+"There is no hot tub , I thought there was",,room_amenities design_features,negative,hotel,en,test,41,10,0,141,positive,facilities general
+Rooms are small but clean .,Rooms,rooms design_features,negative,hotel,en,test,27,6,0,147,positive,rooms design_features
+"You see the ocean from every room , the butler was great and whilst the staff were not the most efficent in the world , their efforts and kindness make up for it .",staff,service general,neutral,hotel,en,test,163,34,1,152,negative,service general
+"You see the ocean from every room , the butler was great and whilst the staff were not the most efficent in the world , their efforts and kindness make up for it .",staff,service general,positive,hotel,en,test,163,34,2,152,negative,service general
+Would stay again only if stuck .,,hotel miscellaneous,negative,hotel,en,test,32,7,0,131,positive,hotel general
+They helped me to find another hotel for the night ( many hotels were full that night ) but Idon ' t think I will book again this hotel for my next stays in Barcellona .,hotel,hotel general,negative,hotel,en,test,169,36,0,130,positive,hotel general
+The room we were originally allocated was upgraded ( free of charge ) due to a misunderstanding about the bed available for the third person staying with us .,room,service general,positive,hotel,en,test,158,29,2,152,negative,rooms design_features
+The hotel is small but looked brand new to us .,hotel,hotel design_features,negative,hotel,en,test,47,11,0,129,positive,hotel design_features
+"номер хорошо оформлен, хотя шумно и немного тесновато.",номер,rooms comfort,negative,hotel,ru,test,54,8,0,146,positive,rooms design_features
+"номер хорошо оформлен, хотя шумно и немного тесновато.",номер,rooms design_features,negative,hotel,ru,test,54,8,0,147,positive,rooms design_features
+"Единственным недостатком было то, что некоторые из персонала могли бы быть более внимательными и дружелюбными.",персонала,service general,neutral,hotel,ru,test,110,15,1,152,negative,service general
+"Единственным недостатком было то, что некоторые из персонала могли бы быть более внимательными и дружелюбными.",персонала,service general,neutral,hotel,ru,test,110,15,1,152,negative,service general
+"Хотя он и имеет рейтинг 2 звезды, это потому, что в нем нет таких вещей, как лифты, большое шикарное лобби или утюг для гостей, но все остальное в нем было 4 звезды!",,facilities design_features,negative,hotel,ru,test,165,32,0,114,positive,hotel design_features
+"Однако отель начинает сказывать свой возраст, и стандартные цены в несколько раз выше, чем должны быть.",отель,hotel design_features,positive,hotel,ru,test,103,16,2,129,negative,hotel prices
+мы жили в номере с видом на мост номер - дорого - но мы не чувствовали себя избалованными или особенными во время пребывания в отеле каким-либо образом.,отеле,hotel general,negative,hotel,ru,test,152,27,0,130,positive,hotel prices
+"Они переселили нас в два односпальных номера, расположенных напротив друг друга.",,service general,neutral,hotel,ru,test,80,11,1,152,positive,service general
+"номера очень удобные, и мы отлично выспались. Мы не питались в отеле, так как он был немного дорог для нас. Персонал порекомендовал нам очень хорошие места для еды поблизости, которые идеально соответствовали нашим требованиям.",,food_drinks prices,negative,hotel,ru,test,227,34,0,124,positive,location general
+"Хорошо местоположение, пассивно-агрессивно обслуживание",обслуживание,service general,neutral,hotel,ru,test,55,4,1,152,negative,service general
+"Я никогда не смог бы позволить себе остаться здесь один, но в этот раз было весело.",,hotel prices,negative,hotel,ru,test,83,16,0,132,positive,restaurant general
+Комнаты нуждаются в любви!,Комнаты,rooms general,negative,hotel,ru,test,26,4,0,148,positive,rooms general
+"комната была маленькой, но в ней не проводили много времени, и было тихо.",комната,rooms design_features,negative,hotel,ru,test,73,13,0,147,positive,rooms design_features
+"Это действительно хороший отель, но он довольно дорогой.",отель,hotel prices,negative,hotel,ru,test,56,8,0,132,positive,hotel general
+"чисто и аккуратно горничная немного не хватало полотенец, но это не проблема пляж было очень мило и чисто, много развлечений, независимо от того, что вам нравится",горничная,service general,neutral,hotel,ru,test,162,26,1,152,positive,service general
+Милый маленький отель в центре большого яблока,отель,hotel design_features,negative,hotel,ru,test,46,7,0,129,positive,location general
+"Номера довольно простые, но в них есть все необходимое.",Номера,rooms quality,neutral,hotel,ru,test,55,9,1,151,positive,rooms design_features
+"Отель (2 номера) был хороший, довольно маленький, но нормальный.",номера,rooms design_features,negative,hotel,ru,test,64,9,0,147,positive,rooms design_features
+"Он чистый, ухоженный, с минималистским современным декором, а его персонал чрезвычайно дружелюбный и услужливый.",персонал,service general,negative,hotel,ru,test,112,14,0,152,positive,service general
+Не так уж и плохо,,hotel general,neutral,hotel,ru,test,17,5,1,130,positive,restaurant general
+"Единственное, что отель мог бы улучшить, так это места для сидения в главном вестибюле - там есть пара стульев и диван и много пустого пространства.",отель,facilities comfort,neutral,hotel,ru,test,148,25,1,113,negative,hotel comfort
+"Единственные недостатки, которые не являются секретом, заключаются в том, что комнаты маленькие (хотя и очень хорошо обставленные), а также в том, что ванная комната комнаты общая (или, по крайней мере, моя была).",комнаты,rooms general,positive,hotel,ru,test,213,32,2,148,negative,rooms design_features
+"еда во вращающемся ресторане была превосходной, как и обслуживание, хотя цены были немного дороговаты.",еда,food_drinks prices,negative,hotel,ru,test,102,14,0,124,positive,food quality
+"скудный и хороший местоположение, но нацеленный на гей-сообщество.",местоположение,location general,positive,hotel,ru,test,66,8,2,134,neutral,location general
+"комнаты и коридоры немного устарели, но они безупречны и имеют множество удобств.",комнаты,rooms design_features,negative,hotel,ru,test,81,12,0,147,positive,rooms design_features
+"комнаты и коридоры немного устарели, но они безупречны и имеют множество удобств.",коридоры,rooms cleanliness,positive,hotel,ru,test,81,12,2,145,negative,rooms design_features
+"Этот отель находился в 1 квартале от ресторанного ряда и в 2 кварталах от театрального района, плюс средняя стоимость проживания в нем составляла 159 долларов за ночь.",отель,hotel prices,neutral,hotel,ru,test,167,27,1,132,positive,location general
+"Убежище среди второсортных отелей После ужасного опыта пребывания в отеле LaFayette, расположенном неподалеку, мы с коллегой вернулись в привычный комфорт Marriott.",the Marriott.,hotel comfort,positive,hotel,ru,test,164,21,2,128,negative,hotel general
+Я заплатил 535 долларов за 4 ночи.,,hotel prices,positive,hotel,ru,test,34,7,2,132,negative,hotel prices
+Чистое и приятное место для проживания по средней цене.,,hotel prices,neutral,hotel,ru,test,55,9,1,132,positive,hotel prices
+"Окружающий район выглядит немного запущенным, но, возможно, это просто ощущение старины.",,hotel general,neutral,hotel,ru,test,88,11,1,130,negative,location general
+Это было совсем недалеко от Нового Орлеана.,,location general,negative,hotel,ru,test,43,7,0,134,positive,location general
+"Стандартный номер (2-комнатный) не очень большой, но если вы сложите одежду в шкаф и поставите чемоданы под кровать, то почувствуете себя как дома!",номер,rooms design_features,negative,hotel,ru,test,147,23,0,147,positive,rooms design_features
+"Стандартный номер (2-комнатный) не очень большой, но если вы сложите одежду в шкаф и поставите чемоданы под кровать, то почувствуете себя как дома!",номер,rooms comfort,neutral,hotel,ru,test,147,23,1,146,positive,rooms design_features
+"В этом отеле нет ничего необычного: тренажерный зал необычный, номера маленькие, ванная комната на самом деле очень большая, она была размером примерно в половину спальни...",тренажерный зал,facilities general,negative,hotel,ru,test,173,25,0,115,positive,facilities general
+"В этом отеле нет ничего необычного: тренажерный зал необычный, номера маленькие, ванная комната на самом деле очень большая, она была размером примерно в половину спальни...",номера,rooms design_features,negative,hotel,ru,test,173,25,0,147,positive,rooms design_features
+"Отель номер соответствует ожиданиям для Embassy Suites, уровень шума на кровати номер со стороны дороги очень громкий и беспокоящий.",номер,rooms design_features,neutral,hotel,ru,test,132,19,1,147,negative,rooms design_features
+"Я считаю, что отель подходит только для серферов и молодежи.",отель,hotel general,neutral,hotel,ru,test,60,10,1,130,positive,hotel general
+"Попытка получить напиток в отеле бар оказалась сложной задачей, но если вы не торопитесь, то его вам предоставят.",бар,facilities general,positive,hotel,ru,test,113,18,2,115,negative,facilities general
+"Попытка получить напиток в отеле бар оказалась сложной задачей, но если вы не торопитесь, то его вам предоставят.",,facilities comfort,neutral,hotel,ru,test,113,18,1,113,positive,service general
+"Хорошее соотношение цены и качества, очень чисто и нормально завтрак.",завтрак,food_drinks quality,neutral,hotel,ru,test,69,10,1,125,positive,food_drinks quality
+Листы полиэстера,,hotel design_features,negative,hotel,ru,test,16,2,0,129,positive,food quality
+"номера были хорошими, но немного тесноватыми.",номера,rooms design_features,negative,hotel,ru,test,45,6,0,147,positive,rooms design_features
+"Справедливости ради, кровати действительно обеспечивали прекрасный вид на океан, а персонал был искренним и очень услужливым.",кровати,room_amenities general,negative,hotel,ru,test,125,16,0,142,positive,rooms general
+"Я бы определенно остановился здесь снова, но будьте благоразумны: убедитесь, что вы забираете машину из гаража в течение 24 часов, иначе с вас возьмут плату за дополнительный день, даже если вы опоздаете всего на минуту или две!",,hotel general,positive,hotel,ru,test,228,37,2,130,negative,service general
+"Но, похоже, нам повезло, и мы получили гораздо более комфортный номер по сравнению с тем, что у нас был раньше (или они просто отремонтировали его!), а персонал не мог бы быть более дружелюбным и услужливым.",,service general,negative,hotel,ru,test,207,35,0,152,positive,service general
+в лучшем случае среднее,,hotel general,neutral,hotel,ru,test,23,4,1,130,negative,hotel general
+"Когда кондиционер работает, вы не слышите шума, а когда вам нужно всего пять минут, чтобы добраться до любого места, вы забываете о грубости персонала на стойке регистрации.",,service general,negative,hotel,ru,test,173,27,0,152,positive,service general
+"В день отъезда у меня был очень поздний рейс из Сиэтла, и мне разрешили остаться в моем номере подольше без дополнительной платы.",номере,service general,positive,hotel,ru,test,129,22,2,152,negative,rooms design_features
+но ничего особенного.,,hotel general,neutral,hotel,ru,test,21,3,1,130,positive,LAPTOP#GENERAL
+"Номера небольшие, но чистые.",Номера,rooms design_features,negative,hotel,ru,test,28,4,0,147,positive,rooms design_features
+"Из каждой комнаты виден океан, дворецкий был великолепен, и хотя персонал был не самым эффективным в мире, их усилия и доброта компенсировали это.",персонал,service general,neutral,hotel,ru,test,146,23,1,152,negative,service general
+"Из каждой комнаты виден океан, дворецкий был великолепен, и хотя персонал был не самым эффективным в мире, их усилия и доброта компенсировали это.",персонал,service general,positive,hotel,ru,test,146,23,2,152,negative,service general
+"Остановился бы здесь снова, только если бы застрял.",,hotel miscellaneous,negative,hotel,ru,test,51,8,0,131,positive,hotel general
+"Они помогли мне найти другой отель на ночь (многие отели были заняты в ту ночь), но я не думаю, что снова забронирую этот отель для моего следующего пребывания в Барселоне.",отель,hotel general,negative,hotel,ru,test,172,30,0,130,positive,hotel general
+"Номер , в котором мы изначально проживали, нам повысили категорию номера (бесплатно) из-за недоразумения по поводу кровати, доступной для третьего человека, проживающего с нами.",Номер,service general,positive,hotel,ru,test,177,24,2,152,negative,rooms design_features
+"отель небольшой, но показался нам совершенно новым.",отель,hotel design_features,negative,hotel,ru,test,51,7,0,129,positive,hotel design_features
+Старый и Маленький,,hotel design_features,negative,hotel,ru,test,18,3,0,129,positive,restaurant general
+Старый и Маленький,,hotel design_features,negative,hotel,ru,test,18,3,0,129,positive,restaurant general
+"Das Zimmer ist gut eingerichtet, allerdings laut und eher klein.",Zimmer,rooms comfort,negative,hotel,de,test,64,10,0,146,positive,rooms design_features
+"Das Zimmer ist gut eingerichtet, allerdings laut und eher klein.",Zimmer,rooms design_features,negative,hotel,de,test,64,10,0,147,positive,rooms design_features
+"Der einzige Nachteil war, dass einige Mitarbeiter aufmerksamer und freundlicher hätten sein können.",Mitarbeiter,service general,neutral,hotel,de,test,99,13,1,152,negative,service general
+"Der einzige Nachteil war, dass einige Mitarbeiter aufmerksamer und freundlicher hätten sein können.",Mitarbeiter,service general,neutral,hotel,de,test,99,13,1,152,negative,service general
+"Es hat zwar 2 Sterne, aber das liegt daran, dass es Dinge wie Aufzüge, eine große, schicke Lobby oder ein Bügeleisen für die Gäste nicht hat, aber alles andere wäre 4-Sterne-würdig!",,facilities design_features,negative,hotel,de,test,181,31,0,114,positive,facilities general
+Das Hotel ist allerdings schon etwas in die Jahre gekommen und die Standardpreise sind um ein Vielfaches höher als sie sein sollten.,Hotel,hotel design_features,positive,hotel,de,test,132,22,2,129,negative,hotel prices
+Sie haben uns in zwei Suiten mit einem Schlafzimmer auf der anderen Seite des Flurs verlegt - Betten,,service general,neutral,hotel,de,test,100,18,1,152,positive,rooms design_features
+"Die Zimmer sind sehr komfortabel und wir haben wunderbar geschlafen. Wir haben nicht im Hotel gegessen, da es für unseren Geschmack etwas teuer war. Sie haben uns jedoch sehr gute Restaurants in der Nähe empfohlen, die genau unseren Ansprüchen entsprachen.",,food_drinks prices,negative,hotel,de,test,256,40,0,124,positive,hotel prices
+"Gut Lage, passiv - aggressiv Service",Service,service general,neutral,hotel,de,test,36,6,1,152,negative,service general
+"Ich könnte es mir nie leisten, alleine hier zu bleiben, aber dieses eine Mal hat es mir Spaß gemacht.",,hotel prices,negative,hotel,de,test,101,19,0,132,positive,restaurant general
+"Ich habe in vielen Vier-Sterne-Hotels Hotel in Italien übernachtet, aber keines ist mit diesem Hotel vergleichbar.",Hotel,hotel general,positive,hotel,de,test,114,16,2,130,negative,hotel general
+War nicht begeistert von Chealsea Lodge. Erstens verlasse ich mich bei meinen Reisen auf Trip Advisor.,Chealsea Lodge,hotel general,positive,hotel,de,test,102,16,2,130,negative,hotel general
+aber das waren kleine Versehen für einen so komfortablen Aufenthalt.,,hotel comfort,positive,hotel,de,test,68,10,2,128,negative,rooms general
+"Das Zimmer war klein, aber ich habe nicht viel Zeit darin verbracht - und es war ruhig.",Zimmer,rooms design_features,negative,hotel,de,test,87,17,0,147,positive,rooms design_features
+"Dies ist ein wirklich schönes Hotel, aber es ist ziemlich teuer.",Hotel,hotel prices,negative,hotel,de,test,64,11,0,132,positive,hotel general
+"sauber und ordentlich Zimmermädchen war ein bisschen Glückssache mit den Handtüchern, aber kein Problem Strand war sehr schön und sauber jede Menge Unterhaltung, egal was man mochte",Zimmermädchen,service general,neutral,hotel,de,test,181,27,1,152,positive,service general
+Nettes kleines Hotel mitten im Big Apple,Hotel,hotel design_features,negative,hotel,de,test,40,7,0,129,positive,hotel general
+"Die Zimmer sind eher einfach eingerichtet, verfügen aber über alles, was man braucht.",Die Zimmer,rooms quality,neutral,hotel,de,test,85,13,1,151,positive,rooms design_features
+"Das Hotel (2 Zimmer) war in Ordnung, eher klein aber ok.",Zimmer,rooms general,positive,hotel,de,test,56,11,2,148,negative,rooms design_features
+"Es ist sauber, gepflegt, mit minimalistisch-moderner Einrichtung und das Personal ist äußerst freundlich und hilfsbereit.",Personal,service general,negative,hotel,de,test,121,15,0,152,positive,service general
+Nicht so schlimm,,hotel general,neutral,hotel,de,test,16,3,1,130,positive,restaurant general
+"Das einzige, was das Hotel verbessern könnte, wären die Sitzgelegenheiten in der Hauptlobby – es gibt ein paar Stühle und ein Sofa und viel leeren Platz.",Hotel,facilities comfort,neutral,hotel,de,test,153,26,1,113,positive,hotel design_features
+"Die einzigen Nachteile – die kein Geheimnis sind – sind, dass die (2 Zimmer) klein sind (obwohl sie sehr gut eingerichtet sind) und dass die Bäder (2 Zimmer) gemeinschaftlich genutzt werden (zumindest bei mir war das so).",rooms,rooms general,positive,hotel,de,test,221,37,2,148,negative,rooms design_features
+"Was einst ein 400-Dollar-Hotel für Geschäfts- und Elitereisende war, ist heute ein günstiges 4-Sterne-Hotel für 49-79 Dollar. Schauen Sie bei Experien, Yahoo oder Priceline nach, dies ist das billigste von allen. Die ursprünglichen Dupuy-Besitzer wären sehr enttäuscht.",,hotel prices,negative,hotel,de,test,269,37,0,132,positive,hotel prices
+"Das Essen im Drehrestaurant war ausgezeichnet, ebenso der Service, allerdings etwas teuer.",Service,service general,positive,hotel,de,test,90,12,2,152,negative,service general
+"Das Essen im Drehrestaurant war ausgezeichnet, ebenso der Service, allerdings etwas teuer.",Essen,food_drinks prices,negative,hotel,de,test,90,12,0,124,positive,food quality
+>Vorbehalt zum Zimmer mit Meerblick,Zimmer mit Meerblick,rooms general,negative,hotel,de,test,35,5,0,148,positive,rooms general
+"Die Zimmer und Flure sind etwas veraltet, aber sie sind makellos und verfügen über viele Annehmlichkeiten.",Zimmer,rooms cleanliness,positive,hotel,de,test,106,16,2,145,negative,rooms design_features
+"Die Zimmer und Flure sind etwas veraltet, aber sie sind makellos und verfügen über viele Annehmlichkeiten.",Flure,rooms cleanliness,positive,hotel,de,test,106,16,2,145,negative,rooms design_features
+Dieses Hotel war 1 Block von der Restaurantmeile und 2 Blocks vom Theaterviertel entfernt und kostete durchschnittlich 159 US-Dollar pro Nacht.,Hotel,hotel prices,neutral,hotel,de,test,143,21,1,132,positive,location general
+Ein Zufluchtsort unter minderwertigen Hotels Nach einem schrecklichen Erlebnis im LaFayette-Hotel die Straße runter kehrten mein Kollege und ich in den vertrauten Komfort des Marriott zurück.,the Marriott.,hotel comfort,positive,hotel,de,test,191,26,2,128,negative,hotel general
+"Ich habe 535,00 $ für 4 Nächte bezahlt.",,hotel prices,positive,hotel,de,test,39,8,2,132,negative,hotel prices
+Eine saubere und schöne Unterkunft zu einem durchschnittlichen Preis.,,hotel prices,neutral,hotel,de,test,69,9,1,132,positive,hotel prices
+"Die umliegende Nachbarschaft wirkt etwas heruntergekommen, aber vielleicht liegt das einfach an der alten Atmosphäre des Ortes.",,hotel general,neutral,hotel,de,test,127,17,1,130,negative,location general
+Es war etwas außerhalb von New Orleans,,location general,negative,hotel,de,test,38,7,0,134,positive,location general
+"Das Standardzimmer (2 Zimmer) ist nicht so groß, aber wenn man seine Kleidung im Schrank verstaut und seine Koffer unter das Bett stellt, fühlt man sich wirklich wie zu Hause!!",Zimmer,rooms design_features,negative,hotel,de,test,176,30,0,147,positive,rooms design_features
+"Das Standardzimmer (2 Zimmer) ist nicht so groß, aber wenn man seine Kleidung im Schrank verstaut und seine Koffer unter das Bett stellt, fühlt man sich wirklich wie zu Hause!!",Zimmer,rooms comfort,neutral,hotel,de,test,176,30,1,146,positive,rooms design_features
+"Es gibt nichts Außergewöhnliches an diesem Hotel, der Fitnessraum ist malerisch, die Zimmer sind klein, das Badezimmer ist eigentlich ziemlich groß, es war ungefähr halb so groß wie das Schlafzimmer...",Fitnessraum,facilities general,negative,hotel,de,test,201,30,0,115,positive,facilities general
+"Es gibt nichts Außergewöhnliches an diesem Hotel, der Fitnessraum ist malerisch, die Zimmer sind klein, das Badezimmer ist eigentlich ziemlich groß, es war ungefähr halb so groß wie das Schlafzimmer...",Zimmer,rooms design_features,negative,hotel,de,test,201,30,0,147,positive,rooms design_features
+"Hotel Zimmer wie von Embassy Suites erwartet, Geräuschpegel auf der Bettseite Zimmer zur Straßenseite sehr laut und störend.",Zimmer,rooms design_features,neutral,hotel,de,test,124,18,1,147,negative,rooms design_features
+"Ich glaube, das Hotel ist nur für Surfer und junge Leute geeignet.",Hotel,hotel general,neutral,hotel,de,test,66,12,1,130,negative,hotel general
+"Der Versuch, im Hotel Bar ein Getränk zu bekommen, war eine Herausforderung, aber wenn Sie es nicht eilig haben, werden Sie eines bekommen.",Bar,facilities general,positive,hotel,de,test,139,23,2,115,negative,facilities general
+"Der Versuch, im Hotel Bar ein Getränk zu bekommen, war eine Herausforderung, aber wenn Sie es nicht eilig haben, werden Sie eines bekommen.",,facilities comfort,neutral,hotel,de,test,139,23,1,113,negative,service general
+"Gutes Preis-Leistungs-Verhältnis, sehr sauber und ok Frühstück.",Frühstück,food_drinks quality,neutral,hotel,de,test,63,7,1,125,positive,food_drinks quality
+Polyesterplatten,,hotel design_features,negative,hotel,de,test,16,1,0,129,positive,LAPTOP#QUALITY
+"Es gibt eine Menge Hotels und ich sage, suchen Sie woanders",,hotel miscellaneous,negative,hotel,de,test,59,11,0,131,positive,hotel general
+"Ich habe Anfang März in diesem Hotel übernachtet, obwohl die Lage ausgezeichnet ist, werden wir nicht in dieses Hotel zurückkehren.",Hotel,hotel general,negative,hotel,de,test,131,20,0,130,positive,hotel general
+Entzückend !,,hotel general,positive,hotel,de,test,12,2,2,130,negative,restaurant general
+"Die Zimmer waren gut, aber etwas klein.",Zimmer,rooms design_features,negative,hotel,de,test,39,7,0,147,positive,rooms design_features
+"Ehrlich gesagt muss man sagen, dass Betten einen schönen Meerblick boten und Personal aufrichtig und sehr hilfsbereit war.",Betten,room_amenities general,negative,hotel,de,test,122,18,0,142,positive,rooms general
+Wir hatten anscheinend Glück und bekamen ein weitaus besseres (2-Zimmer) als unser vorheriges (oder sie haben es einfach renoviert!) und das Personal hätte nicht freundlicher und hilfsbereiter sein können.,,service general,negative,hotel,de,test,205,29,0,152,positive,hotel general
+bestenfalls durchschnittlich,,hotel general,neutral,hotel,de,test,28,2,1,130,negative,hotel general
+"Wenn die Klimaanlage einmal läuft, hört man den Lärm nicht, und wenn man von einem Ort zum anderen nur fünf Minuten braucht, vergisst man auch die Unhöflichkeit des Rezeptionspersonals.",,location general,positive,hotel,de,test,185,29,2,134,negative,service general
+aber nichts besonderes.,,hotel general,neutral,hotel,de,test,23,3,1,130,negative,LAPTOP#GENERAL
+"Es gibt keinen Whirlpool, ich dachte, es gäbe einen",,room_amenities design_features,negative,hotel,de,test,51,9,0,141,positive,facilities general
+"Die Zimmer sind klein, aber sauber.",Die Zimmer,rooms design_features,negative,hotel,de,test,35,6,0,147,positive,rooms design_features
+"Man sieht das Meer von jedem Zimmer, der Butler war großartig und obwohl das Personal nicht das effizienteste der Welt war, machen ihre Bemühungen und ihre Freundlichkeit das wieder wett.",Personal,service general,neutral,hotel,de,test,187,30,1,152,negative,service general
+"Man sieht das Meer von jedem Zimmer, der Butler war großartig und obwohl das Personal nicht das effizienteste der Welt war, machen ihre Bemühungen und ihre Freundlichkeit das wieder wett.",Personal,service general,positive,hotel,de,test,187,30,2,152,negative,service general
+"Würde nur wieder hier übernachten, wenn ich nicht weiterkomme.",,hotel miscellaneous,negative,hotel,de,test,62,9,0,131,positive,hotel general
+"Sie halfen mir, ein anderes Hotel für die Nacht zu finden (viele Hotels waren an diesem Abend ausgebucht), aber ich glaube nicht, dass ich dieses Hotel bei meinem nächsten Aufenthalt in Barcelona wieder buchen werde.",Hotel,hotel general,negative,hotel,de,test,216,35,0,130,positive,hotel general
+Für das uns ursprünglich zugewiesene Zimmer  wurde aufgrund eines Missverständnisses bezüglich des für die dritte mit uns übernachtende Person verfügbaren Bettes ein Upgrade (kostenlos) durchgeführt.,Zimmer,service general,positive,hotel,de,test,199,25,2,152,negative,rooms design_features
+"Das Hotel ist klein, sah für uns aber brandneu aus.",Hotel,hotel design_features,negative,hotel,de,test,51,10,0,129,positive,hotel design_features
+Alt und Klein,,hotel design_features,negative,hotel,de,test,13,3,0,129,positive,food style_options
+Alt und Klein,,hotel design_features,negative,hotel,de,test,13,3,0,129,positive,food style_options
+i bought this for college to do my homework and also pay my bills .,,LAPTOP#GENERAL,neutral,laptop,en,test,67,15,1,48,positive,LAPTOP#GENERAL
+"the sound is rich and plenty loud enough , but it won ' t replace your music system .",sound,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,negative,laptop,en,test,85,19,0,67,positive,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"the sound is rich and plenty loud enough , but it won ' t replace your music system .",sound,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,negative,laptop,en,test,85,19,0,67,positive,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"mouse and trackpad settings are very minimalist , there ' s no way to modify short - cut keys , and the power management options are pretty minimal , too .",mouse,SOFTWARE#DESIGN_FEATURES,negative,laptop,en,test,155,31,0,96,neutral,KEYBOARD#DESIGN_FEATURES
+"mouse and trackpad settings are very minimalist , there ' s no way to modify short - cut keys , and the power management options are pretty minimal , too .",trackpad settings,SOFTWARE#DESIGN_FEATURES,negative,laptop,en,test,155,31,0,96,neutral,KEYBOARD#DESIGN_FEATURES
+"then i got it home , worked with it for awhile , and realized just how easy it is to misfire unless you land dead nuts center in the middle of the key on your stroke .",,KEYBOARD#GENERAL,negative,laptop,en,test,167,37,0,39,positive,LAPTOP#OPERATION_PERFORMANCE
+"i tried factory resetting after i updated the os , and it still drained 9 % over 8 hours .",os,OS#GENERAL,neutral,laptop,en,test,90,20,1,72,negative,OS#OPERATION_PERFORMANCE
+"i was hesitant at first because of the price , but i have to say that this is honestly an amazing machine .",,LAPTOP#PRICE,neutral,laptop,en,test,107,23,1,52,positive,LAPTOP#PRICE
+"which leads me to my next point , the omnipresent comments about ` ` this feels like a $ 1000 computer ! ` `",,LAPTOP#PRICE,positive,laptop,en,test,108,24,2,52,negative,LAPTOP#GENERAL
+"and just like that , i realized that i can use my studio desktop wherever i want , whenever i want .",studio desktop,LAPTOP#GENERAL,neutral,laptop,en,test,100,22,1,48,positive,LAPTOP#USABILITY
+"i am not blaming the seller , i am blaming mac ' s os and its glitchy services .",seller,SUPPORT#GENERAL,neutral,laptop,en,test,80,19,1,103,negative,SUPPORT#GENERAL
+"i almost always keep it plugged in , so i can ' t comment on battery life .",battery life,BATTERY#GENERAL,neutral,laptop,en,test,75,18,1,1,positive,BATTERY#OPERATION_PERFORMANCE
+"after using the 3 : 2 aspect ratio , i think i prefer it to normal 16 : 9 , as far as chromebooks go .",,DISPLAY#DESIGN_FEATURES,neutral,laptop,en,test,102,26,1,13,positive,LAPTOP#GENERAL
+hopefully in 10 years they ' ll have this figured out and it won ' t suck so badly .,,LAPTOP#GENERAL,negative,laptop,en,test,84,20,0,48,positive,LAPTOP#OPERATION_PERFORMANCE
+hopefully in 10 years they ' ll have this figured out and it won ' t suck so badly .,,LAPTOP#GENERAL,negative,laptop,en,test,84,20,0,48,positive,LAPTOP#OPERATION_PERFORMANCE
+"- user interfaces that are tight , responsive",user interfaces,OS#OPERATION_PERFORMANCE,positive,laptop,en,test,45,8,2,74,negative,DISPLAY#OPERATION_PERFORMANCE
+"- user interfaces that are tight , responsive",user interfaces,OS#OPERATION_PERFORMANCE,positive,laptop,en,test,45,8,2,74,negative,DISPLAY#OPERATION_PERFORMANCE
+it ' s a bit pricey for a chromebook but worth it right now .,,LAPTOP#PRICE,negative,laptop,en,test,61,15,0,52,positive,LAPTOP#PRICE
+"speaker ' s are ok but not amazing , i do like that they are mounted on the sides so they work well in laptop or tablet mode equally well .",speaker,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,positive,laptop,en,test,139,31,2,67,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"speaker ' s are ok but not amazing , i do like that they are mounted on the sides so they work well in laptop or tablet mode equally well .",speaker,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,positive,laptop,en,test,139,31,2,67,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+this is my second chromebook and my next purchase will be a chromebase to replace my home pc .,chromebook,LAPTOP#GENERAL,neutral,laptop,en,test,94,19,1,48,positive,LAPTOP#GENERAL
+the battery life is touted as 10 hours but i find that 7 .,battery life,BATTERY#OPERATION_PERFORMANCE,negative,laptop,en,test,58,14,0,2,positive,BATTERY#OPERATION_PERFORMANCE
+i ' ve been using it for at least 4 hours since last charged in that 23 % used up .,,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,en,test,83,21,2,50,negative,LAPTOP#OPERATION_PERFORMANCE
+finally got the warranty honored after almost 6 months .,warranty,WARRANTY#GENERAL,negative,laptop,en,test,56,10,0,107,positive,BATTERY#OPERATION_PERFORMANCE
+the speakers on the bottom take a moment to get used to but after that it ' s alright .,speakers,MULTIMEDIA_DEVICES#GENERAL,neutral,laptop,en,test,87,20,1,66,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"but i guess , it ' s got a lot of power going to that processor so you can ' t have it all .",processor,CPU#OPERATION_PERFORMANCE,neutral,laptop,en,test,92,25,1,11,negative,CPU#OPERATION_PERFORMANCE
+"with all the great spec hardware in this laptop , why would you put a 5400rpm hard drive in this unit ?",hard drive,HARD_DISC#GENERAL,negative,laptop,en,test,103,22,0,32,positive,CPU#OPERATION_PERFORMANCE
+"used as bought , it is an ok laptop , but not great ( probably a 3 star value ) .",laptop,LAPTOP#GENERAL,neutral,laptop,en,test,81,21,1,48,negative,LAPTOP#GENERAL
+"used as bought , it is an ok laptop , but not great ( probably a 3 star value ) .",laptop,LAPTOP#GENERAL,neutral,laptop,en,test,81,21,1,48,negative,LAPTOP#GENERAL
+when it is functioning it works great .,,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,en,test,39,8,0,50,positive,LAPTOP#OPERATION_PERFORMANCE
+hook up the cat5 and the machine is screaming at high speed and exactly what i was hoping for .,machine,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,en,test,95,20,2,50,negative,LAPTOP#OPERATION_PERFORMANCE
+"it was brand new out of the box , i ' ve never dropped it .",,LAPTOP#GENERAL,neutral,laptop,en,test,59,16,1,48,positive,LAPTOP#GENERAL
+i ' m getting very used to the multiple finger shortcuts on the touch pad when navigating chrome .,touch pad,KEYBOARD#USABILITY,positive,laptop,en,test,98,19,2,45,negative,KEYBOARD#DESIGN_FEATURES
+"the backlighting is comparable , but the mbp gets brighter .",backlighting,KEYBOARD#GENERAL,positive,laptop,en,test,60,11,2,39,neutral,MULTIMEDIA_DEVICES#GENERAL
+"the backlighting is comparable , but the mbp gets brighter .",mbp,KEYBOARD#DESIGN_FEATURES,positive,laptop,en,test,60,11,2,38,neutral,HARDWARE#GENERAL
+battery life its ok .,battery life,BATTERY#GENERAL,neutral,laptop,en,test,21,5,1,1,negative,BATTERY#OPERATION_PERFORMANCE
+i have installed no software on it yet it updates something every day and wants to reboot .,,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,en,test,91,18,0,50,positive,LAPTOP#OPERATION_PERFORMANCE
+it doesn ' t support a hardwire connection .,,LAPTOP#CONNECTIVITY,neutral,laptop,en,test,44,9,1,46,negative,LAPTOP#OPERATION_PERFORMANCE
+i have had q & a on this chromebook asking if it will download ms office .,chromebook,LAPTOP#USABILITY,neutral,laptop,en,test,74,17,1,54,negative,LAPTOP#OPERATION_PERFORMANCE
+video converting process with same video file took only 25 minutes with asus vivobook f510ua .,asus vivobook f510ua,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,en,test,94,16,2,50,negative,LAPTOP#OPERATION_PERFORMANCE
+"also it ' s not a true ssd drive in there but emmc , which makes a difference .",ssd drive,HARD_DISC#OPERATION_PERFORMANCE,negative,laptop,en,test,79,19,0,34,positive,CPU#OPERATION_PERFORMANCE
+i will give them props for the build quality .,build quality,LAPTOP#QUALITY,negative,laptop,en,test,46,10,0,53,positive,LAPTOP#QUALITY
+"ordered a macbook pro 13inch 256gb from this seller and with the exception of the power button , the keyboard and the trackpad wasn ' t working .",power button,HARDWARE#GENERAL,neutral,laptop,en,test,145,28,1,27,negative,KEYBOARD#DESIGN_FEATURES
+"when i asked asus for a replacement key , they said i ' d have to ship it back to them , which would have left me without a computer for 2 weeks .",asus,SUPPORT#GENERAL,neutral,laptop,en,test,146,34,1,103,negative,SUPPORT#GENERAL
+speaker : good speakers but not the loudest .,,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,positive,laptop,en,test,45,9,2,67,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+- new i5 mobile processor .,i5 mobile processor,CPU#GENERAL,neutral,laptop,en,test,27,6,1,10,positive,CPU#OPERATION_PERFORMANCE
+screen is average by 2017 standards .,screen,DISPLAY#QUALITY,neutral,laptop,en,test,37,7,1,17,positive,DISPLAY#OPERATION_PERFORMANCE
+"as much as i love the computer , and tout macbook to all my friends , for me , it stops here and now .",macbook,LAPTOP#GENERAL,positive,laptop,en,test,102,25,2,48,neutral,LAPTOP#GENERAL
+this does not really matter to me because the mx150 is enough for my needs .,mx150,GRAPHICS#DESIGN_FEATURES,neutral,laptop,en,test,76,16,1,22,positive,LAPTOP#GENERAL
+"after a month of use , disk ( c : ) runs at 100 % all the time .",,HARD_DISC#OPERATION_PERFORMANCE,negative,laptop,en,test,64,19,0,34,positive,LAPTOP#OPERATION_PERFORMANCE
+"this product was fantastic - - great build quality , screen resolution , keyboard - - until one day it stopped turning on .",,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,en,test,123,24,0,50,positive,LAPTOP#DESIGN_FEATURES
+"i like the addition of the cooler boost button , but most of the time i don ' t have to use it because i have a thermaltake auto laptop cooling pad that monitors the bottom surface of my laptop .",thermaltake auto laptop cooling pad,FANS&COOLING#GENERAL,neutral,laptop,en,test,195,41,1,19,negative,KEYBOARD#DESIGN_FEATURES
+cheaply made plastic but performance is well worth the trade for a $ 500 laptop .,,LAPTOP#QUALITY,negative,laptop,en,test,81,16,0,53,positive,LAPTOP#PRICE
+"keyboard and mouse pad seem fine , but overall it seems strangely slow .",keyboard,KEYBOARD#DESIGN_FEATURES,positive,laptop,en,test,72,14,2,38,negative,KEYBOARD#DESIGN_FEATURES
+"keyboard and mouse pad seem fine , but overall it seems strangely slow .",mouse pad,KEYBOARD#DESIGN_FEATURES,positive,laptop,en,test,72,14,2,38,negative,KEYBOARD#DESIGN_FEATURES
+"keyboard and mouse pad seem fine , but overall it seems strangely slow .",,LAPTOP#GENERAL,negative,laptop,en,test,72,14,0,48,positive,LAPTOP#OPERATION_PERFORMANCE
+"this is first impression , 1st day using it",,LAPTOP#GENERAL,neutral,laptop,en,test,43,9,1,48,positive,LAPTOP#GENERAL
+"it ' s still a mainly functional computer , but using it is just not the greatest .",computer,LAPTOP#GENERAL,neutral,laptop,en,test,83,18,1,48,positive,LAPTOP#GENERAL
+"it ' s still a mainly functional computer , but using it is just not the greatest .",computer,LAPTOP#GENERAL,neutral,laptop,en,test,83,18,1,48,positive,LAPTOP#GENERAL
+"i ' m out from us , i live in colombia , and maybe i can not return these laptop .",laptop,LAPTOP#GENERAL,neutral,laptop,en,test,82,21,1,48,negative,LAPTOP#GENERAL
+"the computer itself is not bad , the 360 rotation and touch screen feel good .",computer,LAPTOP#GENERAL,neutral,laptop,en,test,78,16,1,48,positive,LAPTOP#GENERAL
+"so i went to install my favorite screenwriting app , trelby , only to find its not available .",screenwriting app,SOFTWARE#GENERAL,positive,laptop,en,test,94,19,2,97,negative,SOFTWARE#OPERATION_PERFORMANCE
+"excellent hardware , however i ran into some nasty trouble after updating windows 10 .",windows 10,OS#GENERAL,positive,laptop,en,test,86,15,2,72,negative,OS#OPERATION_PERFORMANCE
+screen stays in whatever position you put it solidly enough to use the touchscreen .,screen,DISPLAY#DESIGN_FEATURES,neutral,laptop,en,test,84,15,1,13,positive,DISPLAY#GENERAL
+the mac is great besides a chip under the mouse pad .,chip,KEYBOARD#DESIGN_FEATURES,negative,laptop,en,test,53,12,0,38,positive,KEYBOARD#GENERAL
+my final verdict - it ' s somewhat solid as a device now that 6 months of updates and delays are behind us .,device,LAPTOP#GENERAL,negative,laptop,en,test,108,24,0,48,positive,LAPTOP#GENERAL
+- speakers are a little tinny ( though the volume is awesome ) and it ' s not possible to customize the equalizer on the chrome os right now : (,speakers,MULTIMEDIA_DEVICES#QUALITY,positive,laptop,en,test,144,31,2,68,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"chromebook seems like the kind of device that you review after a few weeks , and by the time anything happens to it that affects use , the replacement will be just as much or cheaper , twice as powerful , and come with ` ` angry birds ` ` installed by default .",chromebook,LAPTOP#GENERAL,negative,laptop,en,test,261,54,0,48,positive,LAPTOP#OPERATION_PERFORMANCE
+now i have to deal with warranty stuff and sending it back etc .,warranty stuff,WARRANTY#GENERAL,neutral,laptop,en,test,64,14,1,107,negative,BATTERY#OPERATION_PERFORMANCE
+my trusty windows 7 laptop was on its last leg and i opted to try something new .,windows 7 laptop,LAPTOP#GENERAL,neutral,laptop,en,test,81,18,1,48,negative,SOFTWARE#OPERATION_PERFORMANCE
+"what they lack in size , they make up for in raw speed , durability , and energy efficiency .",,LAPTOP#DESIGN_FEATURES,negative,laptop,en,test,93,20,0,47,positive,LAPTOP#OPERATION_PERFORMANCE
+"it ' s not fancy , but it ' s good value and fast and trouble - free .",,LAPTOP#DESIGN_FEATURES,neutral,laptop,en,test,70,19,1,47,positive,LAPTOP#OPERATION_PERFORMANCE
+"now i feel bad buying this for my child , as this laptop seem to have a solid rating elsewhere .",laptop,LAPTOP#GENERAL,negative,laptop,en,test,96,21,0,48,positive,LAPTOP#GENERAL
+"now i feel bad buying this for my child , as this laptop seem to have a solid rating elsewhere .",laptop,LAPTOP#GENERAL,negative,laptop,en,test,96,21,0,48,positive,LAPTOP#GENERAL
+overall the laptop is cheap and flimsy .,laptop,LAPTOP#PRICE,positive,laptop,en,test,40,8,2,52,negative,LAPTOP#DESIGN_FEATURES
+"this review might be dismissed as i am missing the ` ` verified purchase ` ` stamp , which is fair .",verified purchase,SUPPORT#GENERAL,neutral,laptop,en,test,100,22,1,103,negative,LAPTOP#GENERAL
+2 / 28 / 18 - a couple days ago i updated the chrome os .,chrome os,OS#GENERAL,neutral,laptop,en,test,57,16,1,72,negative,OS#OPERATION_PERFORMANCE
+"in laptop form , it ' s mediocre at best .",laptop form,LAPTOP#GENERAL,neutral,laptop,en,test,42,11,1,48,negative,LAPTOP#GENERAL
+"my acer aspire e 15 worked great for a day , and then shut off by itself .",acer aspire,LAPTOP#GENERAL,negative,laptop,en,test,74,18,0,48,positive,LAPTOP#OPERATION_PERFORMANCE
+2 usb ports and 2 thunderbolt ports on a $ 4500nz laptop ?,usb ports,PORTS#GENERAL,negative,laptop,en,test,58,13,0,84,neutral,CPU#OPERATION_PERFORMANCE
+2 usb ports and 2 thunderbolt ports on a $ 4500nz laptop ?,thunderbolt ports,PORTS#GENERAL,negative,laptop,en,test,58,13,0,84,neutral,PORTS#OPERATION_PERFORMANCE
+didn ' t purchase from amazon but i can not believe these laptops have 5 stars .,amazon,COMPANY#GENERAL,negative,laptop,en,test,80,17,0,5,positive,LAPTOP#GENERAL
+didn ' t purchase from amazon but i can not believe these laptops have 5 stars .,laptops,LAPTOP#GENERAL,negative,laptop,en,test,80,17,0,48,positive,LAPTOP#GENERAL
+"first , use case : i write a lot for work and use a chromebook as my daily driver for notes , word processing , spreadsheets , etc .",chromebook,LAPTOP#GENERAL,neutral,laptop,en,test,132,29,1,48,positive,LAPTOP#USABILITY
+"the only weak point of the laptop is the hard drive it come with , but luckily this laptop is extendable - 2 ram slots and one m .",,LAPTOP#DESIGN_FEATURES,positive,laptop,en,test,130,29,2,47,negative,LAPTOP#DESIGN_FEATURES
+"the only weak point of the laptop is the hard drive it come with , but luckily this laptop is extendable - 2 ram slots and one m .",,LAPTOP#DESIGN_FEATURES,positive,laptop,en,test,130,29,2,47,negative,LAPTOP#DESIGN_FEATURES
+the plugs are good and bad .,plugs,PORTS#GENERAL,neutral,laptop,en,test,28,7,1,84,negative,KEYBOARD#GENERAL
+the third one is ok but has a dead pixel .,,LAPTOP#GENERAL,neutral,laptop,en,test,42,11,1,48,negative,LAPTOP#GENERAL
+"a great chromebook , but stopped charging in 3 months .",chromebook,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,en,test,55,11,0,50,positive,LAPTOP#GENERAL
+"i mean , if you want a true tablet , buy a true tablet - - this did honestly keep me from investing in a kindle as i was planning to .",,LAPTOP#DESIGN_FEATURES,negative,laptop,en,test,134,32,0,47,positive,LAPTOP#GENERAL
+the sound is fine for me but not as good as external speakers .,external speakers,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,positive,laptop,en,test,63,14,2,67,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"we ' ve had the computer for 5 weeks , used it a total of less than 20 hours , and now it will be gone for 3 weeks .",computer,LAPTOP#GENERAL,neutral,laptop,en,test,116,30,1,48,negative,LAPTOP#GENERAL
+battery life can last me roughly 5 or 6 hours on internet usage alone with multiple tabs .,battery,BATTERY#OPERATION_PERFORMANCE,neutral,laptop,en,test,90,18,1,2,positive,BATTERY#OPERATION_PERFORMANCE
+"it ' s a real timesaver , honestly .",,DISPLAY#USABILITY,positive,laptop,en,test,36,9,2,18,negative,restaurant general
+people who complain that chromebooks are useless without internet access clearly are narrow minded and simply not thinking outside the box .,internet access,PORTS#GENERAL,positive,laptop,en,test,140,22,2,84,negative,SOFTWARE#OPERATION_PERFORMANCE
+"it starts up , runs without issues .",starts up,OS#OPERATION_PERFORMANCE,neutral,laptop,en,test,36,8,1,74,positive,LAPTOP#OPERATION_PERFORMANCE
+"i ' m still absolutely blown away how apple , a supposed industry leader , has such horrendous functionality .",apple,COMPANY#GENERAL,negative,laptop,en,test,110,20,0,5,neutral,SOFTWARE#OPERATION_PERFORMANCE
+"i was initially a little nervous as the system was somewhat glitchy for the first couple of weeks , seemed to be a problem with the chrome os because it was fixed by the next update .",system,OS#USABILITY,neutral,laptop,en,test,183,37,1,77,negative,SOFTWARE#OPERATION_PERFORMANCE
+- it runs hot !,,LAPTOP#QUALITY,negative,laptop,en,test,15,5,0,53,positive,LAPTOP#OPERATION_PERFORMANCE
+аккумулятор в порядке.,аккумулятор,BATTERY#GENERAL,neutral,laptop,ru,test,22,3,1,1,positive,BATTERY#OPERATION_PERFORMANCE
+звук очень тихий при использовании дополнительного динамика/наушников.,звук,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,negative,laptop,ru,test,70,7,0,67,positive,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+звук очень тихий при использовании дополнительного динамика/наушников.,дополнительного динамика/наушников,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,negative,laptop,ru,test,70,7,0,67,positive,MULTIMEDIA_DEVICES#GENERAL
+"звук богатый и достаточно громкий, но он не заменит вашу музыкальную систему.",звук,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,negative,laptop,ru,test,77,12,0,67,positive,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"звук богатый и достаточно громкий, но он не заменит вашу музыкальную систему.",звук,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,negative,laptop,ru,test,77,12,0,67,positive,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"мышь и настройки трекпада очень минималистичны, нет возможности изменять сочетания клавиш, и параметры управления питанием также довольно минималистичны.",мышь,SOFTWARE#DESIGN_FEATURES,negative,laptop,ru,test,153,18,0,96,positive,KEYBOARD#DESIGN_FEATURES
+"мышь и настройки трекпада очень минималистичны, нет возможности изменять сочетания клавиш, и параметры управления питанием также довольно минималистичны.",настройки трекпада,SOFTWARE#DESIGN_FEATURES,negative,laptop,ru,test,153,18,0,96,positive,KEYBOARD#GENERAL
+"мышь и настройки трекпада очень минималистичны, нет возможности изменять сочетания клавиш, и параметры управления питанием также довольно минималистичны.",параметры управления питанием,SOFTWARE#DESIGN_FEATURES,negative,laptop,ru,test,153,18,0,96,neutral,KEYBOARD#GENERAL
+"Я попробовал сбросить настройки до заводских после обновления os, но батарея все равно разрядилась на 9% за 8 часов.",os,OS#GENERAL,neutral,laptop,ru,test,116,19,1,72,positive,OS#OPERATION_PERFORMANCE
+"Сначала я колебался из-за цены, но должен сказать, что это, честно говоря, потрясающая машина.",,LAPTOP#PRICE,neutral,laptop,ru,test,94,14,1,52,positive,LAPTOP#GENERAL
+"что приводит меня к следующему пункту, вездесущим комментариям о том, что `` это похоже на компьютер за 1000 долларов! ``",,LAPTOP#PRICE,positive,laptop,ru,test,121,20,2,52,negative,LAPTOP#PRICE
+"и вот так я понял, что могу использовать свой рабочий стол студии где захочу и когда захочу.",рабочий стол студии,LAPTOP#GENERAL,neutral,laptop,ru,test,92,17,1,48,positive,LAPTOP#USABILITY
+"Я не виню продавца, я виню операционную систему Mac и ее глючность сервисы.",продавца,SUPPORT#GENERAL,neutral,laptop,ru,test,75,13,1,103,negative,SUPPORT#GENERAL
+"Я почти всегда держу его подключенным к сети, поэтому не могу ничего сказать по поводу времени работы батареи.",времени работы батареи,BATTERY#GENERAL,neutral,laptop,ru,test,110,18,1,1,positive,BATTERY#OPERATION_PERFORMANCE
+"после использования соотношения сторон 3:2, я думаю, что оно мне больше нравится, чем обычное соотношение 16:9, если говорить о хромбуках.",,DISPLAY#DESIGN_FEATURES,neutral,laptop,ru,test,138,20,1,13,positive,LAPTOP#GENERAL
+"надеюсь, через 10 лет они это разберутся и все будет не так плохо.",,LAPTOP#GENERAL,negative,laptop,ru,test,66,13,0,48,positive,LAPTOP#GENERAL
+"надеюсь, через 10 лет они это разберутся и все будет не так плохо.",,LAPTOP#GENERAL,negative,laptop,ru,test,66,13,0,48,positive,LAPTOP#GENERAL
+"еще одна звезда за поддержку приложения Android, которое просто не готово к прайм-тайму.",поддержку приложения Android,SOFTWARE#QUALITY,negative,laptop,ru,test,88,13,0,101,neutral,SOFTWARE#OPERATION_PERFORMANCE
+"Это немного дороговато для хромбука, но сейчас оно того стоит.",,LAPTOP#PRICE,negative,laptop,ru,test,62,10,0,52,positive,LAPTOP#GENERAL
+"В конце концов, я думаю, что это стоит дополнительных затрат, если вы ищете продукт премиум-класса.",,LAPTOP#GENERAL,positive,laptop,ru,test,99,15,2,48,negative,LAPTOP#PRICE
+Это мой второй (первый: Chromebook) и моей следующей покупкой будет Chromebase для замены моего домашнего ПК.,chromebook,LAPTOP#GENERAL,neutral,laptop,ru,test,109,16,1,48,positive,LAPTOP#GENERAL
+"время работы от батареи заявлено как 10 часов, но я обнаружил, что оно равно 7.",время работы от батареи,BATTERY#OPERATION_PERFORMANCE,negative,laptop,ru,test,79,15,0,2,positive,BATTERY#OPERATION_PERFORMANCE
+"Я пользовался им не менее 4 часов с момента последней зарядки, за это время он израсходовал 23%.",,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,ru,test,96,17,2,50,negative,LAPTOP#OPERATION_PERFORMANCE
+"Но инженеры Asus спроектировали корпус и ноутбук таким образом, чтобы пользователи не могли их открыть.",корпус,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,ru,test,103,15,0,50,positive,LAPTOP#QUALITY
+"Но инженеры Asus спроектировали корпус и ноутбук таким образом, чтобы пользователи не могли их открыть.",ноутбук,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,ru,test,103,15,0,50,positive,LAPTOP#DESIGN_FEATURES
+экран мигает на секунду каждые 30 секунд или около того.,экран,DISPLAY#OPERATION_PERFORMANCE,negative,laptop,ru,test,56,10,0,15,positive,DISPLAY#OPERATION_PERFORMANCE
+наконец-то получил гарантию спустя почти 6 месяцев.,гарантию,WARRANTY#GENERAL,negative,laptop,ru,test,51,7,0,107,positive,SUPPORT#GENERAL
+"К динамикам внизу нужно привыкнуть, но потом все нормально.",динамикам,MULTIMEDIA_DEVICES#GENERAL,neutral,laptop,ru,test,59,9,1,66,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"но я думаю, что на него процессор уходит много энергии, так что вы не можете получить ее всю.",процессор,CPU#OPERATION_PERFORMANCE,neutral,laptop,ru,test,93,18,1,11,negative,CPU#OPERATION_PERFORMANCE
+"использовал в том виде, в котором купил, он нормальный ноутбук, но не отличный (вероятно, соответствует 3 звездам).",ноутбук,LAPTOP#GENERAL,neutral,laptop,ru,test,115,17,1,48,positive,LAPTOP#GENERAL
+"использовал в том виде, в котором купил, он нормальный ноутбук, но не отличный (вероятно, соответствует 3 звездам).",ноутбук,LAPTOP#GENERAL,neutral,laptop,ru,test,115,17,1,48,positive,LAPTOP#GENERAL
+"когда он работает, он работает отлично.",,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,ru,test,39,6,0,50,positive,LAPTOP#OPERATION_PERFORMANCE
+"Он был совершенно новым, только что вынут из коробки, я его ни разу не ронял.",,LAPTOP#GENERAL,neutral,laptop,ru,test,77,15,1,48,positive,LAPTOP#DESIGN_FEATURES
+Я все еще храню его в качестве резервного или дополнительного ноутбук из-за его низкой цены.,ноутбук,LAPTOP#PRICE,positive,laptop,ru,test,92,15,2,52,negative,LAPTOP#PRICE
+Я уже начинаю привыкать к сочетаниям клавиш для нескольких пальцев на сенсорной панели при навигации в Chrome.,сенсорной панели,KEYBOARD#USABILITY,positive,laptop,ru,test,110,17,2,45,negative,DISPLAY#OPERATION_PERFORMANCE
+"подсветка сравнима, но мбп становится ярче.",подсветка,KEYBOARD#GENERAL,positive,laptop,ru,test,43,6,2,39,neutral,KEYBOARD#GENERAL
+"подсветка сравнима, но мбп становится ярче.",мбп,KEYBOARD#DESIGN_FEATURES,positive,laptop,ru,test,43,6,2,38,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+срок службы батареи все в порядке.,срок службы батареи,BATTERY#GENERAL,neutral,laptop,ru,test,34,6,1,1,positive,BATTERY#OPERATION_PERFORMANCE
+"Я очень близок к тому, чтобы просто вернуть его и никогда больше не покупать другой продукт Acer.",продукт Acer,LAPTOP#GENERAL,negative,laptop,ru,test,97,17,0,48,positive,LAPTOP#GENERAL
+он не поддерживает проводное соединение.,,LAPTOP#CONNECTIVITY,neutral,laptop,ru,test,40,5,1,46,negative,LAPTOP#OPERATION_PERFORMANCE
+это безумие для дорогой премии продукт.,продукт,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,ru,test,39,6,0,50,positive,LAPTOP#PRICE
+это безумие для дорогой премии продукт.,продукт,LAPTOP#PRICE,negative,laptop,ru,test,39,6,0,52,positive,LAPTOP#PRICE
+"У меня были вопросы и ответы по этому поводу Chromebook, в которых меня спрашивали, можно ли загрузить MS Office.",Chromebook,LAPTOP#USABILITY,neutral,laptop,ru,test,113,19,1,54,negative,LAPTOP#OPERATION_PERFORMANCE
+Процесс конвертации видео с тем же видеофайлом занял всего 25 минут с asus vivobook f510ua.,asus vivobook f510ua,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,ru,test,91,15,2,50,negative,LAPTOP#GENERAL
+я отдам им должное за качество сборки.,качество сборки,LAPTOP#QUALITY,negative,laptop,ru,test,38,7,0,53,positive,LAPTOP#QUALITY
+"Заказал у этого продавца MacBook Pro 13 дюймов 256 ГБ, и за исключением кнопки питания, клавиатуры и трекпада ничего не работало.",кнопки питания,HARDWARE#GENERAL,neutral,laptop,ru,test,129,21,1,27,negative,KEYBOARD#DESIGN_FEATURES
+"когда я попросил asus заменить ключ, они сказали, что мне придется отправить его им обратно, в результате чего я останусь без компьютера на 2 недели.",asus,SUPPORT#GENERAL,neutral,laptop,ru,test,149,25,1,103,negative,SUPPORT#GENERAL
+- новый мобильный процессор i5.,мобильный процессор i5,CPU#GENERAL,neutral,laptop,ru,test,31,5,1,10,positive,CPU#OPERATION_PERFORMANCE
+экран является средним по стандартам 2017 года.,экран,DISPLAY#QUALITY,neutral,laptop,ru,test,47,7,1,17,negative,DISPLAY#OPERATION_PERFORMANCE
+"Для меня это не имеет особого значения, так как mx150 вполне достаточно для моих нужд.",mx150,GRAPHICS#DESIGN_FEATURES,neutral,laptop,ru,test,86,15,1,22,positive,LAPTOP#GENERAL
+после месяца использования диск (c:) все время работает на 100%.,,HARD_DISC#OPERATION_PERFORMANCE,negative,laptop,ru,test,64,10,0,34,positive,LAPTOP#OPERATION_PERFORMANCE
+"этот продукт был фантастическим - - великолепным качество сборки, разрешение экрана, клавиатура - - пока однажды он не перестал включаться.",,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,ru,test,139,20,0,50,positive,LAPTOP#DESIGN_FEATURES
+"Мне нравится наличие кнопки включения охлаждения, но большую часть времени мне не приходится ею пользоваться, поскольку у меня есть охлаждающая подставка Thermaltake Auto Laptop Cooling Pad, которая следит за нижней поверхностью моего ноутбука.",охлаждающая подставка Thermaltake Auto Laptop Cooling Pad,FANS&COOLING#GENERAL,neutral,laptop,ru,test,244,33,1,19,negative,KEYBOARD#DESIGN_FEATURES
+"дешевый пластик, но производительность оправдывает эту сделку ради ноутбука за 500 долларов.",,LAPTOP#QUALITY,negative,laptop,ru,test,92,12,0,53,positive,LAPTOP#PRICE
+"Я отправил его в гарантия Asus, и теперь через неделю они отправляют его обратно, заявляя, что проблем не обнаружено.",гарантия Asus,SUPPORT#GENERAL,negative,laptop,ru,test,117,19,0,103,positive,SUPPORT#GENERAL
+"Это не мощная машина, я никогда не нагружал ее ею, ею она, вероятно, не справится с 20+ вкладками в нескольких окнах/рабочих столах, к которым я привык в Chrome на рабочем столе, но для 99% `` обычных людей `` это невероятно хороший ноутбук.",ею,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,ru,test,241,42,2,50,negative,LAPTOP#GENERAL
+"это первое впечатление, первый день использования",,LAPTOP#GENERAL,neutral,laptop,ru,test,49,6,1,48,positive,LAPTOP#GENERAL
+я никогда не куплю другой продукт asus.,продукт asus,COMPANY#GENERAL,negative,laptop,ru,test,39,7,0,5,positive,LAPTOP#GENERAL
+"это по-прежнему в основном функциональный компьютер, но его использование не самое лучшее.",компьютер,LAPTOP#GENERAL,neutral,laptop,ru,test,90,12,1,48,positive,LAPTOP#GENERAL
+"это по-прежнему в основном функциональный компьютер, но его использование не самое лучшее.",компьютер,LAPTOP#GENERAL,neutral,laptop,ru,test,90,12,1,48,positive,LAPTOP#GENERAL
+"Я уехал из страны, живу в Колумбии, и, возможно, не смогу вернуть эти ноутбук.",ноутбук,LAPTOP#GENERAL,neutral,laptop,ru,test,78,14,1,48,negative,LAPTOP#GENERAL
+"компьютер сам по себе неплох, вращение на 360 градусов и сенсорный экран кажутся хорошими.",компьютер,LAPTOP#GENERAL,neutral,laptop,ru,test,90,14,1,48,positive,LAPTOP#GENERAL
+"поэтому я решил установить свое любимое приложение для написания сценариев приложение Trelby, но обнаружил, что оно недоступно.",приложение для написания сценариев,SOFTWARE#GENERAL,positive,laptop,ru,test,127,17,2,97,negative,SOFTWARE#OPERATION_PERFORMANCE
+"отлично оборудование, однако после обновления я столкнулся с некоторыми неприятными проблемами Windows 10.",Windows 10,OS#GENERAL,positive,laptop,ru,test,106,13,2,72,negative,OS#OPERATION_PERFORMANCE
+"экран остается в любом положении, в котором вы его поместите, достаточно прочно, чтобы использовать сенсорный экран.",экран,DISPLAY#DESIGN_FEATURES,neutral,laptop,ru,test,116,16,1,13,positive,DISPLAY#DESIGN_FEATURES
+"mac отлично подходит, кроме чипа под ковриком для мыши.",чипа,KEYBOARD#DESIGN_FEATURES,negative,laptop,ru,test,55,9,0,38,neutral,KEYBOARD#GENERAL
+"Мой окончательный вердикт - это более-менее надежное устройство теперь, после 6 месяцев обновлений и задержек.",устройство,LAPTOP#GENERAL,negative,laptop,ru,test,110,15,0,48,positive,LAPTOP#OPERATION_PERFORMANCE
+"- динамики немного дребезжат (хотя громкость потрясающая), и на Chrome OS сейчас невозможно настроить эквалайзер : (",динамики,MULTIMEDIA_DEVICES#QUALITY,positive,laptop,ru,test,116,17,2,68,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"Chromebook похоже, это устройство, обзор которого вы делаете через несколько недель, и к тому времени, как с ним что-то случится и повлияет на его использование, замена будет стоить столько же или дешевле, вдвое мощнее и будет поставляться с установленной по умолчанию игрой `` Angry Birds ``.",Chromebook,LAPTOP#GENERAL,negative,laptop,ru,test,293,46,0,48,positive,LAPTOP#GENERAL
+"Теперь мне придется иметь дело с гарантийными вопросами, отправкой товара обратно и т. д.",гарантийными вопросами,WARRANTY#GENERAL,neutral,laptop,ru,test,89,14,1,107,negative,SUPPORT#GENERAL
+"Мой верный друг (ноутбук с Windows 7) был на последнем издыхании, и я решил попробовать что-то новое.",windows 7 laptop,LAPTOP#GENERAL,neutral,laptop,ru,test,101,17,1,48,negative,OS#OPERATION_PERFORMANCE
+"Недостаток в размерах они компенсируют высокой скоростью, долговечностью и энергоэффективностью.",,LAPTOP#DESIGN_FEATURES,negative,laptop,ru,test,96,10,0,47,positive,LAPTOP#OPERATION_PERFORMANCE
+"Это не шикарно, но это выгодно, быстро и без проблем.",,LAPTOP#DESIGN_FEATURES,neutral,laptop,ru,test,53,10,1,47,positive,restaurant prices
+в целом ноутбук дешевый и хлипкий.,ноутбук,LAPTOP#PRICE,positive,laptop,ru,test,34,6,2,52,negative,LAPTOP#DESIGN_FEATURES
+"отличная производительность, тихий и холодный процессор.",процессор,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,ru,test,56,6,2,50,negative,CPU#OPERATION_PERFORMANCE
+"отличная производительность, тихий и холодный процессор.",процессор,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,ru,test,56,6,2,50,negative,CPU#OPERATION_PERFORMANCE
+"отличная производительность, тихий и холодный процессор.",процессор,CPU#GENERAL,positive,laptop,ru,test,56,6,2,10,negative,CPU#OPERATION_PERFORMANCE
+"этот отзыв может быть отклонен, поскольку у меня отсутствует штамп `` подтвержденная покупка``, что справедливо.",подтвержденная покупка,SUPPORT#GENERAL,neutral,laptop,ru,test,112,15,1,103,positive,LAPTOP#GENERAL
+в ноутбуке это в лучшем случае посредственно.,ноутбуке,LAPTOP#GENERAL,neutral,laptop,ru,test,45,7,1,48,negative,LAPTOP#GENERAL
+"мой acer aspire e 15 отлично проработал день, а затем сам по себе выключился.",acer aspire,LAPTOP#GENERAL,positive,laptop,ru,test,77,14,2,48,negative,LAPTOP#OPERATION_PERFORMANCE
+"Прекрати то, что ты сейчас делаешь, и возьми это компьютер!",компьютер,LAPTOP#GENERAL,positive,laptop,ru,test,59,10,2,48,negative,LAPTOP#GENERAL
+"Я не покупал на Amazon, но не могу поверить, что эти ноутбуки имеют 5 звезд.",Amazon,COMPANY#GENERAL,negative,laptop,ru,test,76,15,0,5,positive,LAPTOP#GENERAL
+"Я не покупал на Amazon, но не могу поверить, что эти ноутбуки имеют 5 звезд.",ноутбуки,LAPTOP#GENERAL,negative,laptop,ru,test,76,15,0,48,positive,LAPTOP#GENERAL
+"во-первых, вариант использования: я много пишу по работе и использую Chromebook в качестве ежедневного устройства для заметок, обработки текстов, электронных таблиц и т. д.",Chromebook,LAPTOP#GENERAL,neutral,laptop,ru,test,172,24,1,48,positive,LAPTOP#GENERAL
+"Единственное слабое место этого ноутбука — это жесткий диск, который в нем идет, но, к счастью, этот ноутбук можно расширить — 2 слота для оперативной памяти и один слот M.",,LAPTOP#DESIGN_FEATURES,positive,laptop,ru,test,172,30,2,47,negative,LAPTOP#DESIGN_FEATURES
+"Единственное слабое место этого ноутбука — это жесткий диск, который в нем идет, но, к счастью, этот ноутбук можно расширить — 2 слота для оперативной памяти и один слот M.",,LAPTOP#DESIGN_FEATURES,positive,laptop,ru,test,172,30,2,47,negative,LAPTOP#DESIGN_FEATURES
+вилки бывают хорошие и плохие.,вилки,PORTS#GENERAL,neutral,laptop,ru,test,30,5,1,84,negative,ambience general
+"третий в порядке, но есть битый пиксель.",,LAPTOP#GENERAL,neutral,laptop,ru,test,40,7,1,48,negative,LAPTOP#GENERAL
+"отличный хромбук, но перестал заряжаться через 3 месяца.",хромбук,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,ru,test,56,8,0,50,positive,LAPTOP#GENERAL
+"Я имею в виду, если вам нужен настоящий планшет, купите настоящий планшет. Честно говоря, это удержало меня от покупки Kindle, как я планировал.",,LAPTOP#DESIGN_FEATURES,negative,laptop,ru,test,144,23,0,47,positive,LAPTOP#GENERAL
+"звук меня вполне устраивает, но не так хорошо, как внешние динамики.",внешние динамики,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,positive,laptop,ru,test,68,11,2,67,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+Я пользуюсь этим всего 3 месяца.,,LAPTOP#GENERAL,negative,laptop,ru,test,32,6,0,48,positive,LAPTOP#GENERAL
+"компьютер у нас уже 5 недель, мы использовали его в общей сложности менее 20 часов, а теперь его не будет в течение 3 недель.",компьютер,LAPTOP#GENERAL,neutral,laptop,ru,test,125,24,1,48,negative,LAPTOP#GENERAL
+аккумулятор Мне хватает примерно на 5 или 6 часов работы в Интернете с несколькими вкладками.,аккумулятор,BATTERY#OPERATION_PERFORMANCE,neutral,laptop,ru,test,93,15,1,2,positive,BATTERY#OPERATION_PERFORMANCE
+"Люди, которые жалуются, что Chromebook бесполезен без доступа в Интернет, явно имеют ограниченный кругозор и просто не умеют мыслить нестандартно.",доступа в Интернет,PORTS#GENERAL,positive,laptop,ru,test,146,20,2,84,negative,SOFTWARE#OPERATION_PERFORMANCE
+"он запускается, работает без проблем.",запускается,OS#OPERATION_PERFORMANCE,neutral,laptop,ru,test,37,5,1,74,positive,LAPTOP#OPERATION_PERFORMANCE
+это не более чем приемлемый ноутбук для выполнения основных рабочих задач.,ноутбук,LAPTOP#GENERAL,positive,laptop,ru,test,74,11,2,48,negative,LAPTOP#GENERAL
+"вы можете почувствовать изгиб пластика, если возьмете ноутбук одной рукой.",ноутбук,LAPTOP#DESIGN_FEATURES,negative,laptop,ru,test,74,10,0,47,positive,LAPTOP#DESIGN_FEATURES
+"в описании продавца говорится, что товар был `` протестирован и полностью функционален ``, но на самом деле это не так.",продавца,SUPPORT#GENERAL,negative,laptop,ru,test,119,20,0,103,positive,LAPTOP#QUALITY
+"Я до сих пор в полном шоке, как Apple, предполагаемый лидер отрасли, имеет такую ужасающую функциональность.",Apple,COMPANY#GENERAL,negative,laptop,ru,test,108,16,0,5,positive,SOFTWARE#OPERATION_PERFORMANCE
+"Поначалу я немного нервничал, так как система в течение первых нескольких недель работала с перебоями, но, похоже, это была проблема с Chrome OS, но она была исправлена в следующем обновлении.",система,OS#USABILITY,neutral,laptop,ru,test,192,30,1,77,negative,SOFTWARE#OPERATION_PERFORMANCE
+"Поначалу я немного нервничал, так как система в течение первых нескольких недель работала с перебоями, но, похоже, это была проблема с Chrome OS, но она была исправлена в следующем обновлении.",Chrome OS,OS#QUALITY,negative,laptop,ru,test,192,30,0,76,positive,OS#OPERATION_PERFORMANCE
+- он горячий!,,LAPTOP#QUALITY,negative,laptop,ru,test,13,3,0,53,positive,food quality
+"der klang ist satt und laut genug, ersetzt aber nicht Ihre Musikanlage.",klang,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,negative,laptop,de,test,71,12,0,67,positive,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"der klang ist satt und laut genug, ersetzt aber nicht Ihre Musikanlage.",klang,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,negative,laptop,de,test,71,12,0,67,positive,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"Die Einstellungen für Maus und Trackpad sind sehr minimalistisch, es gibt keine Möglichkeit, Tastenkombinationen zu ändern, und die Optionen für Energieverwaltung sind auch ziemlich minimal.",Maus,SOFTWARE#DESIGN_FEATURES,negative,laptop,de,test,190,25,0,96,positive,KEYBOARD#DESIGN_FEATURES
+"Die Einstellungen für Maus und Trackpad sind sehr minimalistisch, es gibt keine Möglichkeit, Tastenkombinationen zu ändern, und die Optionen für Energieverwaltung sind auch ziemlich minimal.",Trackpad,SOFTWARE#DESIGN_FEATURES,negative,laptop,de,test,190,25,0,96,neutral,KEYBOARD#DESIGN_FEATURES
+"ich habe versucht, nach der Aktualisierung os einen Werksreset durchzuführen, aber der Akku hat innerhalb von 8 Stunden immer noch 9 % verbraucht.",os,OS#GENERAL,neutral,laptop,de,test,146,23,1,72,positive,OS#OPERATION_PERFORMANCE
+"ich war wegen des Preises zunächst skeptisch, muss aber sagen, dass dies wirklich eine erstaunliche Maschine ist.",,LAPTOP#PRICE,neutral,laptop,de,test,113,17,1,52,positive,LAPTOP#PRICE
+"was mich zu meinem nächsten Punkt bringt, den allgegenwärtigen Kommentaren wie „das fühlt sich an wie ein 1000-Dollar-Computer!“",,LAPTOP#PRICE,positive,laptop,de,test,128,18,2,52,negative,LAPTOP#GENERAL
+"und einfach so wurde mir klar, dass ich meinen Studio-Desktop verwenden kann, wo und wann ich will.",Studio-Desktop,LAPTOP#GENERAL,neutral,laptop,de,test,99,17,1,48,positive,LAPTOP#USABILITY
+"ich gebe nicht dem Verkäufer die Schuld, ich gebe dem Betriebssystem von Mac und seinen fehlerhaften Diensten die Schuld.",dem Verkäufer,SUPPORT#GENERAL,neutral,laptop,de,test,121,19,1,103,negative,SUPPORT#GENERAL
+"ich lasse es fast immer eingesteckt, also kann ich zu Akkulaufzeit nichts sagen.",Akkulaufzeit,BATTERY#GENERAL,neutral,laptop,de,test,80,13,1,1,positive,BATTERY#OPERATION_PERFORMANCE
+"nachdem ich das Seitenverhältnis 3:2 verwendet habe, ziehe ich es, was Chromebooks betrifft, dem normalen 16:9 vor.",,DISPLAY#DESIGN_FEATURES,neutral,laptop,de,test,115,17,1,13,positive,DISPLAY#DESIGN_FEATURES
+"Force Touch Trackpad, echt geil.",Trackpad,KEYBOARD#GENERAL,positive,laptop,de,test,32,5,2,39,negative,KEYBOARD#DESIGN_FEATURES
+"Sofern die App nicht speziell für den Zugriff auf Google Drive-Dateien konzipiert ist, hat die App keine Möglichkeit, Dateien direkt in der Cloud zu lesen und zu speichern.",App,SOFTWARE#DESIGN_FEATURES,negative,laptop,de,test,172,28,0,96,neutral,SOFTWARE#OPERATION_PERFORMANCE
+"Sofern die App nicht speziell für den Zugriff auf Google Drive-Dateien konzipiert ist, hat die App keine Möglichkeit, Dateien direkt in der Cloud zu lesen und zu speichern.",,SOFTWARE#DESIGN_FEATURES,negative,laptop,de,test,172,28,0,96,neutral,SOFTWARE#OPERATION_PERFORMANCE
+"es ist ein bisschen teuer für ein Chromebook, aber im Moment lohnt es sich.",,LAPTOP#PRICE,negative,laptop,de,test,75,14,0,52,positive,LAPTOP#PRICE
+"dies ist mein zweites Chromebook und mein nächster Kauf wird eine Chromebase sein, um meinen Heim-PC zu ersetzen.",Chromebook,LAPTOP#GENERAL,neutral,laptop,de,test,113,18,1,48,positive,LAPTOP#GENERAL
+"Die Akkulaufzeit wird mit 10 Stunden angepriesen, aber ich finde, dass 7 .",Akkulaufzeit,BATTERY#OPERATION_PERFORMANCE,negative,laptop,de,test,74,13,0,2,positive,BATTERY#OPERATION_PERFORMANCE
+"ich habe es seit dem letzten Aufladen mindestens 4 Stunden lang benutzt, also sind 23 % verbraucht.",,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,de,test,99,17,2,50,negative,LAPTOP#OPERATION_PERFORMANCE
+nach fast 6 Monaten wurde mir endlich die Garantie zuerkannt.,Garantie,WARRANTY#GENERAL,negative,laptop,de,test,61,10,0,107,positive,SUPPORT#GENERAL
+"Die Lautsprecher auf der Unterseite sind etwas gewöhnungsbedürftig, aber danach ist es ok.",Lautsprecher,MULTIMEDIA_DEVICES#GENERAL,neutral,laptop,de,test,90,13,1,66,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"aber ich schätze , der ( 1 ) Prozessor benötigt eine Menge Leistung , man kann also nicht alles haben .",Prozessor,CPU#OPERATION_PERFORMANCE,neutral,laptop,de,test,103,21,1,11,negative,CPU#OPERATION_PERFORMANCE
+"Bei all den tollen technischen Daten Hardware Eigenschaften dieses Laptops, warum würden Sie eine 5400 U/min Festplatte in dieses Gerät einbauen?",Festplatte,HARD_DISC#GENERAL,negative,laptop,de,test,145,21,0,32,positive,CPU#OPERATION_PERFORMANCE
+"Gebraucht, wie gekauft, ist es ok Laptop, aber nicht großartig (wahrscheinlich ein 3-Sterne-Wert).",Laptop,LAPTOP#GENERAL,neutral,laptop,de,test,98,13,1,48,positive,LAPTOP#GENERAL
+"Gebraucht, wie gekauft, ist es ok Laptop, aber nicht großartig (wahrscheinlich ein 3-Sterne-Wert).",Laptop,LAPTOP#GENERAL,neutral,laptop,de,test,98,13,1,48,positive,LAPTOP#GENERAL
+"wenn es funktioniert, funktioniert es großartig.",,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,de,test,48,6,0,50,positive,LAPTOP#OPERATION_PERFORMANCE
+"es war brandneu aus der Verpackung, ich habe es nie fallen lassen.",,LAPTOP#GENERAL,neutral,laptop,de,test,66,12,1,48,positive,LAPTOP#QUALITY
+"ich gewöhne mich sehr an die Mehrfinger-Tastenkombinationen auf dem Touchpad, wenn ich in Chrome navigiere.",Touchpad,KEYBOARD#USABILITY,positive,laptop,de,test,107,15,2,45,negative,KEYBOARD#DESIGN_FEATURES
+"es wird kaputt gehen, auch wenn es zunächst funktioniert.",,LAPTOP#QUALITY,negative,laptop,de,test,57,9,0,53,positive,LAPTOP#OPERATION_PERFORMANCE
+"die Hintergrundbeleuchtung ist vergleichbar, aber die mbp wird heller.",Hintergrundbeleuchtung,KEYBOARD#GENERAL,positive,laptop,de,test,70,9,2,39,neutral,MULTIMEDIA_DEVICES#GENERAL
+"die Hintergrundbeleuchtung ist vergleichbar, aber die mbp wird heller.",mbp,KEYBOARD#DESIGN_FEATURES,positive,laptop,de,test,70,9,2,38,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+Akkulaufzeit es ist ok.,Akkulaufzeit,BATTERY#GENERAL,neutral,laptop,de,test,23,4,1,1,positive,BATTERY#OPERATION_PERFORMANCE
+"ich bin kurz davor, es einfach zurückzugeben und nie wieder ein anderes Acer-Produkt zu kaufen.",Acer-Produkt,LAPTOP#GENERAL,negative,laptop,de,test,95,15,0,48,neutral,LAPTOP#GENERAL
+eine kabelgebundene Verbindung wird nicht unterstützt.,,LAPTOP#CONNECTIVITY,neutral,laptop,de,test,54,6,1,46,negative,POWER_SUPPLY#OPERATION_PERFORMANCE
+es hat keine Tastatur mit Hintergrundbeleuchtung: (Das Tippen bei schwachem Licht ist so mühsam.,Tastatur mit Hintergrundbeleuchtung,KEYBOARD#DESIGN_FEATURES,negative,laptop,de,test,96,14,0,38,neutral,KEYBOARD#DESIGN_FEATURES
+"ich habe Fragen und Antworten hierzu Chromebook bekommen, ob MS Office heruntergeladen wird.",Chromebook,LAPTOP#USABILITY,neutral,laptop,de,test,92,13,1,54,negative,LAPTOP#OPERATION_PERFORMANCE
+Der Videokonvertierungsprozess mit derselben Videodatei dauerte mit Asus Vivobook F510UA nur 25 Minuten.,Asus Vivobook F510UA,LAPTOP#OPERATION_PERFORMANCE,positive,laptop,de,test,104,13,2,50,negative,LAPTOP#GENERAL
+ich gebe ihnen Lob für die Verarbeitungsqualität.,Verarbeitungsqualität,LAPTOP#QUALITY,negative,laptop,de,test,49,7,0,53,positive,LAPTOP#QUALITY
+habe bei diesem Verkäufer ein MacBook Pro 13 Zoll mit 256 GB bestellt und mit Ausnahme des Einschaltknopfs funktionierten die Tastatur und das Trackpad nicht.,Einschaltknopfs,HARDWARE#GENERAL,neutral,laptop,de,test,158,25,1,27,negative,KEYBOARD#DESIGN_FEATURES
+"als ich Asus nach einem Ersatzschlüssel fragte, sagten sie, ich müsste ihn an sie zurückschicken, wodurch ich zwei Wochen lang ohne Computer gewesen wäre.",Asus,SUPPORT#GENERAL,neutral,laptop,de,test,154,24,1,103,negative,SUPPORT#GENERAL
+"Lautsprecher: gut Lautsprecher, aber nicht die lautesten.",,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,positive,laptop,de,test,57,7,2,67,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+- neu i5 Mobilprozessor.,i5 Mobilprozessor,CPU#GENERAL,neutral,laptop,de,test,24,4,1,10,positive,CPU#OPERATION_PERFORMANCE
+Bildschirm ist für 2017er-Verhältnisse durchschnittlich.,Bildschirm,DISPLAY#QUALITY,neutral,laptop,de,test,56,5,1,17,positive,DISPLAY#OPERATION_PERFORMANCE
+"das ist mir eigentlich egal, da für meine Zwecke das mx150 völlig ausreicht.",mx150,GRAPHICS#DESIGN_FEATURES,neutral,laptop,de,test,76,13,1,22,positive,LAPTOP#GENERAL
+nach einem Monat Nutzung läuft die Festplatte (c:) immer zu 100 %.,,HARD_DISC#OPERATION_PERFORMANCE,negative,laptop,de,test,66,12,0,34,positive,LAPTOP#OPERATION_PERFORMANCE
+"dieses Produkt war fantastisch – tolle Verarbeitungsqualität, Bildschirmauflösung, Tastatur – bis es sich eines Tages nicht mehr einschalten ließ.",,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,de,test,146,19,0,50,positive,LAPTOP#DESIGN_FEATURES
+"billig hergestellter Kunststoff, aber die Leistung ist den Preis für einen 500-Dollar-Laptop durchaus wert.",,LAPTOP#QUALITY,negative,laptop,de,test,107,14,0,53,positive,LAPTOP#PRICE
+"Tastatur und Mauspad scheinen in Ordnung zu sein, aber insgesamt kommt es mir seltsam langsam vor.",Tastatur,KEYBOARD#DESIGN_FEATURES,positive,laptop,de,test,98,16,2,38,negative,KEYBOARD#DESIGN_FEATURES
+"Tastatur und Mauspad scheinen in Ordnung zu sein, aber insgesamt kommt es mir seltsam langsam vor.",Mauspad,KEYBOARD#DESIGN_FEATURES,positive,laptop,de,test,98,16,2,38,negative,KEYBOARD#DESIGN_FEATURES
+"das ist der erste Eindruck, der erste Tag der Nutzung",,LAPTOP#GENERAL,neutral,laptop,de,test,53,10,1,48,positive,LAPTOP#GENERAL
+ich werde nie ein anderes Asus-Produkt kaufen.,Asus-Produkt,COMPANY#GENERAL,negative,laptop,de,test,46,7,0,5,positive,LAPTOP#GENERAL
+"es ist immer noch ein hauptsächlich funktionsfähiger computer, aber die nutzung ist einfach nicht die beste.",computer,LAPTOP#GENERAL,neutral,laptop,de,test,108,16,1,48,positive,LAPTOP#GENERAL
+"es ist immer noch ein hauptsächlich funktionsfähiger computer, aber die nutzung ist einfach nicht die beste.",computer,LAPTOP#GENERAL,neutral,laptop,de,test,108,16,1,48,positive,LAPTOP#GENERAL
+"ich bin nicht in den USA, ich lebe in Kolumbien, und vielleicht kann ich diese Laptop nicht zurückgeben.",Laptop,LAPTOP#GENERAL,neutral,laptop,de,test,104,18,1,48,negative,LAPTOP#GENERAL
+"Der Computer selbst ist nicht schlecht, die 360-Grad-Drehung und Touchscreen fühlen sich gut an.",Computer,LAPTOP#GENERAL,neutral,laptop,de,test,96,14,1,48,positive,LAPTOP#GENERAL
+"also wollte ich meine Lieblings-App Drehbuch-App, Trelby, installieren, musste jedoch feststellen, dass sie nicht verfügbar ist.",Drehbuch-App,SOFTWARE#GENERAL,positive,laptop,de,test,128,16,2,97,negative,SOFTWARE#OPERATION_PERFORMANCE
+habe das letztes Jahr im Juli gekauft.,,LAPTOP#GENERAL,neutral,laptop,de,test,38,7,1,48,negative,LAPTOP#GENERAL
+"ausgezeichnet Hardware, allerdings hatte ich nach dem Update einige schlimme Probleme Windows 10.",Windows 10,OS#GENERAL,positive,laptop,de,test,97,13,2,72,negative,OS#OPERATION_PERFORMANCE
+"Bildschirm bleibt in der Position, in der Sie es platzieren, und ist fest genug, um den Touchscreen Bildschirm zu verwenden.",Bildschirm,DISPLAY#DESIGN_FEATURES,neutral,laptop,de,test,124,20,1,13,positive,DISPLAY#DESIGN_FEATURES
+"der Mac ist super, außerdem gibt es unter dem Mauspad einen Chip.",Chip,KEYBOARD#DESIGN_FEATURES,negative,laptop,de,test,65,12,0,38,positive,KEYBOARD#GENERAL
+"mein abschließendes Urteil – es ist als Gerät einigermaßen solide, nachdem nun 6 Monate voller Updates und Verzögerungen hinter uns liegen.",Gerät,LAPTOP#GENERAL,negative,laptop,de,test,139,21,0,48,positive,LAPTOP#GENERAL
+"- Lautsprecher klingen ein wenig blechern (obwohl die Lautstärke super ist) und es ist derzeit nicht möglich, den Equalizer auf Chrome OS anzupassen : (",Lautsprecher,MULTIMEDIA_DEVICES#QUALITY,positive,laptop,de,test,152,25,2,68,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"Chromebook scheint die Art von Gerät zu sein, das man nach ein paar Wochen bewertet, und bis irgendetwas passiert, das die Nutzung beeinträchtigt, ist das Ersatzgerät genauso gut oder billiger, doppelt so leistungsfähig und mit der standardmäßig vorinstallierten Software „Angry Birds“ ausgestattet.",Chromebook,LAPTOP#GENERAL,negative,laptop,de,test,299,42,0,48,positive,LAPTOP#GENERAL
+jetzt muss ich mich mit Garantiekram und der Rücksendung usw. befassen.,Garantiekram,WARRANTY#GENERAL,neutral,laptop,de,test,71,11,1,107,positive,SUPPORT#GENERAL
+"mein zuverlässiges Windows 7-Laptop war auf dem letzten Loch und ich beschloss, etwas Neues auszuprobieren.",Windows 7-Laptop,LAPTOP#GENERAL,neutral,laptop,de,test,107,15,1,48,negative,SOFTWARE#OPERATION_PERFORMANCE
+"was ihnen an Größe fehlt, machen sie durch Geschwindigkeit, Haltbarkeit und Energieeffizienz wett.",,LAPTOP#DESIGN_FEATURES,negative,laptop,de,test,98,13,0,47,positive,LAPTOP#OPERATION_PERFORMANCE
+"es ist nichts Besonderes, aber es bietet sein Geld und ist schnell und problemlos.",,LAPTOP#DESIGN_FEATURES,neutral,laptop,de,test,82,14,1,47,positive,LAPTOP#OPERATION_PERFORMANCE
+"jetzt habe ich ein schlechtes Gewissen, weil ich das für mein Kind gekauft habe, da dieses Laptop anderswo eine gute Bewertung zu haben scheint.",Laptop,LAPTOP#GENERAL,negative,laptop,de,test,144,24,0,48,neutral,LAPTOP#GENERAL
+"jetzt habe ich ein schlechtes Gewissen, weil ich das für mein Kind gekauft habe, da dieses Laptop anderswo eine gute Bewertung zu haben scheint.",Laptop,LAPTOP#GENERAL,negative,laptop,de,test,144,24,0,48,neutral,LAPTOP#GENERAL
+insgesamt ist der Laptop billig und wackelig.,Laptop,LAPTOP#PRICE,positive,laptop,de,test,45,7,2,52,negative,LAPTOP#PRICE
+"diese Rezension wird möglicherweise abgewiesen, da mir der Stempel „Verifizierter Kauf“ fehlt, was fair ist.",Verifizierter Kauf,SUPPORT#GENERAL,neutral,laptop,de,test,108,15,1,103,negative,LAPTOP#GENERAL
+in Laptop-Form ist es bestenfalls mittelmäßig.,Laptop-Form,LAPTOP#GENERAL,neutral,laptop,de,test,46,6,1,48,negative,LAPTOP#GENERAL
+mein Acer Aspire E 15 funktionierte einen Tag lang einwandfrei und schaltete sich dann von selbst ab.,Acer Aspire,LAPTOP#GENERAL,negative,laptop,de,test,101,17,0,48,positive,LAPTOP#OPERATION_PERFORMANCE
+"daran ist nichts ""Pro"" Tablet.",Tablet,LAPTOP#GENERAL,negative,laptop,de,test,30,5,0,48,positive,LAPTOP#GENERAL
+2 USB-Anschlüsse und 2 Thunderbolt-Anschlüsse auf einem 4.500 NZ-Dollar-Laptop?,USB-Anschlüsse,PORTS#GENERAL,negative,laptop,de,test,79,9,0,84,neutral,CPU#OPERATION_PERFORMANCE
+2 USB-Anschlüsse und 2 Thunderbolt-Anschlüsse auf einem 4.500 NZ-Dollar-Laptop?,Thunderbolt-Anschlüsse,PORTS#GENERAL,negative,laptop,de,test,79,9,0,84,positive,CPU#OPERATION_PERFORMANCE
+"habe nicht bei Amazon gekauft, aber ich kann nicht glauben, dass diese Laptops 5 Sterne haben.",Amazon,COMPANY#GENERAL,negative,laptop,de,test,94,16,0,5,positive,SUPPORT#GENERAL
+"habe nicht bei Amazon gekauft, aber ich kann nicht glauben, dass diese Laptops 5 Sterne haben.",Laptops,LAPTOP#GENERAL,negative,laptop,de,test,94,16,0,48,positive,LAPTOP#GENERAL
+"Erstens der Anwendungsfall: Ich schreibe viel für die Arbeit und verwende ein Chromebook als mein tägliches Arbeitsgerät für Notizen, Textverarbeitung, Tabellenkalkulationen usw.",Chromebook,LAPTOP#GENERAL,neutral,laptop,de,test,178,22,1,48,positive,LAPTOP#GENERAL
+"Die einzige Schwachstelle des Laptops ist die mitgelieferte Festplatte, aber glücklicherweise ist dieser Laptop erweiterbar – 2 RAM-Steckplätze und ein M.",,LAPTOP#DESIGN_FEATURES,positive,laptop,de,test,154,21,2,47,negative,LAPTOP#OPERATION_PERFORMANCE
+"Die einzige Schwachstelle des Laptops ist die mitgelieferte Festplatte, aber glücklicherweise ist dieser Laptop erweiterbar – 2 RAM-Steckplätze und ein M.",,LAPTOP#DESIGN_FEATURES,positive,laptop,de,test,154,21,2,47,negative,LAPTOP#OPERATION_PERFORMANCE
+die Stecker sind gut und schlecht.,Stecker,PORTS#GENERAL,neutral,laptop,de,test,34,6,1,84,negative,food quality
+Tastatur und Trackpad ganz nach links geschoben.,Trackpad,KEYBOARD#OPERATION_PERFORMANCE,negative,laptop,de,test,48,7,0,41,neutral,KEYBOARD#DESIGN_FEATURES
+"Das dritte ist ok, hat aber einen toten Pixel.",,LAPTOP#GENERAL,neutral,laptop,de,test,46,9,1,48,negative,LAPTOP#GENERAL
+"ein tolles Chromebook, aber es ließ sich nach 3 Monaten nicht mehr aufladen.",Chromebook,LAPTOP#OPERATION_PERFORMANCE,negative,laptop,de,test,76,13,0,50,positive,LAPTOP#GENERAL
+"der Ton ist für mich in Ordnung, aber nicht so gut wie externe Lautsprecher.",Ton,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,positive,laptop,de,test,76,14,2,67,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"der Ton ist für mich in Ordnung, aber nicht so gut wie externe Lautsprecher.",externe Lautsprecher,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE,positive,laptop,de,test,76,14,2,67,negative,MULTIMEDIA_DEVICES#OPERATION_PERFORMANCE
+"wir haben den computer seit 5 wochen, haben ihn insgesamt weniger als 20 stunden benutzt und jetzt ist er für 3 wochen weg.",computer,LAPTOP#GENERAL,neutral,laptop,de,test,123,23,1,48,negative,LAPTOP#GENERAL
+Akku Die Laufzeit beträgt bei mir allein bei Internetnutzung mit mehreren Tabs etwa 5 bis 6 Stunden.,Akku,BATTERY#OPERATION_PERFORMANCE,neutral,laptop,de,test,100,17,1,2,positive,BATTERY#OPERATION_PERFORMANCE
+"Leute, die sich beschweren, dass Chromebooks ohne Internetzugang nutzlos sind, sind eindeutig engstirnig und denken einfach nicht über den Tellerrand hinaus.",Internetzugang,PORTS#GENERAL,positive,laptop,de,test,157,21,2,84,negative,SOFTWARE#OPERATION_PERFORMANCE
+"es startet, läuft ohne Probleme.",startet,OS#OPERATION_PERFORMANCE,neutral,laptop,de,test,32,5,1,74,positive,LAPTOP#OPERATION_PERFORMANCE
+"In der Beschreibung des Verkäufers steht, dass es „getestet und voll funktionsfähig“ sei, was jedoch nicht der Fall war.",Verkäufers,SUPPORT#GENERAL,negative,laptop,de,test,120,19,0,103,positive,LAPTOP#QUALITY
+"ich bin immer noch völlig verblüfft, dass Apple, ein angeblicher Branchenführer, über eine so schreckliche Funktionalität verfügen kann.",Apple,COMPANY#GENERAL,negative,laptop,de,test,136,18,0,5,positive,COMPANY#GENERAL
+"ich war anfangs etwas nervös, da das System in den ersten paar Wochen einige Störungen hatte, es schien ein Problem mit Chrome OS zu sein, da es mit dem nächsten Update behoben wurde.",System,OS#USABILITY,neutral,laptop,de,test,183,33,1,77,negative,SOFTWARE#OPERATION_PERFORMANCE
